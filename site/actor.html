@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>演员剧目场次 · 音乐剧演员同场统计</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&family=Inter:wght@500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <nav class="site-nav" aria-label="页面导航">
+      <a href="./" class="site-nav__link">同场统计</a>
+      <a href="./actor.html" class="site-nav__link site-nav__link--active" aria-current="page">演员剧目场次</a>
+    </nav>
+
+    <section class="hero">
+      <h1>演员剧目场次</h1>
+      <p>输入 1 位演员，查看 TA 参演过的所有剧目、每部戏的场次数、以及每一场的时间 / 剧场 / 城市 / 角色。剧目默认按场次数从多到少排列。</p>
+      <div class="hero__meta">
+        <span id="coverageText">正在读取数据…</span>
+        <span id="showCountText">—</span>
+        <span id="updateText">GitHub Pages 每日自动更新</span>
+      </div>
+    </section>
+
+    <section class="query-card" aria-label="演员查询区">
+      <div class="query-grid query-grid--single">
+        <label>
+          <span>演员</span>
+          <input id="actor" list="artistList" placeholder="例如：阿云嘎" autocomplete="off" />
+        </label>
+      </div>
+      <datalist id="artistList"></datalist>
+      <div class="actions">
+        <button id="searchBtn" type="button">查询剧目与场次</button>
+        <button id="clearBtn" type="button" class="secondary">清空</button>
+      </div>
+      <p class="hint">支持精确姓名，也支持在输入框候选中点击补全。URL 上带 <code>?actor=阿云嘎</code> 可直接查询。</p>
+      <div id="status" class="status" role="status"></div>
+    </section>
+
+    <section id="resultPanel" class="result-panel hidden" aria-live="polite">
+      <div class="summary-card">
+        <div>
+          <p class="eyebrow">演员概览</p>
+          <h2 id="actorName">—</h2>
+          <p id="actorSummary">—</p>
+        </div>
+        <div class="summary-stats">
+          <div><strong id="totalShowCount">0</strong><span>总场次</span></div>
+          <div><strong id="musicalCount">0</strong><span>剧目数</span></div>
+          <div><strong id="dateRange">—</strong><span>时间跨度</span></div>
+        </div>
+      </div>
+
+      <div id="musicalList" class="musical-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>数据来源与主页面一致：GitHub Actions 会每天自动生成最新快照并发布到 GitHub Pages。</p>
+  </footer>
+
+  <script src="actor.js"></script>
+</body>
+</html>

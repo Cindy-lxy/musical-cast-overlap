@@ -1,0 +1,5301 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2025,
+    "note": "2025 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2025-01-01 14:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19719/cast/",
+      "cast": [
+        {
+          "role": "李月圆",
+          "artist": "孙乐仟"
+        },
+        {
+          "role": "月娃",
+          "artist": "王珏语涵"
+        },
+        {
+          "role": "辛辰",
+          "artist": "陈玉婷"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-01 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵凡嘉"
+        },
+        {
+          "role": "",
+          "artist": "遇泓羊"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-01 19:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19720/cast/",
+      "cast": [
+        {
+          "role": "辛辰",
+          "artist": "胥子含"
+        },
+        {
+          "role": "李月圆",
+          "artist": "杜钇樵"
+        },
+        {
+          "role": "月娃",
+          "artist": "王珏语涵"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-04 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        },
+        {
+          "role": "",
+          "artist": "罗玉玲"
+        },
+        {
+          "role": "",
+          "artist": "曹蘅"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-04 19:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19721/cast/",
+      "cast": [
+        {
+          "role": "李月圆",
+          "artist": "杜钇樵"
+        },
+        {
+          "role": "月娃",
+          "artist": "王珏语涵"
+        },
+        {
+          "role": "辛辰",
+          "artist": "王允宸"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-05 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "高雨晨"
+        },
+        {
+          "role": "",
+          "artist": "遇泓羊"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-10 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "高雨晨"
+        },
+        {
+          "role": "",
+          "artist": "倪晔"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-10 19:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19722/cast/",
+      "cast": [
+        {
+          "role": "月娃",
+          "artist": "许诗翊"
+        },
+        {
+          "role": "辛辰",
+          "artist": "左一平"
+        },
+        {
+          "role": "李月圆",
+          "artist": "易群"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-11 14:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19723/cast/",
+      "cast": [
+        {
+          "role": "李月圆",
+          "artist": "范可妮"
+        },
+        {
+          "role": "月娃",
+          "artist": "许诗翊"
+        },
+        {
+          "role": "辛辰",
+          "artist": "谢安然"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-12 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "王敏辉"
+        },
+        {
+          "role": "",
+          "artist": "遇泓羊"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-17 19:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19724/cast/",
+      "cast": [
+        {
+          "role": "辛辰",
+          "artist": "易群"
+        },
+        {
+          "role": "李月圆",
+          "artist": "孙乐仟"
+        },
+        {
+          "role": "月娃",
+          "artist": "王珏语涵"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-18 14:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19725/cast/",
+      "cast": [
+        {
+          "role": "辛辰",
+          "artist": "左一平"
+        },
+        {
+          "role": "李月圆",
+          "artist": "庞雪倩"
+        },
+        {
+          "role": "月娃",
+          "artist": "牟潇钰"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-19 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵凡嘉"
+        },
+        {
+          "role": "",
+          "artist": "祝颂皓"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-21 19:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19726/cast/",
+      "cast": [
+        {
+          "role": "辛辰",
+          "artist": "胥子含"
+        },
+        {
+          "role": "李月圆",
+          "artist": "张沁丹"
+        },
+        {
+          "role": "月娃",
+          "artist": "钟嘉媚"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-22 19:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19727/cast/",
+      "cast": [
+        {
+          "role": "李月圆",
+          "artist": "孙乐仟"
+        },
+        {
+          "role": "月娃",
+          "artist": "王珏语涵"
+        },
+        {
+          "role": "辛辰",
+          "artist": "陈玉婷"
+        }
+      ]
+    },
+    {
+      "time": "2025-01-23 19:30",
+      "city": "上海",
+      "musical": "诗与星",
+      "theatre": "星空间407号·她剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/19728/cast/",
+      "cast": [
+        {
+          "role": "李月圆",
+          "artist": "杜钇樵"
+        },
+        {
+          "role": "月娃",
+          "artist": "王珏语涵"
+        },
+        {
+          "role": "辛辰",
+          "artist": "左一平"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-07 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵凡嘉"
+        },
+        {
+          "role": "",
+          "artist": "翟松"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-12 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-12 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-13 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-13 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-14 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-14 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "邵立君"
+        },
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-15 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-15 14:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-15 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-15 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "邵立君"
+        },
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-16 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-16 14:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-16 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-16 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-19 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-19 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "高雨晨"
+        },
+        {
+          "role": "",
+          "artist": "倪晔"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-20 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-20 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-21 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "王敏辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-21 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "王敏辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-21 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "相征"
+        },
+        {
+          "role": "",
+          "artist": "孙乐仟"
+        },
+        {
+          "role": "",
+          "artist": "严小北"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-22 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-22 14:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "邵立君"
+        },
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-22 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-23 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "王敏辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-23 14:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "王敏辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-23 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "徐泽辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-23 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "徐泽辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-23 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        },
+        {
+          "role": "",
+          "artist": "邓贤凌"
+        },
+        {
+          "role": "",
+          "artist": "赵雨卉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-25 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-26 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "王敏辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-26 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "高雨晨"
+        },
+        {
+          "role": "",
+          "artist": "祝颂皓"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-27 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-27 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "邵立君"
+        },
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-28 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-02-28 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-01 14:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "王敏辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-01 19:30",
+      "city": "上海",
+      "musical": "LIZZIE丽兹",
+      "theatre": "星空间11号·MOriginal Box",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/36426536/",
+      "cast": [
+        {
+          "role": "Lizzie",
+          "artist": "丁辰西"
+        },
+        {
+          "role": "Emma",
+          "artist": "杜钇樵"
+        },
+        {
+          "role": "Bridget",
+          "artist": "杜鑫艳"
+        },
+        {
+          "role": "Alice",
+          "artist": "赵雨卉"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-01 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-04 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐泽辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-06 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-07 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-08 14:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "王敏辉"
+        },
+        {
+          "role": "",
+          "artist": "祝颂皓"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-11 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "",
+          "artist": "白铭倬"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-14 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘子赫"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "吴嘉怡"
+        },
+        {
+          "role": "弗雷",
+          "artist": "梁宵默"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-15 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘子赫"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "叶锐"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张飞扬"
+        },
+        {
+          "role": "玛尼",
+          "artist": "言佳航"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-15 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐泽辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-15 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "刘朱烨"
+        },
+        {
+          "role": "",
+          "artist": "王允宸"
+        },
+        {
+          "role": "",
+          "artist": "孙乐仟"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-16 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "吴嘉怡"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张飞扬"
+        },
+        {
+          "role": "玛尼",
+          "artist": "言佳航"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-16 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-20 19:30",
+      "city": "上海",
+      "musical": "狂炎奏鸣曲",
+      "theatre": "星空间·星空穹顶剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "S",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "高雨晨"
+        },
+        {
+          "role": "",
+          "artist": "翟松"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-21 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        },
+        {
+          "role": "",
+          "artist": "徐蜜聪"
+        },
+        {
+          "role": "",
+          "artist": "陈彦羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-21 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "丁梓奕"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "陈壬权"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-22 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "宁梦恬"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "言佳航"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-23 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "言佳航"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-28 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "丁梓奕"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "吴嘉怡"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张飞扬"
+        },
+        {
+          "role": "玛尼",
+          "artist": "陈壬权"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-29 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "丁梓奕"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张飞扬"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-03-30 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "梁宵默"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-03 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "吴嘉怡"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-04 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘子赫"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "梁宵默"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-05 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘子赫"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "梁宵默"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-05 14:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "高品"
+        },
+        {
+          "role": "",
+          "artist": "潘珏辰"
+        },
+        {
+          "role": "",
+          "artist": "孙乐仟"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-06 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张飞扬"
+        },
+        {
+          "role": "玛尼",
+          "artist": "言佳航"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-10 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "吴嘉怡"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "陈壬权"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-11 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "吴嘉怡"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "陈壬权"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-12 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "陈壬权"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-12 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        },
+        {
+          "role": "",
+          "artist": "邓贤凌"
+        },
+        {
+          "role": "",
+          "artist": "赵雨卉"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-13 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "张腾"
+        },
+        {
+          "role": "戈布",
+          "artist": "叶锐"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张鑫澳"
+        },
+        {
+          "role": "玛尼",
+          "artist": "陈壬权"
+        },
+        {
+          "role": "伊敦",
+          "artist": "林凡靖"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-17 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘子赫"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "叶锐"
+        },
+        {
+          "role": "弗雷",
+          "artist": "梁宵默"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-18 19:30",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "丁梓奕"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "陈玥融"
+        },
+        {
+          "role": "弗雷",
+          "artist": "梁宵默"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-19 14:00",
+      "city": "广州",
+      "musical": "翻国王棋",
+      "theatre": "广州塔剧场新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/528/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "丁梓奕"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李信"
+        },
+        {
+          "role": "戈布",
+          "artist": "叶锐"
+        },
+        {
+          "role": "弗雷",
+          "artist": "梁宵默"
+        },
+        {
+          "role": "玛尼",
+          "artist": "张弋"
+        },
+        {
+          "role": "伊敦",
+          "artist": "黄玟宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-19 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐佳文"
+        },
+        {
+          "role": "",
+          "artist": "黄可"
+        },
+        {
+          "role": "",
+          "artist": "林燕婷"
+        }
+      ]
+    },
+    {
+      "time": "2025-04-24 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        },
+        {
+          "role": "",
+          "artist": "邓贤凌"
+        },
+        {
+          "role": "",
+          "artist": "孙乐仟"
+        }
+      ]
+    },
+    {
+      "time": "2025-05-01 14:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        },
+        {
+          "role": "",
+          "artist": "潘珏辰"
+        },
+        {
+          "role": "",
+          "artist": "孙乐仟"
+        }
+      ]
+    },
+    {
+      "time": "2025-05-02 14:30",
+      "city": "上海",
+      "musical": "莫迪里阿尼 & 埃贡·席勒",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "莫迪里阿尼/艺术家",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "郑涵一"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-05-03 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "周一男"
+        },
+        {
+          "role": "",
+          "artist": "徐蜜聪"
+        },
+        {
+          "role": "",
+          "artist": "陈彦羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-05-04 19:30",
+      "city": "上海",
+      "musical": "莫迪里阿尼 & 埃贡·席勒",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "莫迪里阿尼/艺术家",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "潘珏辰"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-05-09 19:30",
+      "city": "上海",
+      "musical": "莫迪里阿尼 & 埃贡·席勒",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "莫迪里阿尼/艺术家",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "郑涵一"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        }
+      ]
+    },
+    {
+      "time": "2025-05-11 14:30",
+      "city": "上海",
+      "musical": "莫迪里阿尼 & 埃贡·席勒",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "莫迪里阿尼/艺术家",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "陈旭"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-06 19:30",
+      "city": "上海",
+      "musical": "灯塔",
+      "theatre": "星空间9号·鲸剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1oeTgzsEn5/",
+      "cast": [
+        {
+          "role": "霍普",
+          "artist": "周一男"
+        },
+        {
+          "role": "怀恩",
+          "artist": "遇泓羊"
+        },
+        {
+          "role": "守塔人",
+          "artist": "魏忠杰"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-07 14:00",
+      "city": "上海",
+      "musical": "灯塔",
+      "theatre": "星空间9号·鲸剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV18qTSzdECj/",
+      "cast": [
+        {
+          "role": "霍普",
+          "artist": "琚茂林"
+        },
+        {
+          "role": "怀恩",
+          "artist": "冯文彦"
+        },
+        {
+          "role": "守塔人",
+          "artist": "脱骁尧"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-12 19:30",
+      "city": "新加坡",
+      "musical": "约定·香奈儿",
+      "theatre": "佳伟剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://vibes.8world.com/arts-culture/she-came-from-beijing-2785026",
+      "cast": [
+        {
+          "role": "香奈儿",
+          "artist": "焦媛"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-13 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐佳文"
+        },
+        {
+          "role": "",
+          "artist": "黄可"
+        },
+        {
+          "role": "",
+          "artist": "郑涵一"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-15 14:30",
+      "city": "上海",
+      "musical": "致命旋律",
+      "theatre": "开心麻花磁剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1tff6B3ETA/",
+      "cast": [
+        {
+          "role": "尼古拉斯",
+          "artist": "王帅"
+        },
+        {
+          "role": "科伦",
+          "artist": "王培杰"
+        },
+        {
+          "role": "杰弗瑞",
+          "artist": "郝晓辉"
+        },
+        {
+          "role": "艾芙琳",
+          "artist": "刘乙萱"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-15 19:30",
+      "city": "上海",
+      "musical": "致命旋律",
+      "theatre": "开心麻花磁剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV189MezXEfp/",
+      "cast": [
+        {
+          "role": "尼古拉斯",
+          "artist": "武阳坤"
+        },
+        {
+          "role": "科伦",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "杰弗瑞",
+          "artist": "李乐尧"
+        },
+        {
+          "role": "艾芙琳",
+          "artist": "刘乙萱"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-17 11:30",
+      "city": "成都",
+      "musical": "熊猫",
+      "theatre": "熊猫音乐剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://sc.people.com.cn/BIG5/n2/2023/0612/c379471-40453558.html",
+      "cast": [
+        {
+          "role": "羚牛乃琼",
+          "artist": "付刚"
+        },
+        {
+          "role": "金猫",
+          "artist": "申甲"
+        },
+        {
+          "role": "精抓抓",
+          "artist": "王凡"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-17 14:00",
+      "city": "成都",
+      "musical": "熊猫",
+      "theatre": "熊猫音乐剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://sc.people.com.cn/BIG5/n2/2023/0612/c379471-40453558.html",
+      "cast": [
+        {
+          "role": "羚牛乃琼",
+          "artist": "付刚"
+        },
+        {
+          "role": "金猫",
+          "artist": "申甲"
+        },
+        {
+          "role": "精抓抓",
+          "artist": "王凡"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-19 19:30",
+      "city": "成都",
+      "musical": "喜欢你",
+      "theatre": "成都高新中演大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/24054/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-21 19:30",
+      "city": "重庆",
+      "musical": "喜欢你",
+      "theatre": "涪陵大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/24123/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-21 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        },
+        {
+          "role": "",
+          "artist": "陈玉婷"
+        },
+        {
+          "role": "",
+          "artist": "马小乔"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-22 14:30",
+      "city": "上海",
+      "musical": "致命旋律",
+      "theatre": "开心麻花磁剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1R3KWz9EXk/",
+      "cast": [
+        {
+          "role": "尼古拉斯",
+          "artist": "刘朱烨"
+        },
+        {
+          "role": "科伦",
+          "artist": "刘钊"
+        },
+        {
+          "role": "杰弗瑞",
+          "artist": "李乐尧"
+        },
+        {
+          "role": "艾芙琳",
+          "artist": "秦子淳"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-25 19:35",
+      "city": "宝鸡",
+      "musical": "喜欢你",
+      "theatre": "宝鸡大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25242/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-28 14:30",
+      "city": "上海",
+      "musical": "德米安",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "德米安",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        }
+      ]
+    },
+    {
+      "time": "2025-06-28 19:30",
+      "city": "郑州",
+      "musical": "喜欢你",
+      "theatre": "郑州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/24009/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-01 19:30",
+      "city": "北京",
+      "musical": "喜欢你",
+      "theatre": "北京保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/24483/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-04 19:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "黄可"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        },
+        {
+          "role": "",
+          "artist": "于滨嘉"
+        },
+        {
+          "role": "",
+          "artist": "郑涵一"
+        },
+        {
+          "role": "",
+          "artist": "李磊"
+        },
+        {
+          "role": "",
+          "artist": "潘珏辰"
+        },
+        {
+          "role": "",
+          "artist": "董豫辰"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-05 19:30",
+      "city": "上海",
+      "musical": "德米安",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "德米安",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "夏阳"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-10 19:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "陈玉婷"
+        },
+        {
+          "role": "",
+          "artist": "林墨"
+        },
+        {
+          "role": "",
+          "artist": "于滨嘉"
+        },
+        {
+          "role": "",
+          "artist": "张烜尔"
+        },
+        {
+          "role": "",
+          "artist": "李磊"
+        },
+        {
+          "role": "",
+          "artist": "许嘉芸"
+        },
+        {
+          "role": "",
+          "artist": "董豫辰"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-11 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "相征"
+        },
+        {
+          "role": "",
+          "artist": "徐蜜聪"
+        },
+        {
+          "role": "",
+          "artist": "蔡馨怡"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-12 14:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "黄可"
+        },
+        {
+          "role": "",
+          "artist": "蔡淇"
+        },
+        {
+          "role": "",
+          "artist": "吴志军"
+        },
+        {
+          "role": "",
+          "artist": "叶嘉雯"
+        },
+        {
+          "role": "",
+          "artist": "刘瀚聪"
+        },
+        {
+          "role": "",
+          "artist": "许嘉芸"
+        },
+        {
+          "role": "",
+          "artist": "车鸣笛"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-12 19:30",
+      "city": "上海",
+      "musical": "LIZZIE丽兹",
+      "theatre": "星空间11号·MOriginal Box",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1kuMdzwEHB/",
+      "cast": [
+        {
+          "role": "Lizzie",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "Emma",
+          "artist": "杜鑫艳"
+        },
+        {
+          "role": "Bridget",
+          "artist": "周文嘉"
+        },
+        {
+          "role": "Alice",
+          "artist": "王洁璐"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-13 19:30",
+      "city": "杭州",
+      "musical": "喜欢你",
+      "theatre": "运河大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25283/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-16 19:30",
+      "city": "金华",
+      "musical": "喜欢你",
+      "theatre": "中国婺剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/24396/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-18 19:30",
+      "city": "台州",
+      "musical": "喜欢你",
+      "theatre": "仙居永安剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25610/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-19 19:30",
+      "city": "厦门",
+      "musical": "卡拉马佐夫兄弟",
+      "theatre": "闽南大戏院大剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "阿辽沙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "翟松"
+        },
+        {
+          "role": "",
+          "artist": "滕春鹏"
+        },
+        {
+          "role": "",
+          "artist": "李炜鹏"
+        },
+        {
+          "role": "",
+          "artist": "郭嘉轩"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-20 19:30",
+      "city": "厦门",
+      "musical": "卡拉马佐夫兄弟",
+      "theatre": "闽南大戏院大剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "阿辽沙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "翟松"
+        },
+        {
+          "role": "",
+          "artist": "滕春鹏"
+        },
+        {
+          "role": "",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "",
+          "artist": "郭嘉轩"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-25 19:30",
+      "city": "汕头",
+      "musical": "喜欢你",
+      "theatre": "汕头艺都大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26587/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-25 19:30",
+      "city": "上海",
+      "musical": "海上钢琴师",
+      "theatre": "上海西岸大剧院大剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张琦铭"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-26 19:30",
+      "city": "上海",
+      "musical": "海上钢琴师",
+      "theatre": "上海西岸大剧院大剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张琦铭"
+        }
+      ]
+    },
+    {
+      "time": "2025-07-27 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐佳文"
+        },
+        {
+          "role": "",
+          "artist": "冯远"
+        },
+        {
+          "role": "",
+          "artist": "马小乔"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-03 19:30",
+      "city": "上海",
+      "musical": "末日迷途",
+      "theatre": "星空间8808号·涵金剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "威廉",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "相征"
+        },
+        {
+          "role": "",
+          "artist": "王洁璐"
+        },
+        {
+          "role": "",
+          "artist": "马小乔"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-08 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25907/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "郭嘉轩"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-08 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-09 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-09 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25908/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-09 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-10 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25909/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "余镇鳌"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-14 19:30",
+      "city": "北京",
+      "musical": "海上钢琴师",
+      "theatre": "北京保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "",
+          "artist": "何亮辰"
+        },
+        {
+          "role": "",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张琦铭"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-15 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25910/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "余镇鳌"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-15 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "邵立君"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-15 19:30",
+      "city": "北京",
+      "musical": "海上钢琴师",
+      "theatre": "北京保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张琦铭"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-16 14:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25911/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-16 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26649/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "余镇鳌"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-16 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-17 14:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26650/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-17 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-17 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-19 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "毛二"
+        },
+        {
+          "role": "理查德",
+          "artist": "徐泽辉"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-21 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25912/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "张博俊"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-21 20:00",
+      "city": "上海",
+      "musical": "LIZZIE丽兹",
+      "theatre": "星空间11号·MOriginal Box",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.weibo.cn/detail/5200675877426703",
+      "cast": [
+        {
+          "role": "Lizzie",
+          "artist": "陈檀雅"
+        },
+        {
+          "role": "Emma",
+          "artist": "张雨桐"
+        },
+        {
+          "role": "Bridget",
+          "artist": "何若水"
+        },
+        {
+          "role": "Alice",
+          "artist": "陈思宇"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-22 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/25913/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "丁辰西"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-22 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-23 14:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26651/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "张博俊"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-23 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26654/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "余镇鳌"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-23 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-24 14:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26652/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "丁辰西"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-24 19:30",
+      "city": "上海",
+      "musical": "The Last Man 幸存者",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26653/cast/",
+      "cast": [
+        {
+          "role": "幸存者",
+          "artist": "张博俊"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-24 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-26 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "白倬铭"
+        },
+        {
+          "role": "理查德",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-29 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-30 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-30 15:30",
+      "city": "合肥",
+      "musical": "她&amp;她",
+      "theatre": "严凤英剧场(HM.1953演艺新空间)B厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/613/",
+      "cast": [
+        {
+          "role": "明月公主",
+          "artist": "魏瑜遥"
+        },
+        {
+          "role": "唐少君",
+          "artist": "吴娟"
+        },
+        {
+          "role": "唐少英/石磊",
+          "artist": "李威"
+        },
+        {
+          "role": "皇帝/唐老爷",
+          "artist": "李楼"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-31 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-08-31 15:30",
+      "city": "合肥",
+      "musical": "她&amp;她",
+      "theatre": "严凤英剧场(HM.1953演艺新空间)B厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/613/",
+      "cast": [
+        {
+          "role": "明月公主",
+          "artist": "朱维芳"
+        },
+        {
+          "role": "唐少君",
+          "artist": "舒琪"
+        },
+        {
+          "role": "唐少英/石磊",
+          "artist": "盛遨"
+        },
+        {
+          "role": "皇帝/唐老爷",
+          "artist": "李楼"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-03 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/493/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "赵钱龙"
+        },
+        {
+          "role": "理查德",
+          "artist": "吴志军"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-04 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-06 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-07 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-12 19:30",
+      "city": "上海",
+      "musical": "FLAMES火焰",
+      "theatre": "黄浦文化中心大上海新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "爱德蒙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "蔡忻如"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-14 19:30",
+      "city": "上海",
+      "musical": "FLAMES火焰",
+      "theatre": "黄浦文化中心大上海新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "爱德蒙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "蔡忻如"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-19 19:30",
+      "city": "沈阳",
+      "musical": "海上钢琴师",
+      "theatre": "盛京大剧院歌剧厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "",
+          "artist": "潘杭苇"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张光磊"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-20 19:30",
+      "city": "沈阳",
+      "musical": "海上钢琴师",
+      "theatre": "盛京大剧院歌剧厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "",
+          "artist": "潘杭苇"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张光磊"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-27 14:00",
+      "city": "上海",
+      "musical": "翻国王棋",
+      "theatre": "星空间77号·鲸剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1BHWRzFEHY/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "遇泓羊"
+        },
+        {
+          "role": "戈布",
+          "artist": "张烜尔"
+        },
+        {
+          "role": "弗雷",
+          "artist": "李子涵"
+        },
+        {
+          "role": "玛尼",
+          "artist": "刘明明"
+        },
+        {
+          "role": "伊敦",
+          "artist": "暴晓萱"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-27 14:30",
+      "city": "上海",
+      "musical": "FLAMES火焰",
+      "theatre": "黄浦文化中心大上海新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "爱德蒙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "陈旭"
+        },
+        {
+          "role": "",
+          "artist": "汤佳明"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-29 19:30",
+      "city": "上海",
+      "musical": "翻国王棋",
+      "theatre": "星空间77号·鲸剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sina.cn/news/detail/5216335399225216.html",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "殷浩伦"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "戈布",
+          "artist": "宁梦恬"
+        },
+        {
+          "role": "弗雷",
+          "artist": "马啸"
+        },
+        {
+          "role": "玛尼",
+          "artist": "宋元明"
+        },
+        {
+          "role": "伊敦",
+          "artist": "暴晓萱"
+        }
+      ]
+    },
+    {
+      "time": "2025-09-29 20:00",
+      "city": "珠海",
+      "musical": "喜欢你",
+      "theatre": "珠海金湾艺术中心·大剧院(A馆)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/26421/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-01 14:30",
+      "city": "上海",
+      "musical": "FLAMES火焰",
+      "theatre": "黄浦文化中心大上海新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "爱德蒙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "蔡馨怡"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-02 14:00",
+      "city": "上海",
+      "musical": "翻国王棋",
+      "theatre": "星空间77号·鲸剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1zSx7zAERr/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘凡滔"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "遇泓羊"
+        },
+        {
+          "role": "戈布",
+          "artist": "张烜尔"
+        },
+        {
+          "role": "弗雷",
+          "artist": "张铎"
+        },
+        {
+          "role": "玛尼",
+          "artist": "周一男"
+        },
+        {
+          "role": "伊敦",
+          "artist": "张艺"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-02 19:30",
+      "city": "上海",
+      "musical": "FLAMES火焰",
+      "theatre": "黄浦文化中心大上海新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "爱德蒙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "蔡馨怡"
+        },
+        {
+          "role": "",
+          "artist": "邵立君"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-11 19:30",
+      "city": "上海",
+      "musical": "FLAMES火焰",
+      "theatre": "黄浦文化中心大上海新空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "爱德蒙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "钱安琪"
+        },
+        {
+          "role": "",
+          "artist": "许昌泰"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-14 19:30",
+      "city": "上海",
+      "musical": "翻国王棋",
+      "theatre": "星空间77号·鲸剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1yg48zGEzF/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "陈科铭"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "戈布",
+          "artist": "郭亢"
+        },
+        {
+          "role": "弗雷",
+          "artist": "李子涵"
+        },
+        {
+          "role": "玛尼",
+          "artist": "刘明明"
+        },
+        {
+          "role": "伊敦",
+          "artist": "王明怡"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-15 20:00",
+      "city": "深圳",
+      "musical": "喜欢你",
+      "theatre": "南山文体中心剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/28073/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-16 19:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "黄可"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        },
+        {
+          "role": "",
+          "artist": "邵奕磊"
+        },
+        {
+          "role": "",
+          "artist": "郑涵一"
+        },
+        {
+          "role": "",
+          "artist": "脱骁尧"
+        },
+        {
+          "role": "",
+          "artist": "潘珏辰"
+        },
+        {
+          "role": "",
+          "artist": "车鸣笛"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-18 14:30",
+      "city": "上海",
+      "musical": "卡拉马佐夫兄弟",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "阿辽沙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "翟松"
+        },
+        {
+          "role": "",
+          "artist": "王逸飞"
+        },
+        {
+          "role": "",
+          "artist": "李炜鹏"
+        },
+        {
+          "role": "",
+          "artist": "徐杭"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-18 19:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "",
+          "artist": "朱亮"
+        },
+        {
+          "role": "",
+          "artist": "邵奕磊"
+        },
+        {
+          "role": "",
+          "artist": "钱安琪"
+        },
+        {
+          "role": "",
+          "artist": "李磊"
+        },
+        {
+          "role": "",
+          "artist": "许嘉芸"
+        },
+        {
+          "role": "",
+          "artist": "车鸣笛"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-19 14:30",
+      "city": "上海",
+      "musical": "卡拉马佐夫兄弟",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "阿辽沙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "付翔"
+        },
+        {
+          "role": "",
+          "artist": "滕春鹏"
+        },
+        {
+          "role": "",
+          "artist": "李炜鹏"
+        },
+        {
+          "role": "",
+          "artist": "徐杭"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-19 19:30",
+      "city": "上海",
+      "musical": "卡拉马佐夫兄弟",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "阿辽沙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "付翔"
+        },
+        {
+          "role": "",
+          "artist": "王逸飞"
+        },
+        {
+          "role": "",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "",
+          "artist": "郭嘉轩"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-21 19:30",
+      "city": "上海",
+      "musical": "卡拉马佐夫兄弟",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "阿辽沙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "翟松"
+        },
+        {
+          "role": "",
+          "artist": "滕春鹏"
+        },
+        {
+          "role": "",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "",
+          "artist": "张泽"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-24 19:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "黄可"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        },
+        {
+          "role": "",
+          "artist": "于滨嘉"
+        },
+        {
+          "role": "",
+          "artist": "叶嘉雯"
+        },
+        {
+          "role": "",
+          "artist": "刘瀚聪"
+        },
+        {
+          "role": "",
+          "artist": "许嘉芸"
+        },
+        {
+          "role": "",
+          "artist": "黄圣淇"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-25 14:00",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "",
+          "artist": "朱亮"
+        },
+        {
+          "role": "",
+          "artist": "吴志军"
+        },
+        {
+          "role": "",
+          "artist": "钱安琪"
+        },
+        {
+          "role": "",
+          "artist": "李磊"
+        },
+        {
+          "role": "",
+          "artist": "许嘉芸"
+        },
+        {
+          "role": "",
+          "artist": "黄圣淇"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-26 14:30",
+      "city": "上海",
+      "musical": "卡拉马佐夫兄弟",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "阿辽沙",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "付翔"
+        },
+        {
+          "role": "",
+          "artist": "王瀚宇"
+        },
+        {
+          "role": "",
+          "artist": "李炜鹏"
+        },
+        {
+          "role": "",
+          "artist": "郭嘉轩"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-26 15:30",
+      "city": "合肥",
+      "musical": "她&amp;她",
+      "theatre": "严凤英剧场(HM.1953演艺新空间)B厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/613/",
+      "cast": [
+        {
+          "role": "明月公主",
+          "artist": "楼若菡"
+        },
+        {
+          "role": "唐少君",
+          "artist": "吴娟"
+        },
+        {
+          "role": "唐少英/石磊",
+          "artist": "盛遨"
+        },
+        {
+          "role": "皇帝/唐老爷",
+          "artist": "李楼"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-26 19:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "陈玉婷"
+        },
+        {
+          "role": "",
+          "artist": "蔡淇"
+        },
+        {
+          "role": "",
+          "artist": "邵奕磊"
+        },
+        {
+          "role": "",
+          "artist": "张烜尔"
+        },
+        {
+          "role": "",
+          "artist": "李磊"
+        },
+        {
+          "role": "",
+          "artist": "许嘉芸"
+        },
+        {
+          "role": "",
+          "artist": "黄圣淇"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-28 19:30",
+      "city": "广州",
+      "musical": "喜欢你",
+      "theatre": "正佳大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/27247/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-10-29 19:30",
+      "city": "广州",
+      "musical": "喜欢你",
+      "theatre": "正佳大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/27248/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-11-02 19:30",
+      "city": "上海",
+      "musical": "六个说谎的大学生",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "九贺苍太",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "",
+          "artist": "郑艺彬"
+        },
+        {
+          "role": "",
+          "artist": "吴志军"
+        },
+        {
+          "role": "",
+          "artist": "钱安琪"
+        },
+        {
+          "role": "",
+          "artist": "脱骁尧"
+        },
+        {
+          "role": "",
+          "artist": "潘珏辰"
+        },
+        {
+          "role": "",
+          "artist": "董豫辰"
+        }
+      ]
+    },
+    {
+      "time": "2025-11-22 14:00",
+      "city": "上海",
+      "musical": "翻国王棋",
+      "theatre": "星空间77号·鲸剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/35840803/comments/",
+      "cast": [
+        {
+          "role": "奥尔森",
+          "artist": "刘子赫"
+        },
+        {
+          "role": "克雷加德",
+          "artist": "马灵奇"
+        },
+        {
+          "role": "戈布",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-06 14:00",
+      "city": "上海",
+      "musical": "海上钢琴师",
+      "theatre": "上海保利大剧院大剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张光磊"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-06 19:30",
+      "city": "佛山",
+      "musical": "喜欢你",
+      "theatre": "佛山粤剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/28062/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        },
+        {
+          "role": "阿虎",
+          "artist": "王东超"
+        },
+        {
+          "role": "阿细",
+          "artist": "宋奕彤"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-07 14:00",
+      "city": "上海",
+      "musical": "海上钢琴师",
+      "theatre": "上海保利大剧院大剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "蒂姆",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "",
+          "artist": "李信"
+        },
+        {
+          "role": "",
+          "artist": "张光磊"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-19 21:00",
+      "city": "乌鲁木齐",
+      "musical": "喜欢你",
+      "theatre": "乌鲁木齐大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/30843/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-20 19:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "黄浦文化中心大上海剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        },
+        {
+          "role": "",
+          "artist": "胡迪"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-20 21:00",
+      "city": "乌鲁木齐",
+      "musical": "喜欢你",
+      "theatre": "乌鲁木齐大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/30844/cast/",
+      "cast": [
+        {
+          "role": "阿声",
+          "artist": "李泽楷"
+        },
+        {
+          "role": "阿鼓",
+          "artist": "黄晓婕"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-21 14:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "黄浦文化中心大上海剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        },
+        {
+          "role": "",
+          "artist": "胡迪"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-23 19:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "黄浦文化中心大上海剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "",
+          "artist": "汤佳明"
+        },
+        {
+          "role": "",
+          "artist": "王培杰"
+        },
+        {
+          "role": "",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "",
+          "artist": "胡迪"
+        },
+        {
+          "role": "",
+          "artist": "纪晓坤"
+        },
+        {
+          "role": "",
+          "artist": "万钰彬"
+        },
+        {
+          "role": "",
+          "artist": "徐佳文"
+        },
+        {
+          "role": "",
+          "artist": "马海生"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-24 19:30",
+      "city": "上海",
+      "musical": "灵魂之夜",
+      "theatre": "上海美罗城六楼影元社",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/35489/cast/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "叶逸腾"
+        },
+        {
+          "role": "Amanda",
+          "artist": "黄羽婷"
+        },
+        {
+          "role": "Peter",
+          "artist": "王新然"
+        },
+        {
+          "role": "Angel",
+          "artist": "杨珂"
+        },
+        {
+          "role": "Max",
+          "artist": "赵子寅"
+        },
+        {
+          "role": "群舞",
+          "artist": "李语辰"
+        },
+        {
+          "role": "群舞",
+          "artist": "王可"
+        },
+        {
+          "role": "群舞",
+          "artist": "王艺璇"
+        },
+        {
+          "role": "群舞",
+          "artist": "陈思羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-25 19:30",
+      "city": "上海",
+      "musical": "灵魂之夜",
+      "theatre": "上海美罗城六楼影元社",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/35490/cast/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "叶逸腾"
+        },
+        {
+          "role": "Amanda",
+          "artist": "葛淋淋"
+        },
+        {
+          "role": "Peter",
+          "artist": "王新然"
+        },
+        {
+          "role": "Angel",
+          "artist": "杨珂"
+        },
+        {
+          "role": "Max",
+          "artist": "赵子寅"
+        },
+        {
+          "role": "群舞",
+          "artist": "李语辰"
+        },
+        {
+          "role": "群舞",
+          "artist": "王可"
+        },
+        {
+          "role": "群舞",
+          "artist": "王艺璇"
+        },
+        {
+          "role": "群舞",
+          "artist": "陈思羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-27 19:30",
+      "city": "上海",
+      "musical": "灵魂之夜",
+      "theatre": "上海美罗城六楼影元社",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/35491/cast/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "叶逸腾"
+        },
+        {
+          "role": "Amanda",
+          "artist": "黄羽婷"
+        },
+        {
+          "role": "Peter",
+          "artist": "王新然"
+        },
+        {
+          "role": "Angel",
+          "artist": "杨珂"
+        },
+        {
+          "role": "Max",
+          "artist": "赵子寅"
+        },
+        {
+          "role": "群舞",
+          "artist": "李语辰"
+        },
+        {
+          "role": "群舞",
+          "artist": "王可"
+        },
+        {
+          "role": "群舞",
+          "artist": "王艺璇"
+        },
+        {
+          "role": "群舞",
+          "artist": "陈思羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-28 19:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "黄浦文化中心大上海剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "毛二"
+        },
+        {
+          "role": "",
+          "artist": "纪晓坤"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-28 19:30",
+      "city": "上海",
+      "musical": "灵魂之夜",
+      "theatre": "上海美罗城六楼影元社",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/35494/cast/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "叶逸腾"
+        },
+        {
+          "role": "Amanda",
+          "artist": "葛淋淋"
+        },
+        {
+          "role": "Peter",
+          "artist": "王新然"
+        },
+        {
+          "role": "Angel",
+          "artist": "杨珂"
+        },
+        {
+          "role": "Max",
+          "artist": "赵子寅"
+        },
+        {
+          "role": "群舞",
+          "artist": "李语辰"
+        },
+        {
+          "role": "群舞",
+          "artist": "王可"
+        },
+        {
+          "role": "群舞",
+          "artist": "王艺璇"
+        },
+        {
+          "role": "群舞",
+          "artist": "陈思羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-29 15:00",
+      "city": "上海",
+      "musical": "灵魂之夜",
+      "theatre": "上海美罗城六楼影元社",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/35640/cast/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "王新然"
+        },
+        {
+          "role": "Amanda",
+          "artist": "葛淋淋"
+        },
+        {
+          "role": "Peter",
+          "artist": "邓涵"
+        },
+        {
+          "role": "Angel",
+          "artist": "崔熠帆"
+        },
+        {
+          "role": "Max",
+          "artist": "赵子寅"
+        },
+        {
+          "role": "群舞",
+          "artist": "毛梦怡"
+        },
+        {
+          "role": "群舞",
+          "artist": "张婧婧"
+        },
+        {
+          "role": "群舞",
+          "artist": "张一格"
+        },
+        {
+          "role": "群舞",
+          "artist": "冯诗琪"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-29 19:30",
+      "city": "上海",
+      "musical": "灵魂之夜",
+      "theatre": "上海美罗城六楼影元社",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/35495/cast/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "王新然"
+        },
+        {
+          "role": "Amanda",
+          "artist": "黄羽婷"
+        },
+        {
+          "role": "Peter",
+          "artist": "邓涵"
+        },
+        {
+          "role": "Angel",
+          "artist": "杨珂"
+        },
+        {
+          "role": "Max",
+          "artist": "赵子寅"
+        },
+        {
+          "role": "群舞",
+          "artist": "李语辰"
+        },
+        {
+          "role": "群舞",
+          "artist": "王可"
+        },
+        {
+          "role": "群舞",
+          "artist": "王艺璇"
+        },
+        {
+          "role": "群舞",
+          "artist": "陈思羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-30 19:30",
+      "city": "上海",
+      "musical": "干花",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "林正民",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "龚子棋"
+        },
+        {
+          "role": "",
+          "artist": "许昌泰"
+        },
+        {
+          "role": "",
+          "artist": "汤佳明"
+        },
+        {
+          "role": "",
+          "artist": "钱蒙楠"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-30 19:30",
+      "city": "上海",
+      "musical": "灵魂之夜",
+      "theatre": "上海美罗城六楼影元社",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/35641/cast/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "叶逸腾"
+        },
+        {
+          "role": "Amanda",
+          "artist": "黄羽婷"
+        },
+        {
+          "role": "Peter",
+          "artist": "王新然"
+        },
+        {
+          "role": "Angel",
+          "artist": "杨珂"
+        },
+        {
+          "role": "Max",
+          "artist": "赵子寅"
+        },
+        {
+          "role": "群舞",
+          "artist": "李语辰"
+        },
+        {
+          "role": "群舞",
+          "artist": "王可"
+        },
+        {
+          "role": "群舞",
+          "artist": "王艺璇"
+        },
+        {
+          "role": "群舞",
+          "artist": "陈思羽"
+        }
+      ]
+    },
+    {
+      "time": "2025-12-31 19:00",
+      "city": "上海",
+      "musical": "干花",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "林正民",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "龚子棋"
+        },
+        {
+          "role": "",
+          "artist": "朱微之"
+        },
+        {
+          "role": "",
+          "artist": "薛钦元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2015,
+    "note": "2015 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2015-01-09 19:30",
+      "city": "北京",
+      "musical": "一步登天",
+      "theatre": "世纪剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/3816472013/",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-01-10 19:30",
+      "city": "北京",
+      "musical": "一步登天",
+      "theatre": "世纪剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/3808329384/",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-01-11 19:30",
+      "city": "北京",
+      "musical": "番茄不简单",
+      "theatre": "护国寺西区剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.sina.com.cn/j/operamusical/2014-12-15/doc-icesifvx6129363.shtml",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    },
+    {
+      "time": "2015-01-20 19:30",
+      "city": "北京",
+      "musical": "一步登天",
+      "theatre": "世纪剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/3816472013/",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-04-15 19:30",
+      "city": "上海",
+      "musical": "一步登天",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/3816472013/",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-05-01 19:30",
+      "city": "上海",
+      "musical": "一步登天",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/3816472013/",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-05-10 19:30",
+      "city": "上海",
+      "musical": "一步登天",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/3816472013/",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-05-18 19:30",
+      "city": "大连",
+      "musical": "Q大道",
+      "theatre": "大连开发区大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.dl.bendibao.com/xiuxian/50497.shtm",
+      "cast": [
+        {
+          "role": "普林斯顿/罗罗",
+          "artist": "刘阳"
+        },
+        {
+          "role": "凯特/毛毛妹",
+          "artist": "陈欢"
+        },
+        {
+          "role": "圣诞明珠",
+          "artist": "李心怡"
+        }
+      ]
+    },
+    {
+      "time": "2015-05-22 19:00",
+      "city": "南京",
+      "musical": "变身怪医",
+      "theatre": "夫子庙",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.nj.bendibao.com/xiuxian/53491.shtm",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "丁辉"
+        },
+        {
+          "role": "主演",
+          "artist": "曹雪"
+        }
+      ]
+    },
+    {
+      "time": "2015-06-17 19:30",
+      "city": "北京",
+      "musical": "一步登天",
+      "theatre": "海淀剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.weipiao.com/ticket_102427.html",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-06-18 19:30",
+      "city": "北京",
+      "musical": "栀子花开",
+      "theatre": "中央戏剧学院实验剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.bj.bendibao.com/live/190599.html",
+      "cast": [
+        {
+          "role": "领衔主演",
+          "artist": "段博文"
+        },
+        {
+          "role": "领衔主演",
+          "artist": "苏妙玲"
+        },
+        {
+          "role": "领衔主演",
+          "artist": "左立"
+        }
+      ]
+    },
+    {
+      "time": "2015-07-02 19:30",
+      "city": "上海",
+      "musical": "栀子花开",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.bj.bendibao.com/live/190599.html",
+      "cast": [
+        {
+          "role": "领衔主演",
+          "artist": "段博文"
+        },
+        {
+          "role": "领衔主演",
+          "artist": "苏妙玲"
+        },
+        {
+          "role": "领衔主演",
+          "artist": "左立"
+        }
+      ]
+    },
+    {
+      "time": "2015-07-03 19:30",
+      "city": "上海",
+      "musical": "点金手",
+      "theatre": "东方艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.chinanews.com/cul/2015/05-05/7252123.shtml",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "王维"
+        },
+        {
+          "role": "主演",
+          "artist": "徐俊"
+        }
+      ]
+    },
+    {
+      "time": "2015-08-14 19:30",
+      "city": "上海",
+      "musical": "一步登天",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m2.zjol.com.cn/msite/details.html?newsid=019583979",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-09-05 19:30",
+      "city": "上海",
+      "musical": "一步登天",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.cnfl.com.cn/2015/0807/129046.html",
+      "cast": [
+        {
+          "role": "芬奇",
+          "artist": "赵之文"
+        },
+        {
+          "role": "方晴雨",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "毕得力",
+          "artist": "刘畅"
+        }
+      ]
+    },
+    {
+      "time": "2015-09-11 19:30",
+      "city": "南京",
+      "musical": "Q大道",
+      "theatre": "紫金大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://nj.bendibao.com/xiuxian/201579/54891_3.shtm",
+      "cast": [
+        {
+          "role": "普林斯顿/罗罗",
+          "artist": "刘阳"
+        },
+        {
+          "role": "凯特/毛毛妹",
+          "artist": "陈欢"
+        },
+        {
+          "role": "圣诞明珠",
+          "artist": "李心怡"
+        }
+      ]
+    },
+    {
+      "time": "2015-09-22 19:30",
+      "city": "广州",
+      "musical": "剧院魅影",
+      "theatre": "广州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.huichangwang.net/info/show.asp?id=612",
+      "cast": [
+        {
+          "role": "魅影",
+          "artist": "布莱德·里特尔"
+        },
+        {
+          "role": "克里斯汀",
+          "artist": "艾米丽·林恩"
+        },
+        {
+          "role": "拉乌尔",
+          "artist": "安东尼·唐宁"
+        }
+      ]
+    },
+    {
+      "time": "2015-10-30 19:30",
+      "city": "北京",
+      "musical": "Q大道",
+      "theatre": "海淀剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.chinadaily.com.cn/2015-09/28/content_21998218.htm",
+      "cast": [
+        {
+          "role": "普林斯顿/罗罗",
+          "artist": "刘阳"
+        },
+        {
+          "role": "凯特/毛毛妹",
+          "artist": "陈欢"
+        },
+        {
+          "role": "圣诞明珠",
+          "artist": "李心怡"
+        }
+      ]
+    },
+    {
+      "time": "2015-11-10 19:30",
+      "city": "北京",
+      "musical": "Q大道",
+      "theatre": "海淀剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.chinadaily.com.cn/2015-09/28/content_21998218.htm",
+      "cast": [
+        {
+          "role": "普林斯顿/罗罗",
+          "artist": "刘阳"
+        },
+        {
+          "role": "凯特/毛毛妹",
+          "artist": "陈欢"
+        },
+        {
+          "role": "圣诞明珠",
+          "artist": "李心怡"
+        }
+      ]
+    },
+    {
+      "time": "2015-11-17 19:30",
+      "city": "北京",
+      "musical": "剧院魅影",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.163.com/special/jymy/",
+      "cast": [
+        {
+          "role": "魅影",
+          "artist": "布莱德·里特尔"
+        },
+        {
+          "role": "克里斯汀",
+          "artist": "艾米丽·林恩"
+        },
+        {
+          "role": "拉乌尔",
+          "artist": "安东尼·唐宁"
+        }
+      ]
+    },
+    {
+      "time": "2015-11-20 19:30",
+      "city": "北京",
+      "musical": "剧院魅影",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.huichangwang.net/info/show.asp?id=612",
+      "cast": [
+        {
+          "role": "魅影",
+          "artist": "布莱德·里特尔"
+        },
+        {
+          "role": "克里斯汀",
+          "artist": "艾米丽·林恩"
+        },
+        {
+          "role": "拉乌尔",
+          "artist": "安东尼·唐宁"
+        }
+      ]
+    },
+    {
+      "time": "2015-11-21 14:30",
+      "city": "北京",
+      "musical": "剧院魅影",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.huichangwang.net/info/show.asp?id=612",
+      "cast": [
+        {
+          "role": "魅影",
+          "artist": "布莱德·里特尔"
+        },
+        {
+          "role": "克里斯汀",
+          "artist": "艾米丽·林恩"
+        },
+        {
+          "role": "拉乌尔",
+          "artist": "安东尼·唐宁"
+        }
+      ]
+    },
+    {
+      "time": "2015-11-22 14:00",
+      "city": "北京",
+      "musical": "Q大道",
+      "theatre": "海淀剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.163.com/ent/article/AL367BTS00034OGT.html?spss=adap_pc",
+      "cast": [
+        {
+          "role": "普林斯顿/罗罗",
+          "artist": "刘阳"
+        },
+        {
+          "role": "凯特/毛毛妹",
+          "artist": "陈欢"
+        },
+        {
+          "role": "圣诞明珠",
+          "artist": "李心怡"
+        }
+      ]
+    },
+    {
+      "time": "2015-11-25 19:30",
+      "city": "北京",
+      "musical": "Q大道",
+      "theatre": "海淀剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.chinadaily.com.cn/2015-10/28/content_22301768.htm",
+      "cast": [
+        {
+          "role": "普林斯顿/罗罗",
+          "artist": "刘阳"
+        },
+        {
+          "role": "凯特/毛毛妹",
+          "artist": "陈欢"
+        },
+        {
+          "role": "圣诞明珠",
+          "artist": "李心怡"
+        }
+      ]
+    },
+    {
+      "time": "2015-11-28 14:30",
+      "city": "北京",
+      "musical": "剧院魅影",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.huichangwang.net/info/show.asp?id=612",
+      "cast": [
+        {
+          "role": "魅影",
+          "artist": "布莱德·里特尔"
+        },
+        {
+          "role": "克里斯汀",
+          "artist": "艾米丽·林恩"
+        },
+        {
+          "role": "拉乌尔",
+          "artist": "安东尼·唐宁"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-01 19:30",
+      "city": "北京",
+      "musical": "剧院魅影",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.huichangwang.net/info/show.asp?id=612",
+      "cast": [
+        {
+          "role": "魅影",
+          "artist": "布莱德·里特尔"
+        },
+        {
+          "role": "克里斯汀",
+          "artist": "艾米丽·林恩"
+        },
+        {
+          "role": "拉乌尔",
+          "artist": "安东尼·唐宁"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-18 19:30",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.sina.com.cn/o/2015-12-03/doc-ifxmhqaa9856969.shtml",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-19 14:00",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.sina.com.cn/o/2015-12-03/doc-ifxmhqaa9856969.shtml",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-20 19:30",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.sina.com.cn/o/2015-12-03/doc-ifxmhqaa9856969.shtml",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-22 19:30",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海浅水湾文化艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://y.saoju.net/yyj/musical/112/",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "印小倩"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-24 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.chinadaily.com.cn/2015-12/15/content_22716349.htm",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "王美懿"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-25 19:30",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://sh.bendibao.com/tour/20151117/148757_14.shtm",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-25 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.chinadaily.com.cn/2015-12/15/content_22716349.htm",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "王美懿"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-26 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.chinadaily.com.cn/2015-12/15/content_22716349.htm",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "王美懿"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-27 16:00",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.chinadaily.com.cn/2015-12/15/content_22716349.htm",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "王美懿"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2015-12-31 19:30",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://sh.bendibao.com/tour/20151117/148757_14.shtm",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    }
+  ]
+}

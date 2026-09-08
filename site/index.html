@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>音乐剧演员同场统计</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&family=Inter:wght@500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <nav class="site-nav" aria-label="页面导航">
+      <a href="./" class="site-nav__link site-nav__link--active" aria-current="page">同场统计</a>
+      <a href="./actor.html" class="site-nav__link">演员剧目场次</a>
+    </nav>
+
+    <section class="hero">
+      <h1>音乐剧演员同场统计</h1>
+      <p>输入 1 位演员查看 TA 的同场演员次数排行；输入 2 位或 3 位演员，查看同场演出过几次，以及对应剧目、日期、城市、剧院与角色。</p>
+      <div class="hero__meta">
+        <span id="coverageText">正在读取数据…</span>
+        <span id="showCountText">—</span>
+        <span id="updateText">GitHub Pages 每日自动更新</span>
+      </div>
+    </section>
+
+    <section class="query-card" aria-label="演员查询区">
+      <div class="query-grid">
+        <label>
+          <span>演员 1</span>
+          <input id="actor1" list="artistList" placeholder="例如：高杨" autocomplete="off" />
+        </label>
+        <label>
+          <span>演员 2</span>
+          <input id="actor2" list="artistList" placeholder="例如：郑棋元" autocomplete="off" />
+        </label>
+        <label>
+          <span>演员 3（可选）</span>
+          <input id="actor3" list="artistList" placeholder="三人同场时填写" autocomplete="off" />
+        </label>
+      </div>
+      <datalist id="artistList"></datalist>
+      <div class="actions">
+        <button id="searchBtn" type="button">查看同场记录</button>
+        <button id="clearBtn" type="button" class="secondary">清空</button>
+      </div>
+      <p class="hint">仅填演员 1 会返回 TA 的同场演员排行；填 2-3 位会返回同场演出的具体场次。支持精确姓名，也支持在输入框候选中点击补全。</p>
+      <div id="status" class="status" role="status"></div>
+    </section>
+
+    <section id="rankingPanel" class="result-panel hidden" aria-live="polite">
+      <div class="summary-card">
+        <div>
+          <p class="eyebrow">同场演员次数排行</p>
+          <h2 id="rankingArtist">—</h2>
+          <p id="rankingSummary">—</p>
+        </div>
+        <div class="summary-stats">
+          <div><strong id="rankingShowCount">0</strong><span>参演场次</span></div>
+          <div><strong id="rankingPeerCount">0</strong><span>同场演员</span></div>
+          <div><strong id="rankingTopPeer">—</strong><span>最常同场</span></div>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <label>
+          <span>展示条数</span>
+          <select id="rankingLimit">
+            <option value="30">前 30 位</option>
+            <option value="50">前 50 位</option>
+            <option value="100">前 100 位</option>
+            <option value="all">全部</option>
+          </select>
+        </label>
+        <p class="hint" style="margin:0;align-self:center;">点击任意演员可切换为"两人同场"模式，查看具体演出场次。</p>
+      </div>
+
+      <div id="rankingList" class="ranking-list"></div>
+    </section>
+
+    <section id="resultPanel" class="result-panel hidden" aria-live="polite">
+      <div class="summary-card">
+        <div>
+          <p class="eyebrow">同场次数</p>
+          <h2 id="overlapCount">0 场</h2>
+          <p id="summaryText">—</p>
+        </div>
+        <div class="summary-stats">
+          <div><strong id="musicalCount">0</strong><span>部剧</span></div>
+          <div><strong id="cityCount">0</strong><span>座城市</span></div>
+          <div><strong id="dateRange">—</strong><span>日期范围</span></div>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <label>
+          <span>筛选剧目</span>
+          <select id="musicalFilter"><option value="">全部剧目</option></select>
+        </label>
+        <label>
+          <span>排序</span>
+          <select id="sortMode">
+            <option value="desc">日期从新到旧</option>
+            <option value="asc">日期从旧到新</option>
+            <option value="musical">按剧目分组</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="musicalBreakdown" class="breakdown"></div>
+      <div id="showList" class="show-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>本站可部署在 GitHub Pages；数据由 GitHub Actions 每天自动重建并发布，若当天刷新失败会继续保留上一次成功发布的版本。</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2915 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2016,
+    "note": "2016 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2016-01-05 19:30",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://sh.bendibao.com/tour/20151117/148757_14.shtm",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2016-01-10 14:00",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.sina.com.cn/o/2015-12-03/doc-ifxmhqaa9856969.shtml",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2016-02-24 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-02-25 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-02-26 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-02-27 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-02-28 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-02 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-03 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-04 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-05 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-06 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-09 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-10 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-11 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-12 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-13 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-16 19:15",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.online.sh.cn/joy/content/2016-11/08/content_8113138.htm",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "马子俊",
+          "artist": "姜彬"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "党韫葳"
+        },
+        {
+          "role": "Lucy",
+          "artist": "陈希琰"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-16 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-16 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-17 19:15",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.online.sh.cn/joy/content/2016-11/08/content_8113138.htm",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "马子俊",
+          "artist": "姜彬"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "党韫葳"
+        },
+        {
+          "role": "Lucy",
+          "artist": "陈希琰"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-17 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-17 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-18 19:00",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/?page=2",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "党韫葳"
+        },
+        {
+          "role": "卓先生",
+          "artist": "宗俊涛"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-18 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-18 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-19 19:00",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/?page=2",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "党韫葳"
+        },
+        {
+          "role": "卓先生",
+          "artist": "宗俊涛"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-19 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-19 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-20 19:00",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/?page=2",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "郑兴琦"
+        },
+        {
+          "role": "卓先生",
+          "artist": "宗俊涛"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-20 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-20 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-23 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-23 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-24 19:30",
+      "city": "北京",
+      "musical": "向左走 向右走",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://bjtqys.com/pic_detail.asp?id=812",
+      "cast": [
+        {
+          "role": "L",
+          "artist": "王铮亮"
+        },
+        {
+          "role": "R",
+          "artist": "潘儿"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-24 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-24 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-25 19:15",
+      "city": "上海",
+      "musical": "摇滚西厢",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.piaoniu.com/activity/1427",
+      "cast": [
+        {
+          "role": "崔莺莺",
+          "artist": "谭维维"
+        },
+        {
+          "role": "红娘",
+          "artist": "王麟"
+        },
+        {
+          "role": "张生",
+          "artist": "威力斯"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-25 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-25 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-26 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-26 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-27 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-27 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.ifeng.com/c/7e29Nkr4jFu",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-30 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-03-31 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-01 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-02 19:30",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-02 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-03 16:00",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-03 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-06 19:30",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-06 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-07 19:30",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-07 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-08 19:30",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-08 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-08 19:30",
+      "city": "上海",
+      "musical": "淡水小镇",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.shcstheatre.com/webcontent/case_03.aspx",
+      "cast": [
+        {
+          "role": "舞台监督",
+          "artist": "曹启泰"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-08 19:30",
+      "city": "上海",
+      "musical": "石头・剪刀・布",
+      "theatre": "兰心大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.yule.com.cn/html/201604/217014.html",
+      "cast": [
+        {
+          "role": "翦梦",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "阿布",
+          "artist": "李响"
+        },
+        {
+          "role": "石头",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-09 19:30",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-09 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-10 16:00",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-10 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-12 19:30",
+      "city": "上海",
+      "musical": "石头・剪刀・布",
+      "theatre": "兰心大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.yule.com.cn/html/201604/217014.html",
+      "cast": [
+        {
+          "role": "翦梦",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "阿布",
+          "artist": "李响"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-13 19:30",
+      "city": "北京",
+      "musical": "因为爱情2",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%9B%A0%E4%B8%BA%E7%88%B1%E6%83%852/19941720",
+      "cast": [
+        {
+          "role": "老秦",
+          "artist": "小柯"
+        },
+        {
+          "role": "温晓蕾",
+          "artist": "金银玲"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "潘小智",
+          "artist": "付贵禹"
+        },
+        {
+          "role": "潘小智媳妇",
+          "artist": "崔秀丽"
+        },
+        {
+          "role": "女海归",
+          "artist": "曹欢"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-13 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-14 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-15 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-16 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-17 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-20 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-21 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-22 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-23 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-24 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-27 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-28 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-29 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-04-30 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-01 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-04 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-05 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-06 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-07 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-07 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.chnmusic.cn/2016/hjyyj_0428/3158.html",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "曹欢"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-08 16:00",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.chnmusic.cn/2016/hjyyj_0428/3158.html",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "曹欢"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-08 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-11 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-11 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.chnmusic.cn/2016/hjyyj_0428/3158.html",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "曹欢"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-12 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-12 19:30",
+      "city": "北京",
+      "musical": "百万约定",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.chnmusic.cn/2016/hjyyj_0428/3158.html",
+      "cast": [
+        {
+          "role": "老程",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "程诺",
+          "artist": "韩玖诺"
+        },
+        {
+          "role": "得顺",
+          "artist": "王得智"
+        },
+        {
+          "role": "葛大野",
+          "artist": "孙葛川野"
+        },
+        {
+          "role": "唐敏",
+          "artist": "曹欢"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-13 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-14 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-15 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-18 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-19 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-19 19:30",
+      "city": "上海",
+      "musical": "律诗-雷经天",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_14688389",
+      "cast": [
+        {
+          "role": "雷经天",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "主演",
+          "artist": "蒋倩如"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-20 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-20 19:30",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.sina.com.cn/o/2015-12-03/doc-ifxmhqaa9856969.shtml",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-21 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-22 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-25 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-26 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-27 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-28 14:00",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.sina.com.cn/o/2015-12-03/doc-ifxmhqaa9856969.shtml",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-28 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-05-29 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-01 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-02 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-03 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-04 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-05 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-08 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-09 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-10 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-11 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-12 19:30",
+      "city": "上海",
+      "musical": "因味爱，所以爱",
+      "theatre": "音味爱音乐剧主题餐厅",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/440492585/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "钟舜傲"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-15 19:30",
+      "city": "北京",
+      "musical": "我的长腿叔叔",
+      "theatre": "繁星戏剧村-壹剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.goupiaotong.cn/mobile/Product-15768.html",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "何月"
+        },
+        {
+          "role": "Jervis",
+          "artist": "刘阳"
+        }
+      ]
+    },
+    {
+      "time": "2016-06-16 19:30",
+      "city": "上海",
+      "musical": "狮子王",
+      "theatre": "华特迪士尼大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://whlyj.sh.gov.cn/gqfc/20250609/880a13d76fe14c4d88a54a977e0104e5.html",
+      "cast": [
+        {
+          "role": "辛巴",
+          "artist": "吴俊鹏"
+        },
+        {
+          "role": "娜娜",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "拉飞奇",
+          "artist": "姿帕匹泽"
+        },
+        {
+          "role": "木法沙",
+          "artist": "侯晓"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-01 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海大剧院·中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6301477066890772738/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-02 14:00",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海大剧院·中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://news.sina.cn/2016-03-28/detail-ifxqssxu8433794.d.html",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "理查德",
+          "artist": "王培杰"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-02 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海大剧院·中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://news.sina.cn/2016-03-28/detail-ifxqssxu8433794.d.html",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-03 14:00",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海大剧院·中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://news.sina.cn/2016-03-28/detail-ifxqssxu8433794.d.html",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-03 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海大剧院·中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://news.sina.cn/2016-03-28/detail-ifxqssxu8433794.d.html",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "理查德",
+          "artist": "王培杰"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-15 19:30",
+      "city": "上海",
+      "musical": "HELLO KITTY",
+      "theatre": "上海城市剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://sh.bendibao.com/tour/2016620/163900_4.shtm",
+      "cast": [
+        {
+          "role": "Kitty",
+          "artist": "日本四季剧团演员"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-20 19:30",
+      "city": "上海",
+      "musical": "狮子王",
+      "theatre": "华特迪士尼大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://whlyj.sh.gov.cn/gqfc/20250609/880a13d76fe14c4d88a54a977e0104e5.html",
+      "cast": [
+        {
+          "role": "辛巴",
+          "artist": "吴俊鹏"
+        },
+        {
+          "role": "娜娜",
+          "artist": "李炜铃"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-21 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上海大剧院·中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1hs411177L",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2016-07-31 19:30",
+      "city": "北京",
+      "musical": "我的长腿叔叔",
+      "theatre": "繁星戏剧村-壹剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.goupiaotong.cn/mobile/Product-15768.html",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "朱雅琼"
+        },
+        {
+          "role": "Jervis",
+          "artist": "刘阳"
+        }
+      ]
+    },
+    {
+      "time": "2016-09-15 19:30",
+      "city": "上海",
+      "musical": "狮子王",
+      "theatre": "华特迪士尼大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.online.sh.cn/tttrip/content/2016-12/07/content_8167505.htm",
+      "cast": [
+        {
+          "role": "辛巴",
+          "artist": "吴俊鹏"
+        },
+        {
+          "role": "娜娜",
+          "artist": "李炜铃"
+        }
+      ]
+    },
+    {
+      "time": "2016-09-23 19:15",
+      "city": "上海",
+      "musical": "春之觉醒",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.fengxianbao.net/resfile/2016-09-13/10/10.pdf",
+      "cast": [
+        {
+          "role": "梅尔基奥",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "温德拉",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2016-10-04 19:30",
+      "city": "潍坊",
+      "musical": "音乐之声",
+      "theatre": "潍坊大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/107876924_180578/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "党韫葳"
+        },
+        {
+          "role": "主演",
+          "artist": "傅震华"
+        }
+      ]
+    },
+    {
+      "time": "2016-10-12 19:30",
+      "city": "张家港",
+      "musical": "音乐之声",
+      "theatre": "保利大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/107876924_180578/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "党韫葳"
+        }
+      ]
+    },
+    {
+      "time": "2016-10-15 19:30",
+      "city": "昆山",
+      "musical": "音乐之声",
+      "theatre": "昆山文化艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/107876924_180578/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "党韫葳"
+        }
+      ]
+    },
+    {
+      "time": "2016-11-10 19:30",
+      "city": "上海",
+      "musical": "狮子王",
+      "theatre": "华特迪士尼大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.online.sh.cn/tttrip/content/2016-12/07/content_8167505.htm",
+      "cast": [
+        {
+          "role": "辛巴",
+          "artist": "吴俊鹏"
+        },
+        {
+          "role": "娜娜",
+          "artist": "李炜铃"
+        }
+      ]
+    },
+    {
+      "time": "2016-11-18 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "马兰花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.piaoniu.com/activity/8880",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2016-11-20 19:30",
+      "city": "北京",
+      "musical": "狮子王",
+      "theatre": "华特迪士尼大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.online.sh.cn/tttrip/content/2016-12/07/content_8167505.htm",
+      "cast": [
+        {
+          "role": "辛巴",
+          "artist": "吴俊鹏"
+        },
+        {
+          "role": "娜娜",
+          "artist": "李炜铃"
+        }
+      ]
+    },
+    {
+      "time": "2016-11-25 19:30",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "解放军歌剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6355600024333156610/",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-01 19:30",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "解放军歌剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6355600024333156610/",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-07 19:30",
+      "city": "上海",
+      "musical": "狮子王",
+      "theatre": "华特迪士尼大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.online.sh.cn/tttrip/content/2016-12/07/content_8167505.htm",
+      "cast": [
+        {
+          "role": "辛巴",
+          "artist": "吴俊鹏"
+        },
+        {
+          "role": "娜娜",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "拉飞奇",
+          "artist": "姿帕匹泽"
+        },
+        {
+          "role": "木法沙",
+          "artist": "侯晓"
+        },
+        {
+          "role": "沙拉碧",
+          "artist": "朱芾"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-15 19:30",
+      "city": "上海",
+      "musical": "莫扎特",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://clubz.cloudsation.com/event/1632.html",
+      "cast": [
+        {
+          "role": "莫扎特",
+          "artist": "乌多·凯帕什"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-16 19:30",
+      "city": "上海",
+      "musical": "两个人的谋杀",
+      "theatre": "上海话剧艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.trueart.com/news/279214.html",
+      "cast": [
+        {
+          "role": "马库斯",
+          "artist": "翟松"
+        },
+        {
+          "role": "亚瑟",
+          "artist": "庞盛之"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-20 19:30",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "解放军歌剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6355600024333156610/",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-22 19:30",
+      "city": "上海",
+      "musical": "莫扎特",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://clubz.cloudsation.com/event/1632.html",
+      "cast": [
+        {
+          "role": "莫扎特",
+          "artist": "乌多·凯帕什"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-23 19:30",
+      "city": "北京",
+      "musical": "不能说的秘密",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/471836750/?page=2",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "汪小敏"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-25 14:30",
+      "city": "北京",
+      "musical": "不能说的秘密",
+      "theatre": "天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/471836750/?page=2",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "汪小敏"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-28 19:30",
+      "city": "上海",
+      "musical": "两个人的谋杀",
+      "theatre": "上海话剧艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.trueart.com/news/279214.html",
+      "cast": [
+        {
+          "role": "马库斯",
+          "artist": "翟松"
+        },
+        {
+          "role": "亚瑟",
+          "artist": "庞盛之"
+        }
+      ]
+    },
+    {
+      "time": "2016-12-31 19:30",
+      "city": "上海",
+      "musical": "莫扎特",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.cnr.cn/native/gd/20160808/t20160808_522918456.shtml",
+      "cast": [
+        {
+          "role": "莫扎特",
+          "artist": "乌多·凯帕什"
+        }
+      ]
+    }
+  ]
+}

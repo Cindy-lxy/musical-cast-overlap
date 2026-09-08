@@ -1,0 +1,1905 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2019,
+    "note": "2019 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2019-01-18 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1kK4y1L7eL/",
+      "cast": [
+        {
+          "role": "Michael",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Sara",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "Narrator",
+          "artist": "徐丽东"
+        },
+        {
+          "role": "Tom",
+          "artist": "吴俊鹏"
+        }
+      ]
+    },
+    {
+      "time": "2019-01-27 19:30",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "北京保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1et411t7qz/",
+      "cast": [
+        {
+          "role": "塞万提斯/堂吉诃德",
+          "artist": "王向群"
+        },
+        {
+          "role": "阿尔东莎/杜尔西妮亚",
+          "artist": "党韫葳"
+        }
+      ]
+    },
+    {
+      "time": "2019-02-14 20:00",
+      "city": "西安",
+      "musical": "恋爱吧！人类",
+      "theatre": "西安人民剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/286819841_99956598/",
+      "cast": [
+        {
+          "role": "李浩民",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "韩秋子",
+          "artist": "田依凡"
+        }
+      ]
+    },
+    {
+      "time": "2019-02-22 19:30",
+      "city": "上海",
+      "musical": "摇滚学校",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.cnr.cn/shanghai/tt/20190223/t20190223_524519884.shtml",
+      "cast": [
+        {
+          "role": "Dewey Finn",
+          "artist": "Brent Hill"
+        },
+        {
+          "role": "Rosalie Mullins",
+          "artist": "Amy Lehpamer"
+        }
+      ]
+    },
+    {
+      "time": "2019-03-22 19:30",
+      "city": "北京",
+      "musical": "摇滚学校",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://finance.sina.com.cn/roll/2019-03-22/doc-ihtxyzsk9704618.shtml",
+      "cast": [
+        {
+          "role": "Dewey Finn",
+          "artist": "Brent Hill"
+        },
+        {
+          "role": "Rosalie Mullins",
+          "artist": "Amy Lehpamer"
+        }
+      ]
+    },
+    {
+      "time": "2019-03-23 19:30",
+      "city": "上海",
+      "musical": "梁祝的继承者们",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.cnr.cn/shanghai/tt/20190228/t20190228_524525642.shtml",
+      "cast": [
+        {
+          "role": "祝英台",
+          "artist": "路嘉欣"
+        },
+        {
+          "role": "梁山伯",
+          "artist": "张国颖"
+        },
+        {
+          "role": "马文才",
+          "artist": "赵逸岚"
+        }
+      ]
+    },
+    {
+      "time": "2019-03-28 19:30",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/291981935_169580",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "郭亢"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "蔡璐"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        },
+        {
+          "role": "Mandy",
+          "artist": "王湘怡"
+        }
+      ]
+    },
+    {
+      "time": "2019-03-30 19:30",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/291981935_169580",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "胡迪"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "印小倩"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-05 14:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/305386820_100119630/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "曹小欠"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "张植"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-05 20:00",
+      "city": "广州",
+      "musical": "恋爱吧！人类",
+      "theatre": "正佳开心麻花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.gz.bendibao.com/tour/249241.html",
+      "cast": [
+        {
+          "role": "李浩民",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "韩秋子",
+          "artist": "李雪银"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-06 14:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/305386820_100119630/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "李佳妮"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "李治良"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-07 14:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/305386820_100119630/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "韩晶如"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "葛泽扬"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-11 19:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "云峰剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30425996/",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "周可人"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-12 19:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "云峰剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30425996/",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "方书剑"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-13 14:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "云峰剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30425996/",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "王杨"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁汀"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-14 19:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "云峰剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30425996/",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "方书剑"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-19 19:30",
+      "city": "北京",
+      "musical": "梁祝的继承者们",
+      "theatre": "北京保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://zsyyt.org/ShowNews.asp?id=3998",
+      "cast": [
+        {
+          "role": "祝英台",
+          "artist": "路嘉欣"
+        },
+        {
+          "role": "梁山伯",
+          "artist": "张国颖"
+        },
+        {
+          "role": "马文才",
+          "artist": "赵逸岚"
+        }
+      ]
+    },
+    {
+      "time": "2019-04-20 19:30",
+      "city": "宁波",
+      "musical": "白夜行",
+      "theatre": "宁波文化广场大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/309515318_100132250/",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2019-05-19 19:30",
+      "city": "武汉",
+      "musical": "白夜行",
+      "theatre": "武汉琴台大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6692692963643884036/",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "筱冢一成",
+          "artist": "胡超政"
+        },
+        {
+          "role": "川岛江利子",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2019-05-21 19:30",
+      "city": "上海",
+      "musical": "我的遗愿清单",
+      "theatre": "上海上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://3g.163.com/dy/article/EDAFOII805383DAM.html",
+      "cast": [
+        {
+          "role": "杨晓宇",
+          "artist": "张智涵"
+        }
+      ]
+    },
+    {
+      "time": "2019-06-07 14:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "开心麻花磁剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_5890585170_15f1b325201900lxxw.html",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "曹小欠"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "王子艺"
+        }
+      ]
+    },
+    {
+      "time": "2019-06-07 19:30",
+      "city": "北京",
+      "musical": "恋爱吧！人类",
+      "theatre": "地质礼堂开心麻花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.bilibili.com/video/BV1Xf4y1h7S9",
+      "cast": [
+        {
+          "role": "李浩民",
+          "artist": "李乐尧"
+        },
+        {
+          "role": "韩秋子",
+          "artist": "田依凡"
+        },
+        {
+          "role": "母猫Mary",
+          "artist": "李雪银"
+        },
+        {
+          "role": "公猫Simba",
+          "artist": "杨映宇"
+        }
+      ]
+    },
+    {
+      "time": "2019-06-15 19:30",
+      "city": "上海",
+      "musical": "帅小伙的蔬果店",
+      "theatre": "兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.247tickets.com/t/d-204361048",
+      "cast": [
+        {
+          "role": "李泰河",
+          "artist": "郭亢"
+        },
+        {
+          "role": "闵硕",
+          "artist": "周默涵"
+        }
+      ]
+    },
+    {
+      "time": "2019-06-16 14:30",
+      "city": "上海",
+      "musical": "帅小伙的蔬果店",
+      "theatre": "兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.247tickets.com/t/d-204361048",
+      "cast": [
+        {
+          "role": "李泰河",
+          "artist": "郭亢"
+        },
+        {
+          "role": "闵硕",
+          "artist": "周默涵"
+        }
+      ]
+    },
+    {
+      "time": "2019-06-22 19:30",
+      "city": "北京",
+      "musical": "白夜行",
+      "theatre": "北京保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/av57296742/",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "筱冢一成",
+          "artist": "瞿艺"
+        }
+      ]
+    },
+    {
+      "time": "2019-06-28 19:30",
+      "city": "西安",
+      "musical": "罗密欧与朱丽叶",
+      "theatre": "陕西大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6707077755546108427/",
+      "cast": [
+        {
+          "role": "Roméo",
+          "artist": "Damien Sargue"
+        },
+        {
+          "role": "Juliette",
+          "artist": "Clémence Illiaquer"
+        },
+        {
+          "role": "Benvolio",
+          "artist": "Cyril Niccolai"
+        },
+        {
+          "role": "Mercutio",
+          "artist": "John Eyzen"
+        }
+      ]
+    },
+    {
+      "time": "2019-07-05 19:30",
+      "city": "北京",
+      "musical": "长腿叔叔",
+      "theatre": "北京大麦·超剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://card.weibo.com/article/m/show/id/2309404382844863538147",
+      "cast": [
+        {
+          "role": "Jervis",
+          "artist": "高杨"
+        },
+        {
+          "role": "Jerusha",
+          "artist": "赵晗君"
+        }
+      ]
+    },
+    {
+      "time": "2019-07-06 19:30",
+      "city": "北京",
+      "musical": "长腿叔叔",
+      "theatre": "北京大麦·超剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://card.weibo.com/article/m/show/id/2309404382844863538147",
+      "cast": [
+        {
+          "role": "Jervis",
+          "artist": "丁辉"
+        },
+        {
+          "role": "Jerusha",
+          "artist": "赵晗君"
+        }
+      ]
+    },
+    {
+      "time": "2019-07-11 19:30",
+      "city": "深圳",
+      "musical": "玛蒂尔达",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sznews.com/news/content/2019-07/18/content_22266423.htm",
+      "cast": [
+        {
+          "role": "Matilda",
+          "artist": "Sofia Poston"
+        },
+        {
+          "role": "Miss Trunchbull",
+          "artist": "Ryan de Villars"
+        },
+        {
+          "role": "Miss Honey",
+          "artist": "Bethany Dickson"
+        }
+      ]
+    },
+    {
+      "time": "2019-07-30 19:30",
+      "city": "上海",
+      "musical": "巴黎圣母院",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://encora-archive.github.io/encora.one/performance/notre-dame-de-paris-international-tour-july-30-2019.html",
+      "cast": [
+        {
+          "role": "Quasimodo",
+          "artist": "Angelo Del Vecchio"
+        },
+        {
+          "role": "Esmeralda",
+          "artist": "Elhaida Dani"
+        },
+        {
+          "role": "Frollo",
+          "artist": "Robert Marien"
+        },
+        {
+          "role": "Gringoire",
+          "artist": "Richard Charest"
+        }
+      ]
+    },
+    {
+      "time": "2019-07-30 19:30",
+      "city": "北京",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "北京海淀剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/328578722_738967/",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2019-07-30 19:30",
+      "city": "广州",
+      "musical": "罗密欧与朱丽叶",
+      "theatre": "广州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6719333777622958595/",
+      "cast": [
+        {
+          "role": "Roméo",
+          "artist": "Damien Sargue"
+        },
+        {
+          "role": "Juliette",
+          "artist": "Clémence Illiaquer"
+        },
+        {
+          "role": "Benvolio",
+          "artist": "Cyril Niccolai"
+        },
+        {
+          "role": "Mercutio",
+          "artist": "John Eyzen"
+        }
+      ]
+    },
+    {
+      "time": "2019-07-31 19:30",
+      "city": "北京",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "北京海淀剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/328578722_738967/",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "周可人"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2019-08-11 19:30",
+      "city": "上海",
+      "musical": "巴黎圣母院",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://encora-archive.github.io/encora.one/performance/notre-dame-de-paris-internation-tour-august-11-2019-matinee.html",
+      "cast": [
+        {
+          "role": "Quasimodo",
+          "artist": "Angelo Del Vecchio"
+        },
+        {
+          "role": "Esmeralda",
+          "artist": "Hiba Tawaji"
+        },
+        {
+          "role": "Frollo",
+          "artist": "Daniel Lavoie"
+        },
+        {
+          "role": "Gringoire",
+          "artist": "Flo Carli"
+        }
+      ]
+    },
+    {
+      "time": "2019-08-11 19:30",
+      "city": "上海",
+      "musical": "玛蒂尔达",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://encora-archive.github.io/encora.one/performance/matilda-international-tour-august-11-2019.html",
+      "cast": [
+        {
+          "role": "Matilda",
+          "artist": "Kitty Harris"
+        },
+        {
+          "role": "Miss Trunchbull",
+          "artist": "Ryan de Villars"
+        },
+        {
+          "role": "Miss Honey",
+          "artist": "Bethany Dickson"
+        }
+      ]
+    },
+    {
+      "time": "2019-08-22 19:30",
+      "city": "北京",
+      "musical": "兰波",
+      "theatre": "隆福剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30400015/",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "赵骞"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "张琛"
+        }
+      ]
+    },
+    {
+      "time": "2019-08-23 19:30",
+      "city": "北京",
+      "musical": "兰波",
+      "theatre": "隆福剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30400015/",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "瞿艺"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "邵玎"
+        }
+      ]
+    },
+    {
+      "time": "2019-08-23 19:30",
+      "city": "北京",
+      "musical": "巴黎圣母院",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://news.cctv.com/2019/04/26/ARTIBwAqPCkBOtB396exGTwi190426.shtml",
+      "cast": [
+        {
+          "role": "Quasimodo",
+          "artist": "Angelo Del Vecchio"
+        },
+        {
+          "role": "Esmeralda",
+          "artist": "Hiba Tawaji"
+        },
+        {
+          "role": "Frollo",
+          "artist": "Robert Marien"
+        }
+      ]
+    },
+    {
+      "time": "2019-08-24 14:30",
+      "city": "北京",
+      "musical": "兰波",
+      "theatre": "隆福剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30400015/",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "赵骞"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "张琛"
+        }
+      ]
+    },
+    {
+      "time": "2019-08-25 19:30",
+      "city": "北京",
+      "musical": "兰波",
+      "theatre": "隆福剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30400015/",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "赵骞"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "张琛"
+        }
+      ]
+    },
+    {
+      "time": "2019-09-06 19:30",
+      "city": "上海",
+      "musical": "贝隆夫人",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/361519021_347641/",
+      "cast": [
+        {
+          "role": "Eva Perón",
+          "artist": "Jessica Daley"
+        },
+        {
+          "role": "Che",
+          "artist": "Lucas Rush"
+        },
+        {
+          "role": "Juan Perón",
+          "artist": "Robert Finlayson"
+        }
+      ]
+    },
+    {
+      "time": "2019-09-07 19:30",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海黄浦剧场-中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/313150157_169580",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "郭亢"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "蔡璐"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        },
+        {
+          "role": "Mandy",
+          "artist": "王湘怡"
+        }
+      ]
+    },
+    {
+      "time": "2019-09-08 14:00",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海黄浦剧场-中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/313150157_169580",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "胡迪"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "印小倩"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        }
+      ]
+    },
+    {
+      "time": "2019-09-12 19:30",
+      "city": "北京",
+      "musical": "觉醒青春",
+      "theatre": "糖果TANGO",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/337918705_169580/",
+      "cast": [
+        {
+          "role": "COCO",
+          "artist": "李子璇"
+        },
+        {
+          "role": "川儿",
+          "artist": "冯俊杰"
+        }
+      ]
+    },
+    {
+      "time": "2019-09-15 19:30",
+      "city": "上海",
+      "musical": "贝隆夫人",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://encora-archive.github.io/encora.one/performance/evita-international-tour-september-15-2019-matinee.html",
+      "cast": [
+        {
+          "role": "Eva Perón",
+          "artist": "Danielle Bitton"
+        },
+        {
+          "role": "Che",
+          "artist": "Lucas Rush"
+        },
+        {
+          "role": "Juan Perón",
+          "artist": "Robert Finlayson"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-03 19:30",
+      "city": "上海",
+      "musical": "摇滚红与黑",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.videostar.com/2019/11/22/201911-3-3/",
+      "cast": [
+        {
+          "role": "Julien Sorel",
+          "artist": "Côme"
+        },
+        {
+          "role": "Mme de Rênal",
+          "artist": "Haylen"
+        },
+        {
+          "role": "Mathilde de la Mole",
+          "artist": "Juliette Behar"
+        },
+        {
+          "role": "M. de Valenod",
+          "artist": "Laurent Bàn"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-09 19:30",
+      "city": "北京",
+      "musical": "王小波与李银河",
+      "theatre": "北京蜂巢剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.163.com/dy/article/ENULB5OS0514CHIP.html",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "马心羽"
+        },
+        {
+          "role": "主演",
+          "artist": "张志林"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-19 19:30",
+      "city": "上海",
+      "musical": "摇滚红与黑",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://movie.douban.com/review/10586833/",
+      "cast": [
+        {
+          "role": "Julien Sorel",
+          "artist": "Côme"
+        },
+        {
+          "role": "Mme de Rênal",
+          "artist": "Haylen"
+        },
+        {
+          "role": "Mathilde de la Mole",
+          "artist": "Juliette Behar"
+        },
+        {
+          "role": "M. de Rênal",
+          "artist": "Philippe Escande"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-25 19:30",
+      "city": "宁波",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "宁波文化广场大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/329583761_395042/",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "周可人"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-25 19:30",
+      "city": "南京",
+      "musical": "贝隆夫人",
+      "theatre": "江苏大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6688504705905066508/",
+      "cast": [
+        {
+          "role": "Eva Perón",
+          "artist": "Jessica Daley"
+        },
+        {
+          "role": "Che",
+          "artist": "Lucas Rush"
+        },
+        {
+          "role": "Juan Perón",
+          "artist": "Robert Finlayson"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-26 19:30",
+      "city": "宁波",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "宁波文化广场大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/329583761_395042/",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "周可人"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-30 19:30",
+      "city": "上海",
+      "musical": "摇滚年代",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/326999552_272883/",
+      "cast": [
+        {
+          "role": "Stacee",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Drew",
+          "artist": "瞿艺"
+        },
+        {
+          "role": "Sherrie",
+          "artist": "覃子瑄"
+        }
+      ]
+    },
+    {
+      "time": "2019-10-31 19:30",
+      "city": "成都",
+      "musical": "白夜行",
+      "theatre": "四川大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.thepaper.cn/baijiahao_4655766",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2019-11-01 19:30",
+      "city": "北京",
+      "musical": "醉后赢家",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_1265839284_p4b732cb402700k3fg.html",
+      "cast": [
+        {
+          "role": "李丁一",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "杜海燕",
+          "artist": "许沁"
+        },
+        {
+          "role": "周大福",
+          "artist": "马小辈儿"
+        },
+        {
+          "role": "杨鼎天",
+          "artist": "杨君军"
+        },
+        {
+          "role": "信佳佳",
+          "artist": "刘乙萱"
+        }
+      ]
+    },
+    {
+      "time": "2019-11-08 19:30",
+      "city": "广州",
+      "musical": "摇滚红与黑",
+      "theatre": "广州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://static.nfapp.southcn.com/content/201911/08/c2784477.html?group_id=1",
+      "cast": [
+        {
+          "role": "Julien Sorel",
+          "artist": "Côme"
+        },
+        {
+          "role": "Mme de Rênal",
+          "artist": "Haylen"
+        },
+        {
+          "role": "Mathilde de la Mole",
+          "artist": "Juliette Behar"
+        },
+        {
+          "role": "M. de Valenod",
+          "artist": "Laurent Bàn"
+        }
+      ]
+    },
+    {
+      "time": "2019-11-12 19:30",
+      "city": "上海",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://theatreabove.com/site/perform.jsp?id=328a2ef00a64add6e00164bb6640bd000f",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2019-11-13 19:30",
+      "city": "上海",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://theatreabove.com/site/perform.jsp?id=328a2ef00a64add6e00164bb6640bd000f",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "周可人"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2019-11-14 19:30",
+      "city": "上海",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://theatreabove.com/site/perform.jsp?id=328a2ef00a64add6e00164bb6640bd000f",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "周可人"
+        }
+      ]
+    },
+    {
+      "time": "2019-11-23 19:30",
+      "city": "北京",
+      "musical": "玛蒂尔达",
+      "theatre": "北京保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://encora-archive.github.io/encora.one/performance/matilda-international-tour-november-23-2019-matinee.html",
+      "cast": [
+        {
+          "role": "Matilda",
+          "artist": "Zara Yazbek Polito"
+        },
+        {
+          "role": "Miss Trunchbull",
+          "artist": "Ryan de Villars"
+        },
+        {
+          "role": "Miss Honey",
+          "artist": "Haley Flaherty"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-01 19:30",
+      "city": "上海",
+      "musical": "芝加哥",
+      "theatre": "上海美琪大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://card.weibo.com/article/m/show/id/2309404444814824308966",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Ian Kelsey"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-06 19:30",
+      "city": "北京",
+      "musical": "恋爱吧！人类",
+      "theatre": "地质礼堂开心麻花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_1265839284_p4b732cb402700le4s.html",
+      "cast": [
+        {
+          "role": "李浩民",
+          "artist": "刘政"
+        },
+        {
+          "role": "韩秋子",
+          "artist": "王雨姝"
+        },
+        {
+          "role": "母猫Mary",
+          "artist": "戴滢"
+        },
+        {
+          "role": "公猫Simba",
+          "artist": "杨映宇"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-08 19:30",
+      "city": "广州",
+      "musical": "巴黎圣母院",
+      "theatre": "广州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://encora-archive.github.io/encora.one/performance/notre-dame-de-paris-international-tour-december-8-2019-matinee.html",
+      "cast": [
+        {
+          "role": "Quasimodo",
+          "artist": "Angelo Del Vecchio"
+        },
+        {
+          "role": "Esmeralda",
+          "artist": "Romina Palmeri"
+        },
+        {
+          "role": "Frollo",
+          "artist": "Jerome Collet"
+        },
+        {
+          "role": "Gringoire",
+          "artist": "Flo Carli"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-12 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "橙剧场-可当代艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/353820085_272883/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-13 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "橙剧场-可当代艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/353820085_272883/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-13 19:30",
+      "city": "北京",
+      "musical": "恋爱吧！人类",
+      "theatre": "地质礼堂开心麻花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_1265839284_p4b732cb402700le4s.html",
+      "cast": [
+        {
+          "role": "李浩民",
+          "artist": "刘政"
+        },
+        {
+          "role": "韩秋子",
+          "artist": "刁梦雪"
+        },
+        {
+          "role": "母猫Mary",
+          "artist": "戴滢"
+        },
+        {
+          "role": "公猫Simba",
+          "artist": "张植"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-13 19:30",
+      "city": "广州",
+      "musical": "贝隆夫人",
+      "theatre": "广州白云国际会议中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/10944549/",
+      "cast": [
+        {
+          "role": "Eva Perón",
+          "artist": "Jessica Daley"
+        },
+        {
+          "role": "Che",
+          "artist": "Lucas Rush"
+        },
+        {
+          "role": "Juan Perón",
+          "artist": "Robert Finlayson"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-14 14:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "橙剧场-可当代艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/353820085_272883/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-14 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "橙剧场-可当代艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/353820085_272883/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-14 19:30",
+      "city": "深圳",
+      "musical": "白夜行",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/336628719_166910/",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-15 14:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "橙剧场-可当代艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/353820085_272883/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-15 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "橙剧场-可当代艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/353820085_272883/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-19 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "周默涵"
+        },
+        {
+          "role": "乔安",
+          "artist": "张会芳"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-20 19:30",
+      "city": "苏州",
+      "musical": "芝加哥",
+      "theatre": "苏州文化艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6772417866860855816/",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Ian Kelsey"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-20 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "姜彬"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "乔安",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-21 14:00",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "夏振凯"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "周默涵"
+        },
+        {
+          "role": "乔安",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-21 19:30",
+      "city": "广州",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "广东艺术剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1A7411s7iZ/",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "尼古拉·达利",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-21 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "乔安",
+          "artist": "张会芳"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-22 14:00",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "姜彬"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "毛二"
+        },
+        {
+          "role": "乔安",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-22 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "夏振凯"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "周默涵"
+        },
+        {
+          "role": "乔安",
+          "artist": "张会芳"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-24 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "周默涵"
+        },
+        {
+          "role": "乔安",
+          "artist": "张会芳"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-25 19:30",
+      "city": "上海",
+      "musical": "快把我哥带走",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/34905945/",
+      "cast": [
+        {
+          "role": "时分",
+          "artist": "周默涵"
+        },
+        {
+          "role": "开心",
+          "artist": "周锐"
+        },
+        {
+          "role": "万岁",
+          "artist": "李秋盟"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-25 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "姜彬"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "乔安",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-26 19:30",
+      "city": "上海",
+      "musical": "吉屋出租",
+      "theatre": "上海上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/EQ0D01SG0518NN7Q.html",
+      "cast": [
+        {
+          "role": "Roger",
+          "artist": "阿拉丁"
+        },
+        {
+          "role": "Mimi",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-26 19:30",
+      "city": "上海",
+      "musical": "快把我哥带走",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/34905945/",
+      "cast": [
+        {
+          "role": "时分",
+          "artist": "周默涵"
+        },
+        {
+          "role": "开心",
+          "artist": "周锐"
+        },
+        {
+          "role": "万岁",
+          "artist": "李秋盟"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-26 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "夏振凯"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "毛二"
+        },
+        {
+          "role": "乔安",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-27 19:30",
+      "city": "上海",
+      "musical": "吉屋出租",
+      "theatre": "上海上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/EQ0D01SG0518NN7Q.html",
+      "cast": [
+        {
+          "role": "Roger",
+          "artist": "阿拉丁"
+        },
+        {
+          "role": "Mimi",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-27 19:30",
+      "city": "上海",
+      "musical": "快把我哥带走",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/34905945/",
+      "cast": [
+        {
+          "role": "时分",
+          "artist": "周默涵"
+        },
+        {
+          "role": "开心",
+          "artist": "周锐"
+        },
+        {
+          "role": "万岁",
+          "artist": "李秋盟"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-27 19:30",
+      "city": "上海",
+      "musical": "长腿叔叔",
+      "theatre": "上海橙剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/358258608_678839/",
+      "cast": [
+        {
+          "role": "Jervis",
+          "artist": "丁辉"
+        },
+        {
+          "role": "Jerusha",
+          "artist": "蔡璐"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-27 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "FANCL艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/F0SS9P800517J7PC.html",
+      "cast": [
+        {
+          "role": "尤金·金",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "乔安",
+          "artist": "张会芳"
+        }
+      ]
+    },
+    {
+      "time": "2019-12-28 19:30",
+      "city": "上海",
+      "musical": "长腿叔叔",
+      "theatre": "上海橙剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/358258608_678839/",
+      "cast": [
+        {
+          "role": "Jervis",
+          "artist": "高杨"
+        },
+        {
+          "role": "Jerusha",
+          "artist": "陈希琰"
+        }
+      ]
+    }
+  ]
+}

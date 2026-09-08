@@ -1,0 +1,2095 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2020,
+    "note": "2020 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2020-01-01 19:30",
+      "city": "北京",
+      "musical": "放牛班的春天(中文版)",
+      "theatre": "二七剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.247tickets.com/t/les-choristes-beijing",
+      "cast": [
+        {
+          "role": "马修老师",
+          "artist": "孙博"
+        },
+        {
+          "role": "校长",
+          "artist": "卢野"
+        },
+        {
+          "role": "马老爹",
+          "artist": "贾宏"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-02 19:30",
+      "city": "深圳",
+      "musical": "芝加哥",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sznews.com/news/content/mb/2020-01/06/content_22757779.htm",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Ian Kelsey"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-02 19:30",
+      "city": "上海",
+      "musical": "追梦女郎",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_5430002",
+      "cast": [
+        {
+          "role": "Deena Jones",
+          "artist": "Sharaé Moultrie"
+        },
+        {
+          "role": "Effie White",
+          "artist": "Brittny Smith"
+        },
+        {
+          "role": "Lorrell Robinson",
+          "artist": "Candace Furbert"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-04 19:30",
+      "city": "北京",
+      "musical": "我的遗愿清单",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.taaisclub.com/bbs/xcx/discuz.php?mod=view&tid=1045",
+      "cast": [
+        {
+          "role": "刘宝",
+          "artist": "张博俊"
+        },
+        {
+          "role": "杨晓宇",
+          "artist": "方书剑"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-05 19:30",
+      "city": "西安",
+      "musical": "玛蒂尔达",
+      "theatre": "陕西大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/364368008_792899/",
+      "cast": [
+        {
+          "role": "Matilda",
+          "artist": "Zara Yazbek Polito"
+        },
+        {
+          "role": "Matilda",
+          "artist": "Sofia Poston"
+        },
+        {
+          "role": "Matilda",
+          "artist": "Zoe Modlinne"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-05 19:30",
+      "city": "上海",
+      "musical": "面试",
+      "theatre": "艺海剧场·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV16i3XzZEPX/",
+      "cast": [
+        {
+          "role": "辛克莱",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "乔安",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "尤金",
+          "artist": "夏振凯"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-07 19:30",
+      "city": "上海",
+      "musical": "FLAMES火焰",
+      "theatre": "ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/365242905_262521/",
+      "cast": [
+        {
+          "role": "Edmond",
+          "artist": "余笛"
+        },
+        {
+          "role": "Flora",
+          "artist": "蒋倩如"
+        },
+        {
+          "role": "Eric",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Eric",
+          "artist": "龚子棋"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-07 19:30",
+      "city": "上海",
+      "musical": "追梦女郎",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://xhpfmapi.xinhuaxmt.com/vh512/app/8787155",
+      "cast": [
+        {
+          "role": "Deena Jones",
+          "artist": "Sharaé Moultrie"
+        },
+        {
+          "role": "Effie White",
+          "artist": "Brittny Smith"
+        },
+        {
+          "role": "Lorrell Robinson",
+          "artist": "Candace Furbert"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-10 19:30",
+      "city": "北京",
+      "musical": "故宫里的大怪兽之消失的龙女嫁衣",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/366007445_683984/",
+      "cast": [
+        {
+          "role": "李小雨",
+          "artist": "胡茂龄"
+        },
+        {
+          "role": "小龙女",
+          "artist": "曹津歌"
+        },
+        {
+          "role": "龙王",
+          "artist": "唐堉"
+        },
+        {
+          "role": "吻兽",
+          "artist": "许庆泽"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-10 19:30",
+      "city": "上海",
+      "musical": "春之觉醒",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://clubz.cloudsation.com/event/3179.html",
+      "cast": [
+        {
+          "role": "Wendla",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "Moritz",
+          "artist": "胡超政"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-10 19:30",
+      "city": "上海",
+      "musical": "春之觉醒",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/365621438_675924",
+      "cast": [
+        {
+          "role": "Melchior",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "Wendla",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "Moritz",
+          "artist": "胡超政"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-11 19:30",
+      "city": "上海",
+      "musical": "春之觉醒",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/365621438_675924",
+      "cast": [
+        {
+          "role": "Melchior",
+          "artist": "张智涵"
+        },
+        {
+          "role": "Wendla",
+          "artist": "杨舒妍"
+        },
+        {
+          "role": "Moritz",
+          "artist": "张玮伦"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-12 14:00",
+      "city": "上海",
+      "musical": "春之觉醒",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1qJTSzMEL2/",
+      "cast": [
+        {
+          "role": "Wendla",
+          "artist": "杨舒妍"
+        },
+        {
+          "role": "Melchior",
+          "artist": "张智涵"
+        },
+        {
+          "role": "Moritz",
+          "artist": "张玮伦"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-12 19:30",
+      "city": "上海",
+      "musical": "春之觉醒(中文版)",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/av83230239/",
+      "cast": [
+        {
+          "role": "Melchior",
+          "artist": "张智涵"
+        },
+        {
+          "role": "Wendla",
+          "artist": "杨舒妍"
+        },
+        {
+          "role": "Moritz",
+          "artist": "张玮伦"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-12 19:30",
+      "city": "深圳",
+      "musical": "芝加哥",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.toodaylab.com/78000",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Ian Kelsey"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-15 19:30",
+      "city": "北京",
+      "musical": "三魅影明星演唱会",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6778674336627687950/",
+      "cast": [
+        {
+          "role": "Phantom",
+          "artist": "Earl Carpenter"
+        },
+        {
+          "role": "Phantom",
+          "artist": "John Owen-Jones"
+        },
+        {
+          "role": "Phantom",
+          "artist": "Jeremy Secomb"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-16 19:30",
+      "city": "上海",
+      "musical": "巴黎圣母院",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/opus/373558341099570625",
+      "cast": [
+        {
+          "role": "Quasimodo",
+          "artist": "Angelo Del Vecchio"
+        },
+        {
+          "role": "Esmeralda",
+          "artist": "Hiba Tawaji"
+        },
+        {
+          "role": "Frollo",
+          "artist": "Daniel Lavoie"
+        },
+        {
+          "role": "Gringoire",
+          "artist": "Richard Charest"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-16 19:30",
+      "city": "南京",
+      "musical": "玛蒂尔达",
+      "theatre": "南京保利大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/324945622_272549/",
+      "cast": [
+        {
+          "role": "Matilda",
+          "artist": "Zara Yazbek Polito"
+        },
+        {
+          "role": "Matilda",
+          "artist": "Sofia Poston"
+        },
+        {
+          "role": "Miss Honey",
+          "artist": "Haley Flaherty"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-18 19:30",
+      "city": "北京",
+      "musical": "三魅影明星演唱会",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.247tickets.com/t/three-phantoms-beijing",
+      "cast": [
+        {
+          "role": "Phantom",
+          "artist": "Earl Carpenter"
+        },
+        {
+          "role": "Phantom",
+          "artist": "John Owen-Jones"
+        },
+        {
+          "role": "Phantom",
+          "artist": "Jeremy Secomb"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-18 19:30",
+      "city": "上海",
+      "musical": "巴黎圣母院",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.thepaper.cn/newsdetail_forward_29844686",
+      "cast": [
+        {
+          "role": "Quasimodo",
+          "artist": "Angelo Del Vecchio"
+        },
+        {
+          "role": "Esmeralda",
+          "artist": "Hiba Tawaji"
+        },
+        {
+          "role": "Frollo",
+          "artist": "Daniel Lavoie"
+        }
+      ]
+    },
+    {
+      "time": "2020-01-21 19:30",
+      "city": "南京",
+      "musical": "玛蒂尔达",
+      "theatre": "南京保利大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/324945622_272549/",
+      "cast": [
+        {
+          "role": "Matilda",
+          "artist": "Zara Yazbek Polito"
+        },
+        {
+          "role": "Miss Trunchbull",
+          "artist": "Hayden Tee"
+        },
+        {
+          "role": "Miss Honey",
+          "artist": "Haley Flaherty"
+        }
+      ]
+    },
+    {
+      "time": "2020-03-06 19:30",
+      "city": "北京",
+      "musical": "FLAMES火焰",
+      "theatre": "北京喜剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.dahepiao.com/yanchupiaowu1/yyh/20200117116978.html",
+      "cast": [
+        {
+          "role": "Edmond",
+          "artist": "黄冠菘"
+        },
+        {
+          "role": "Eric",
+          "artist": "余笛"
+        },
+        {
+          "role": "Jules",
+          "artist": "蒋倩如"
+        }
+      ]
+    },
+    {
+      "time": "2020-03-07 14:30",
+      "city": "北京",
+      "musical": "FLAMES火焰",
+      "theatre": "北京喜剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.dahepiao.com/yanchupiaowu1/yyh/20200117116978.html",
+      "cast": [
+        {
+          "role": "Edmond",
+          "artist": "黄冠菘"
+        },
+        {
+          "role": "Eric",
+          "artist": "余笛"
+        }
+      ]
+    },
+    {
+      "time": "2020-03-07 19:30",
+      "city": "北京",
+      "musical": "FLAMES火焰",
+      "theatre": "北京喜剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.dahepiao.com/yanchupiaowu1/yyh/20200117116978.html",
+      "cast": [
+        {
+          "role": "Eric",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Edmond",
+          "artist": "王培杰"
+        }
+      ]
+    },
+    {
+      "time": "2020-05-29 19:30",
+      "city": "上海",
+      "musical": "二零二零年五月二十九日(集锦音乐会)",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.cnr.cn/zx/20200601/t20200601_525111581.shtml",
+      "cast": [
+        {
+          "role": "演唱嘉宾",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "演唱嘉宾",
+          "artist": "阿云嘎"
+        },
+        {
+          "role": "演唱嘉宾",
+          "artist": "丁辉"
+        },
+        {
+          "role": "演唱嘉宾",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2020-07-07 19:30",
+      "city": "上海",
+      "musical": "我的遗愿清单",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/405105456_169580/",
+      "cast": [
+        {
+          "role": "杨晓宇",
+          "artist": "方书剑"
+        },
+        {
+          "role": "刘宝",
+          "artist": "张智涵"
+        }
+      ]
+    },
+    {
+      "time": "2020-07-07 19:30",
+      "city": "上海",
+      "musical": "我的遗愿清单",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6846611324391129614/",
+      "cast": [
+        {
+          "role": "杨晓宇",
+          "artist": "周继琛"
+        }
+      ]
+    },
+    {
+      "time": "2020-07-12 19:30",
+      "city": "上海",
+      "musical": "郑艺彬X赵凡嘉双人音乐会",
+      "theatre": "上汽·上海文化广场(户外舞台)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.shcstheatre.com/juyuanpdf/132604337209774960.pdf",
+      "cast": [
+        {
+          "role": "演唱嘉宾",
+          "artist": "郑艺彬"
+        },
+        {
+          "role": "演唱嘉宾",
+          "artist": "赵凡嘉"
+        }
+      ]
+    },
+    {
+      "time": "2020-07-25 19:30",
+      "city": "上海",
+      "musical": "胡超政X周默涵双人音乐会",
+      "theatre": "上汽·上海文化广场(户外舞台)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sh.bendibao.com/tour/226864.html",
+      "cast": [
+        {
+          "role": "演唱嘉宾",
+          "artist": "胡超政"
+        },
+        {
+          "role": "演唱嘉宾",
+          "artist": "周默涵"
+        }
+      ]
+    },
+    {
+      "time": "2020-07-31 19:30",
+      "city": "上海",
+      "musical": "春之觉醒",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/34937638/",
+      "cast": [
+        {
+          "role": "Melchior",
+          "artist": "郑艺彬"
+        },
+        {
+          "role": "Wendla",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "Moritz",
+          "artist": "胡超政"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-05 19:30",
+      "city": "上海",
+      "musical": "马不停蹄的忧伤",
+      "theatre": "九棵树未来艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://3g.163.com/dy/article/FHH8KD2Q05349T9I.html",
+      "cast": [
+        {
+          "role": "林维埃 A",
+          "artist": "金圣权"
+        },
+        {
+          "role": "林维埃 B",
+          "artist": "陆宇鹏"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-15 14:30",
+      "city": "深圳",
+      "musical": "我的遗愿清单",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://static.nfapp.southcn.com/content/202007/14/c3763638.html",
+      "cast": [
+        {
+          "role": "刘宝",
+          "artist": "周可人"
+        },
+        {
+          "role": "杨晓宇",
+          "artist": "周继琛"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-15 19:30",
+      "city": "深圳",
+      "musical": "我的遗愿清单",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://static.nfapp.southcn.com/content/202007/14/c3763638.html",
+      "cast": [
+        {
+          "role": "刘宝",
+          "artist": "周可人"
+        },
+        {
+          "role": "杨晓宇",
+          "artist": "周继琛"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-15 20:00",
+      "city": "深圳",
+      "musical": "我的遗愿清单",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://static.nfapp.southcn.com/content/202007/14/c3763638.html",
+      "cast": [
+        {
+          "role": "刘宝",
+          "artist": "周可人"
+        },
+        {
+          "role": "杨晓宇",
+          "artist": "周继琛"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-16 19:30",
+      "city": "深圳",
+      "musical": "我的遗愿清单",
+      "theatre": "深圳保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_8678914",
+      "cast": [
+        {
+          "role": "刘宝",
+          "artist": "方书剑"
+        },
+        {
+          "role": "杨晓宇",
+          "artist": "张智涵"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-17 19:30",
+      "city": "南京",
+      "musical": "面试",
+      "theatre": "南京保利大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/412744022_272549/",
+      "cast": [
+        {
+          "role": "尤金",
+          "artist": "姜彬"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "乔安",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-18 19:30",
+      "city": "南京",
+      "musical": "面试",
+      "theatre": "南京保利大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/412744022_272549/",
+      "cast": [
+        {
+          "role": "尤金",
+          "artist": "姜彬"
+        },
+        {
+          "role": "辛克莱",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "乔安",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-25 19:30",
+      "city": "北京",
+      "musical": "醉后赢家",
+      "theatre": "地质礼堂剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6863072658830033416/",
+      "cast": [
+        {
+          "role": "李丁一",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "杜海燕",
+          "artist": "刘乙萱"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-28 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "亚洲大厦星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E4%BA%9A/58110040",
+      "cast": [
+        {
+          "role": "Stevie",
+          "artist": "叶麒圣"
+        },
+        {
+          "role": "Oscar",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "Richard",
+          "artist": "李磊"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-28 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "亚洲大厦星空间",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E4%BA%9A/58110040",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "李磊"
+        },
+        {
+          "role": "Oscar",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "Stevie",
+          "artist": "曹牧之"
+        }
+      ]
+    },
+    {
+      "time": "2020-08-28 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "亚洲大厦星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E4%BA%9A/58110040",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "朱亮"
+        },
+        {
+          "role": "Oscar",
+          "artist": "曾鑫"
+        },
+        {
+          "role": "Stevie",
+          "artist": "陈科铭"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-05 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.bilibili.com/video/BV1gy4y1y7Qx",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "张泽"
+        },
+        {
+          "role": "Oscar",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "Stevie",
+          "artist": "周仕麒"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-05 22:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.bilibili.com/video/av457069270",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "郭嘉轩"
+        },
+        {
+          "role": "Oscar",
+          "artist": "张玮伦"
+        },
+        {
+          "role": "Stevie",
+          "artist": "叶麒圣"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-06 19:30",
+      "city": "北京",
+      "musical": "醉后赢家",
+      "theatre": "地质礼堂剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1fc411M7uE/",
+      "cast": [
+        {
+          "role": "李丁一",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "杜海燕",
+          "artist": "刘乙萱"
+        },
+        {
+          "role": "杨大智",
+          "artist": "李乐尧"
+        },
+        {
+          "role": "常青",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "周大福",
+          "artist": "杨映宇"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-11 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV11K411K7nc",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "张泽"
+        },
+        {
+          "role": "Oscar",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "Stevie",
+          "artist": "叶麒圣"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-24 19:30",
+      "city": "深圳",
+      "musical": "重生",
+      "theatre": "深圳大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E9%87%8D%E7%94%9F/23482024",
+      "cast": [
+        {
+          "role": "罗金勇",
+          "artist": "刘岩"
+        },
+        {
+          "role": "罗映珍",
+          "artist": "徐瑶"
+        },
+        {
+          "role": "白先锋",
+          "artist": "赵申"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-25 19:30",
+      "city": "佛山",
+      "musical": "献给阿尔吉侬的花束",
+      "theatre": "佛山大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Da4y1j7W5/",
+      "cast": [
+        {
+          "role": "查理·高登",
+          "artist": "张博俊"
+        },
+        {
+          "role": "爱丽丝·纪尼安",
+          "artist": "吕润桐"
+        },
+        {
+          "role": "斯特劳斯博士",
+          "artist": "赵禹钧"
+        },
+        {
+          "role": "少年查理/阿尔吉侬",
+          "artist": "曹牧之"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-25 19:30",
+      "city": "深圳",
+      "musical": "重生",
+      "theatre": "深圳大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E9%87%8D%E7%94%9F/23482024",
+      "cast": [
+        {
+          "role": "罗金勇",
+          "artist": "马佳"
+        },
+        {
+          "role": "罗映珍",
+          "artist": "徐瑶"
+        },
+        {
+          "role": "白先锋",
+          "artist": "赵申"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-25 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV11K411P7yc/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "张泽"
+        }
+      ]
+    },
+    {
+      "time": "2020-09-26 14:30",
+      "city": "深圳",
+      "musical": "重生",
+      "theatre": "深圳大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E9%87%8D%E7%94%9F/23482024",
+      "cast": [
+        {
+          "role": "罗金勇",
+          "artist": "刘岩"
+        },
+        {
+          "role": "罗映珍",
+          "artist": "蔡忻如"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-04 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1PK411N7Jx/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "张泽"
+        },
+        {
+          "role": "Oscar",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "Stevie",
+          "artist": "周仕麒"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-05 14:00",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1PK411N7Jx/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "张泽"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-10 19:30",
+      "city": "杭州",
+      "musical": "我知道你会来，所以我等",
+      "theatre": "杭州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/35267214/comments/",
+      "cast": [
+        {
+          "role": "苏茜",
+          "artist": "苏茜"
+        },
+        {
+          "role": "周扬",
+          "artist": "周扬"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-11 14:30",
+      "city": "杭州",
+      "musical": "我知道你会来，所以我等",
+      "theatre": "杭州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/35267214/comments/",
+      "cast": [
+        {
+          "role": "苏茜",
+          "artist": "苏茜"
+        },
+        {
+          "role": "周扬",
+          "artist": "周扬"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-16 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "中国大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/425397694_169580/",
+      "cast": [
+        {
+          "role": "Sara",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "Tom",
+          "artist": "金圣权"
+        },
+        {
+          "role": "Michael",
+          "artist": "叶麒圣"
+        },
+        {
+          "role": "Narrator",
+          "artist": "沐里"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-16 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "中国大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E8%B0%8B%E6%9D%80%E6%AD%8C%E8%B0%A3/19768021",
+      "cast": [
+        {
+          "role": "Sara",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "Tom",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Michael",
+          "artist": "余笛"
+        },
+        {
+          "role": "Narrator",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-17 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "中国大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6884487441604936199/",
+      "cast": [
+        {
+          "role": "Sara",
+          "artist": "丁臻滢"
+        },
+        {
+          "role": "Tom",
+          "artist": "龚子棋"
+        },
+        {
+          "role": "Michael",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "Narrator",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-17 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1v94y1K7fM/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "郭嘉轩"
+        },
+        {
+          "role": "Oscar",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "Stevie",
+          "artist": "叶麒圣"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-18 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "中国大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6884487441604936199/",
+      "cast": [
+        {
+          "role": "Sara",
+          "artist": "张会芳"
+        },
+        {
+          "role": "Tom",
+          "artist": "张泽"
+        },
+        {
+          "role": "Michael",
+          "artist": "金圣权"
+        },
+        {
+          "role": "Narrator",
+          "artist": "沐里"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-20 19:30",
+      "city": "上海",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://3g.163.com/dy/article/FPB18A3U05349T9I.html",
+      "cast": [
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "刘阳"
+        },
+        {
+          "role": "达利",
+          "artist": "贾凡"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-21 19:30",
+      "city": "上海",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/av202581093/",
+      "cast": [
+        {
+          "role": "尼古拉·达利",
+          "artist": "贾凡"
+        },
+        {
+          "role": "拉赫玛尼诺夫",
+          "artist": "刘阳"
+        }
+      ]
+    },
+    {
+      "time": "2020-10-31 14:00",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV19y4y1B7sy/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "郭嘉轩"
+        },
+        {
+          "role": "Oscar",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "Stevie",
+          "artist": "周仕麒"
+        }
+      ]
+    },
+    {
+      "time": "2020-11-11 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1fK4y1Z7C3/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "张泽"
+        },
+        {
+          "role": "Oscar",
+          "artist": "张玮伦"
+        },
+        {
+          "role": "Stevie",
+          "artist": "曹牧之"
+        }
+      ]
+    },
+    {
+      "time": "2020-11-14 14:30",
+      "city": "北京",
+      "musical": "第一次约会",
+      "theatre": "北京世纪剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/35014083/",
+      "cast": [
+        {
+          "role": "亚伦",
+          "artist": "高杨"
+        },
+        {
+          "role": "凯茜",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "盖比",
+          "artist": "余镇鳌"
+        }
+      ]
+    },
+    {
+      "time": "2020-11-14 19:30",
+      "city": "北京",
+      "musical": "第一次约会",
+      "theatre": "北京世纪剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/35014083/",
+      "cast": [
+        {
+          "role": "亚伦",
+          "artist": "高杨"
+        },
+        {
+          "role": "凯茜",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "盖比",
+          "artist": "余镇鳌"
+        }
+      ]
+    },
+    {
+      "time": "2020-11-15 14:30",
+      "city": "北京",
+      "musical": "第一次约会",
+      "theatre": "北京世纪剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/35014083/",
+      "cast": [
+        {
+          "role": "亚伦",
+          "artist": "高杨"
+        },
+        {
+          "role": "凯茜",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "盖比",
+          "artist": "余镇鳌"
+        }
+      ]
+    },
+    {
+      "time": "2020-11-26 19:30",
+      "city": "南京",
+      "musical": "我的遗愿清单",
+      "theatre": "南京保利大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/426614700_169580/",
+      "cast": [
+        {
+          "role": "杨晓宇",
+          "artist": "周继琛"
+        },
+        {
+          "role": "刘宝",
+          "artist": "张博俊"
+        }
+      ]
+    },
+    {
+      "time": "2020-11-28 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/av461069963/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "李磊"
+        },
+        {
+          "role": "Oscar",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "Stevie",
+          "artist": "周仕麒"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-04 19:30",
+      "city": "上海",
+      "musical": "灵魂摆渡之永生",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/430689026_169580/",
+      "cast": [
+        {
+          "role": "赵吏",
+          "artist": "于毅"
+        },
+        {
+          "role": "夏冬青",
+          "artist": "方晓东"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-04 22:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Ma411c7t5/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "张泽"
+        },
+        {
+          "role": "Oscar",
+          "artist": "张玮伦"
+        },
+        {
+          "role": "Stevie",
+          "artist": "叶麒圣"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-05 19:30",
+      "city": "上海",
+      "musical": "灵魂摆渡之永生",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/430689026_169580/",
+      "cast": [
+        {
+          "role": "赵吏",
+          "artist": "于毅"
+        },
+        {
+          "role": "夏冬青",
+          "artist": "方晓东"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-05 19:30",
+      "city": "扬州",
+      "musical": "谋杀歌谣",
+      "theatre": "琼花大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1bq4y1a7e1/",
+      "cast": [
+        {
+          "role": "Sara",
+          "artist": "张会芳"
+        },
+        {
+          "role": "Tom",
+          "artist": "张泽"
+        },
+        {
+          "role": "Michael",
+          "artist": "叶麒圣"
+        },
+        {
+          "role": "Narrator",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-11 19:30",
+      "city": "广州",
+      "musical": "灵魂摆渡之永生",
+      "theatre": "广州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://mobile.gzdjy.org/ticket/7/4886.html",
+      "cast": [
+        {
+          "role": "赵吏",
+          "artist": "邓靖弘"
+        },
+        {
+          "role": "夏冬青",
+          "artist": "方晓东"
+        },
+        {
+          "role": "王小亚",
+          "artist": "崔秀丽"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-12 19:30",
+      "city": "北京",
+      "musical": "献给阿尔吉侬的花束",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1LM4y1V7WB",
+      "cast": [
+        {
+          "role": "查理·高登",
+          "artist": "张博俊"
+        },
+        {
+          "role": "爱丽丝·纪尼安",
+          "artist": "吕润桐"
+        },
+        {
+          "role": "斯特劳斯博士",
+          "artist": "赵禹钧"
+        },
+        {
+          "role": "少年查理",
+          "artist": "曹牧之"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-18 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/439140777_272883/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-18 19:30",
+      "city": "上海",
+      "musical": "危险游戏",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/439140777_272883/",
+      "cast": [
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "内森",
+          "artist": "冒海飞"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-19 14:00",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1sz4y1r7oY",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "李苏霖"
+        },
+        {
+          "role": "Oscar",
+          "artist": "张玮伦"
+        },
+        {
+          "role": "Stevie",
+          "artist": "叶麒圣"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-19 19:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1w54y1p7sF/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "郭嘉轩"
+        },
+        {
+          "role": "Oscar",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "Stevie",
+          "artist": "周仕麒"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-22 19:30",
+      "city": "上海",
+      "musical": "贝多芬",
+      "theatre": "上海虹桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/412059928_309168",
+      "cast": [
+        {
+          "role": "路德维希",
+          "artist": "贾凡"
+        },
+        {
+          "role": "舒伯特",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "玛丽",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-23 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Xh411Q7qK",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-23 19:30",
+      "city": "上海",
+      "musical": "贝多芬",
+      "theatre": "上海虹桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/412059928_309168",
+      "cast": [
+        {
+          "role": "路德维希",
+          "artist": "贾凡"
+        },
+        {
+          "role": "舒伯特",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "玛丽",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-24 19:30",
+      "city": "北京",
+      "musical": "在远方",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.chinawriter.com.cn/n1/2020/1225/c419389-31979411.html",
+      "cast": [
+        {
+          "role": "姚远",
+          "artist": "阿云嘎"
+        },
+        {
+          "role": "路晓欧",
+          "artist": "安悦溪"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-24 19:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.online.sh.cn/joy/content/2020-12/25/content_9694291.htm",
+      "cast": [
+        {
+          "role": "White",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Grey",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "Hugh",
+          "artist": "宗俊涛"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-24 19:30",
+      "city": "上海",
+      "musical": "白夜行",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6905931028029047304/",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-24 19:30",
+      "city": "上海",
+      "musical": "贝多芬",
+      "theatre": "上海虹桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/412059928_309168",
+      "cast": [
+        {
+          "role": "路德维希",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "舒伯特",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "玛丽",
+          "artist": "吕润桐"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-25 14:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "上海人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://szb.wxrb.com/jnwb/pc/content/202012/25/content_67040.html",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "黄冠菘"
+        },
+        {
+          "role": "格雷·亨特",
+          "artist": "王培杰"
+        },
+        {
+          "role": "休·戴克",
+          "artist": "王乐天"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-25 19:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "上海人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.sina.cn/xiju/operamusical/2020-12-25/detail-iiznctke8347063.d.html",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "格雷·亨特",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "休·戴克",
+          "artist": "宗俊涛"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-25 19:30",
+      "city": "杭州",
+      "musical": "谋杀歌谣",
+      "theatre": "浙江省人民大会堂",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/dy/article/FRNQ5H240517Q73N.html",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "龚子棋"
+        },
+        {
+          "role": "Michael",
+          "artist": "金圣权"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-25 19:30",
+      "city": "上海",
+      "musical": "贝多芬",
+      "theatre": "上海虹桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/412059928_309168",
+      "cast": [
+        {
+          "role": "路德维希",
+          "artist": "贾凡"
+        },
+        {
+          "role": "舒伯特",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "玛丽",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-25 22:30",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Uy4y1i7Qs",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "李苏霖"
+        },
+        {
+          "role": "Oscar",
+          "artist": "李秋盟"
+        },
+        {
+          "role": "Stevie",
+          "artist": "叶麒圣"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-26 14:00",
+      "city": "上海",
+      "musical": "阿波罗尼亚",
+      "theatre": "星空间1号",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1gy4y1H7ga",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "李苏霖"
+        },
+        {
+          "role": "Oscar",
+          "artist": "张玮伦"
+        },
+        {
+          "role": "Stevie",
+          "artist": "周仕麒"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-26 14:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV12m4y137Wz/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "理查德",
+          "artist": "赵伟钢"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-26 14:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "上海人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.huanghepiao.com/event/24706/",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "格雷·亨特",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "休·戴克",
+          "artist": "宗俊涛"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-26 14:30",
+      "city": "南京",
+      "musical": "春之觉醒",
+      "theatre": "江苏大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/436854940_272549",
+      "cast": [
+        {
+          "role": "Melchior",
+          "artist": "郑艺彬"
+        },
+        {
+          "role": "Wendla",
+          "artist": "李炜铃"
+        },
+        {
+          "role": "Moritz",
+          "artist": "胡超政"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-26 14:30",
+      "city": "上海",
+      "musical": "贝多芬",
+      "theatre": "上海虹桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/412059928_309168",
+      "cast": [
+        {
+          "role": "路德维希",
+          "artist": "祝颂皓"
+        },
+        {
+          "role": "舒伯特",
+          "artist": "贾凡"
+        },
+        {
+          "role": "玛丽",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-27 19:30",
+      "city": "上海",
+      "musical": "贝多芬",
+      "theatre": "上海虹桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.sohu.com/a/412059928_309168",
+      "cast": [
+        {
+          "role": "路德维希",
+          "artist": "贾凡"
+        },
+        {
+          "role": "舒伯特",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "玛丽",
+          "artist": "余思冉"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-29 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "龚子棋"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-29 19:30",
+      "city": "上海",
+      "musical": "小说",
+      "theatre": "缪时客小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/441325696_272883/",
+      "cast": [
+        {
+          "role": "怀特·希斯曼",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "休·戴克",
+          "artist": "于晓璘"
+        },
+        {
+          "role": "格雷·亨特",
+          "artist": "黄冠菘"
+        }
+      ]
+    },
+    {
+      "time": "2020-12-30 19:30",
+      "city": "上海",
+      "musical": "中剧场危险游戏",
+      "theatre": "上海共舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "excel://zhongjiacheng_2026-08.xlsx",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "钟嘉诚"
+        },
+        {
+          "role": "",
+          "artist": "龚子棋"
+        }
+      ]
+    }
+  ]
+}

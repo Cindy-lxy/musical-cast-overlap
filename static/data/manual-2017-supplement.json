@@ -1,0 +1,2137 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2017,
+    "note": "2017 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2017-02-14 19:30",
+      "city": "上海",
+      "musical": "不能说的秘密",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://cnews.chinadaily.com.cn/2017-02/14/content_28194276.htm",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "汪小敏"
+        }
+      ]
+    },
+    {
+      "time": "2017-02-15 19:30",
+      "city": "上海",
+      "musical": "地下铁",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://taimay.com/posts/x000028",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "魏如昀"
+        },
+        {
+          "role": "主演",
+          "artist": "HUSH"
+        },
+        {
+          "role": "主演",
+          "artist": "梁小卫"
+        }
+      ]
+    },
+    {
+      "time": "2017-02-21 19:30",
+      "city": "上海",
+      "musical": "不能说的秘密",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://clubz.cloudsation.com/event/1699.html",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "汪小敏"
+        }
+      ]
+    },
+    {
+      "time": "2017-02-22 19:30",
+      "city": "北京",
+      "musical": "危险游戏",
+      "theatre": "北京天桥艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/499059680/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘岩"
+        }
+      ]
+    },
+    {
+      "time": "2017-02-23 19:30",
+      "city": "北京",
+      "musical": "危险游戏",
+      "theatre": "北京天桥艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/499059680/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "理查德",
+          "artist": "王培杰"
+        }
+      ]
+    },
+    {
+      "time": "2017-03-12 19:30",
+      "city": "北京",
+      "musical": "危险游戏",
+      "theatre": "北京天桥艺术中心·小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/n/499059680/",
+      "cast": [
+        {
+          "role": "内森",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "理查德",
+          "artist": "刘岩"
+        }
+      ]
+    },
+    {
+      "time": "2017-04-11 19:30",
+      "city": "上海",
+      "musical": "魔法坏女巫",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.sina.cn/2017-03-14/detail-ifychavf2657850.d.html",
+      "cast": [
+        {
+          "role": "Elphaba",
+          "artist": "Jodie Steele"
+        },
+        {
+          "role": "Glinda",
+          "artist": "Carly Anderson"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-11 19:30",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "解放军歌剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/139902276_548935/",
+      "cast": [
+        {
+          "role": "堂吉诃德",
+          "artist": "刘阳"
+        },
+        {
+          "role": "阿尔东莎",
+          "artist": "刘晓翠"
+        },
+        {
+          "role": "桑丘",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-27 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        },
+        {
+          "role": "特别演出嘉宾",
+          "artist": "郭林钧"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-27 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-28 14:00",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-28 14:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-28 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-28 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-29 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-30 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-30 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-05-31 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-01 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-02 19:30",
+      "city": "石家庄",
+      "musical": "因味爱，所以爱",
+      "theatre": "精英剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/145350683_785578/",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "张忆亚"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "陈希琰"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-02 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-02 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-03 14:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-03 19:30",
+      "city": "石家庄",
+      "musical": "因味爱，所以爱",
+      "theatre": "精英剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/145350683_785578/",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "张忆亚"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "陈希琰"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-03 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-03 19:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-04 14:00",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://weibo.com/5522387632/F55T9l0p0",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucy",
+          "artist": "杨琳"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        },
+        {
+          "role": "白浅音",
+          "artist": "年蔓婷"
+        },
+        {
+          "role": "单友朋",
+          "artist": "李亚泽"
+        },
+        {
+          "role": "多功能人",
+          "artist": "张忆亚"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-04 14:30",
+      "city": "上海",
+      "musical": "泰爱你",
+      "theatre": "共舞台ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/133317078_272883/",
+      "cast": [
+        {
+          "role": "泰迪",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "Angel",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Lucky",
+          "artist": "翟李朔天"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-23 19:30",
+      "city": "北京",
+      "musical": "想变成人的猫",
+      "theatre": "保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://japan.people.com.cn/n1/2017/0624/c35421-29359971.html",
+      "cast": [
+        {
+          "role": "莱奥尼",
+          "artist": "李响"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-23 19:30",
+      "city": "北京",
+      "musical": "洗衣服",
+      "theatre": "北京大隐剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/152180013_117347",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "张芳瑜"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "刘杨"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "杜鑫艳"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-24 14:00",
+      "city": "北京",
+      "musical": "洗衣服",
+      "theatre": "北京大隐剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/152180013_117347",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "张芳瑜"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "刘杨"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "杜鑫艳"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-25 19:30",
+      "city": "北京",
+      "musical": "洗衣服",
+      "theatre": "北京大隐剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/152180013_117347",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "张芳瑜"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "刘杨"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "杜鑫艳"
+        }
+      ]
+    },
+    {
+      "time": "2017-06-27 19:30",
+      "city": "上海",
+      "musical": "保镖",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.sina.cn/2017-03-14/detail-ifychavf2657850.d.html",
+      "cast": [
+        {
+          "role": "Rachel Marron",
+          "artist": "Alexandra Burke"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-05 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/141666191_242631/",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Sara",
+          "artist": "朱梓溶"
+        },
+        {
+          "role": "Michael",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "旁白",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-06 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海大剧院-中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E8%B0%8B%E6%9D%80%E6%AD%8C%E8%B0%A3/19768021",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Michael",
+          "artist": "苏江涛"
+        },
+        {
+          "role": "Sara",
+          "artist": "朱梓溶"
+        },
+        {
+          "role": "旁白",
+          "artist": "李嘉珍"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-09 19:30",
+      "city": "北京",
+      "musical": "洗衣服",
+      "theatre": "北京大隐剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/156069216_99935743",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "张芳瑜"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "刘杨"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "杜鑫艳"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-10 19:30",
+      "city": "上海",
+      "musical": "隐婚男女",
+      "theatre": "黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.jiemian.com/article/1458019.html",
+      "cast": [
+        {
+          "role": "崔民国",
+          "artist": "王培杰"
+        },
+        {
+          "role": "张静宜",
+          "artist": "崔秀丽"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-11 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/156277014_169580/",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "刘同"
+        },
+        {
+          "role": "Sara",
+          "artist": "苏诗丁"
+        },
+        {
+          "role": "Michael",
+          "artist": "苏江涛"
+        },
+        {
+          "role": "旁白",
+          "artist": "李嘉珍"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-15 19:30",
+      "city": "上海",
+      "musical": "想变成人的猫",
+      "theatre": "美琪大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.whb.cn/zhuzhan/xinwen/20170718/97942.html",
+      "cast": [
+        {
+          "role": "莱奥尼",
+          "artist": "李响"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-18 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海大剧院-中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/156277014_169580",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Michael",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "Sara",
+          "artist": "苏诗丁"
+        },
+        {
+          "role": "旁白",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-20 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/156277014_169580/",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Sara",
+          "artist": "朱梓溶"
+        },
+        {
+          "role": "Michael",
+          "artist": "蒋奇明"
+        }
+      ]
+    },
+    {
+      "time": "2017-07-28 19:30",
+      "city": "上海",
+      "musical": "变身怪医",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.jiemian.com/article/1175073.html",
+      "cast": [
+        {
+          "role": "杰克/海德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "艾玛",
+          "artist": "王梓庭"
+        },
+        {
+          "role": "露西",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2017-08-01 19:30",
+      "city": "上海",
+      "musical": "变身怪医",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.jiemian.com/article/1175073.html",
+      "cast": [
+        {
+          "role": "杰克/海德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "艾玛",
+          "artist": "王梓庭"
+        },
+        {
+          "role": "露西",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2017-08-08 19:30",
+      "city": "上海",
+      "musical": "我的遗愿清单",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.sina.cn/2017-03-14/detail-ifychavf2657850.d.html",
+      "cast": [
+        {
+          "role": "杨晓宇",
+          "artist": "张智涵"
+        },
+        {
+          "role": "刘宝",
+          "artist": "丁辉"
+        }
+      ]
+    },
+    {
+      "time": "2017-08-10 19:30",
+      "city": "上海",
+      "musical": "变身怪医",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.bilibili.com/video/av13420617.html",
+      "cast": [
+        {
+          "role": "杰克/海德",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "艾玛",
+          "artist": "王梓庭"
+        },
+        {
+          "role": "露西",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2017-08-11 19:30",
+      "city": "上海",
+      "musical": "点心侠",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://news.sina.cn/2017-07-22/detail-ifyihrwk1857343.d.html?from=wap",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "丁辉"
+        }
+      ]
+    },
+    {
+      "time": "2017-08-11 19:30",
+      "city": "北京",
+      "musical": "谋杀歌谣",
+      "theatre": "北京天桥艺术中心-小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.163.com/ent/article/CRKNQLGC000380CJ.html",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Michael",
+          "artist": "刘同"
+        },
+        {
+          "role": "Sara",
+          "artist": "朱梓溶"
+        },
+        {
+          "role": "旁白",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2017-08-15 19:30",
+      "city": "上海",
+      "musical": "变身怪医",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.bilibili.com/video/av13420617.html",
+      "cast": [
+        {
+          "role": "杰克/海德",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "艾玛",
+          "artist": "王梓庭"
+        },
+        {
+          "role": "露西",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2017-08-16 19:30",
+      "city": "北京",
+      "musical": "谋杀歌谣",
+      "theatre": "北京天桥艺术中心-小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/164764405_99944063",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "Michael",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "Sara",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "旁白",
+          "artist": "李嘉珍"
+        }
+      ]
+    },
+    {
+      "time": "2017-09-22 19:30",
+      "city": "石家庄",
+      "musical": "因味爱，所以爱",
+      "theatre": "精英剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/192130907_822225/",
+      "cast": [
+        {
+          "role": "刘焱",
+          "artist": "张忆亚"
+        },
+        {
+          "role": "林淼淼",
+          "artist": "陈希琰"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-01 16:00",
+      "city": "北京",
+      "musical": "千万留神",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_6033013801_167987c29001001tpz.html",
+      "cast": [
+        {
+          "role": "白大高",
+          "artist": "王得智"
+        },
+        {
+          "role": "苗芊芊",
+          "artist": "金银玲"
+        },
+        {
+          "role": "苏老板",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-01 19:30",
+      "city": "东莞",
+      "musical": "想变成人的猫",
+      "theatre": "东莞市民艺术中心星剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://news.sina.com.cn/c/2017-09-28/doc-ifymksyw4600609.shtml",
+      "cast": [
+        {
+          "role": "莱奥尼",
+          "artist": "李响"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-02 19:30",
+      "city": "北京",
+      "musical": "千万留神",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_6033013801_167987c29001001tpz.html",
+      "cast": [
+        {
+          "role": "白大高",
+          "artist": "王得智"
+        },
+        {
+          "role": "苗芊芊",
+          "artist": "金银玲"
+        },
+        {
+          "role": "苏老板",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-03 19:30",
+      "city": "北京",
+      "musical": "千万留神",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_6033013801_167987c29001001tpz.html",
+      "cast": [
+        {
+          "role": "白大高",
+          "artist": "王得智"
+        },
+        {
+          "role": "苗芊芊",
+          "artist": "金银玲"
+        },
+        {
+          "role": "苏老板",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-04 19:30",
+      "city": "北京",
+      "musical": "千万留神",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_6033013801_167987c29001001tpz.html",
+      "cast": [
+        {
+          "role": "白大高",
+          "artist": "王得智"
+        },
+        {
+          "role": "苗芊芊",
+          "artist": "金银玲"
+        },
+        {
+          "role": "苏老板",
+          "artist": "小柯"
+        },
+        {
+          "role": "桑大夫",
+          "artist": "桑可舟"
+        },
+        {
+          "role": "吴鑫",
+          "artist": "毕远峰"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-11 19:30",
+      "city": "广州",
+      "musical": "变身怪医",
+      "theatre": "广州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/195612191_299906/",
+      "cast": [
+        {
+          "role": "杰克/海德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "艾玛",
+          "artist": "王梓庭"
+        },
+        {
+          "role": "露西",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-26 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-26 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-27 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-27 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-28 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-28 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-29 14:00",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-29 14:00",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-31 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-10-31 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-01 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-02 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-03 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-03 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-03 19:30",
+      "city": "上海",
+      "musical": "梵高",
+      "theatre": "ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/news/a/202083146_589995/",
+      "cast": [
+        {
+          "role": "文森特·梵高",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "提奥·梵高",
+          "artist": "孙豆尔"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-04 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-04 19:30",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-05 14:00",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/199906503_740643",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        },
+        {
+          "role": "主演",
+          "artist": "贺梦洁"
+        },
+        {
+          "role": "主演",
+          "artist": "范艺"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-05 14:00",
+      "city": "上海",
+      "musical": "人言",
+      "theatre": "1933微剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/200464155_740643/",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "韩霜"
+        },
+        {
+          "role": "主演",
+          "artist": "万博"
+        },
+        {
+          "role": "主演",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "主演",
+          "artist": "郭亢"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-15 19:30",
+      "city": "上海",
+      "musical": "恋恋香格里拉",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.chinanews.com/wap/detail/chs/zw/8379080.shtml",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "司雯"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-16 19:30",
+      "city": "兰州",
+      "musical": "想变成人的猫",
+      "theatre": "甘肃大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.dxbei.com/n/20171116/283659.html",
+      "cast": [
+        {
+          "role": "莱奥尼",
+          "artist": "李响"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-17 19:30",
+      "city": "上海",
+      "musical": "恋恋香格里拉",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.chinanews.com/wap/detail/chs/zw/8379080.shtml",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "主演",
+          "artist": "司雯"
+        },
+        {
+          "role": "主演",
+          "artist": "丁辉"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-23 19:30",
+      "city": "上海",
+      "musical": "西区故事",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/197877459_675924/",
+      "cast": [
+        {
+          "role": "Tony",
+          "artist": "Kevin Hack"
+        },
+        {
+          "role": "Maria",
+          "artist": "Jenna Burns"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-29 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.163.com/dy/article/ES8947DD0534ANDJ.html",
+      "cast": [
+        {
+          "role": "Michael",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Sara",
+          "artist": "徐丽东"
+        },
+        {
+          "role": "Tom",
+          "artist": "刘令飞"
+        }
+      ]
+    },
+    {
+      "time": "2017-11-29 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.sina.com.cn/y/yneidi/2017-12-05/doc-ifypikwt9889918.shtml",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "Michael",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "Sara",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "旁白",
+          "artist": "李嘉珍"
+        }
+      ]
+    },
+    {
+      "time": "2017-12-05 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.sina.com.cn/y/yneidi/2017-12-05/doc-ifypikwt9889918.shtml",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Michael",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "Sara",
+          "artist": "徐丽东"
+        },
+        {
+          "role": "旁白",
+          "artist": "李嘉珍"
+        }
+      ]
+    },
+    {
+      "time": "2017-12-06 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/209038448_309168/",
+      "cast": [
+        {
+          "role": "Michael",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Sara",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "Tom",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "旁白",
+          "artist": "李嘉珍"
+        }
+      ]
+    },
+    {
+      "time": "2017-12-07 19:15",
+      "city": "上海",
+      "musical": "繁花尽落的青春",
+      "theatre": "上海东方艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.trueart.com/news/242555.html",
+      "cast": [
+        {
+          "role": "主演",
+          "artist": "王嘉悦"
+        },
+        {
+          "role": "主演",
+          "artist": "吕润桐"
+        }
+      ]
+    },
+    {
+      "time": "2017-12-10 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/209038448_309168/",
+      "cast": [
+        {
+          "role": "Michael",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Sara",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2017-12-14 19:30",
+      "city": "上海",
+      "musical": "律政俏佳人",
+      "theatre": "上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/197877459_675924/",
+      "cast": [
+        {
+          "role": "Elle Woods",
+          "artist": "Maris McCulley"
+        }
+      ]
+    }
+  ]
+}

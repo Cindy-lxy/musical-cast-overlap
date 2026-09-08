@@ -1,0 +1,1531 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2018,
+    "note": "2018 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2018-01-02 19:30",
+      "city": "上海",
+      "musical": "摇滚莫扎特",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://clubz.cloudsation.com/event/2027.html",
+      "cast": [
+        {
+          "role": "Mozart",
+          "artist": "Mikelangelo Loconte"
+        },
+        {
+          "role": "Salieri",
+          "artist": "Florent Mothe"
+        },
+        {
+          "role": "Leopold Mozart",
+          "artist": "Laurent Ban"
+        }
+      ]
+    },
+    {
+      "time": "2018-01-05 19:30",
+      "city": "上海",
+      "musical": "摇滚年代",
+      "theatre": "ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/av17909575/",
+      "cast": [
+        {
+          "role": "Stacee Jaxx",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Drew",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "Sherrie",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2018-01-10 19:30",
+      "city": "北京",
+      "musical": "律政俏佳人",
+      "theatre": "保利剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://culture.taiwan.cn/cul/201801/t20180113_11890437.htm",
+      "cast": [
+        {
+          "role": "Elle Woods",
+          "artist": "Maris McCulley"
+        },
+        {
+          "role": "Emmett Forrest",
+          "artist": "J. D. Daw"
+        }
+      ]
+    },
+    {
+      "time": "2018-01-16 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "黄浦剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.sina.cn/music/yneidi/2017-12-21/detail-ifypxrpp3204306.d.html",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "Sara",
+          "artist": "徐丽东"
+        },
+        {
+          "role": "Michael",
+          "artist": "郑云龙"
+        }
+      ]
+    },
+    {
+      "time": "2018-01-16 19:30",
+      "city": "上海",
+      "musical": "谋杀歌谣",
+      "theatre": "上海大剧院-中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.sina.cn/music/yneidi/2017-12-21/detail-ifypxrpp3204306.d.html",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "Michael",
+          "artist": "刘同"
+        },
+        {
+          "role": "Sara",
+          "artist": "徐丽东"
+        },
+        {
+          "role": "旁白",
+          "artist": "崔恩尔"
+        }
+      ]
+    },
+    {
+      "time": "2018-01-20 19:30",
+      "city": "北京",
+      "musical": "想变成人的猫",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.zsyyt.org/ShowNews.asp?id=3818",
+      "cast": [
+        {
+          "role": "Lionel",
+          "artist": "李响"
+        },
+        {
+          "role": "Swaggle",
+          "artist": "王瀚宇"
+        }
+      ]
+    },
+    {
+      "time": "2018-03-21 19:30",
+      "city": "上海",
+      "musical": "我的遗愿清单",
+      "theatre": "上海大剧院·别克中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/news/a/215887954_675924/",
+      "cast": [
+        {
+          "role": "杨晓宇",
+          "artist": "阿云嘎"
+        },
+        {
+          "role": "刘宝",
+          "artist": "张博俊"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-04 19:30",
+      "city": "上海",
+      "musical": "我的长腿叔叔",
+      "theatre": "上海兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://y.saoju.net/yyj/musical/138/",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "张会芳"
+        },
+        {
+          "role": "Jervis",
+          "artist": "高杨"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-04 19:30",
+      "city": "上海",
+      "musical": "长腿叔叔",
+      "theatre": "兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_3187817",
+      "cast": [
+        {
+          "role": "Jervis",
+          "artist": "施哲明"
+        },
+        {
+          "role": "Jerusha",
+          "artist": "张会芳"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-05 19:30",
+      "city": "上海",
+      "musical": "我的长腿叔叔",
+      "theatre": "上海兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/207712241_347641",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "张会芳"
+        },
+        {
+          "role": "Jervis",
+          "artist": "高杨"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-05 19:30",
+      "city": "上海",
+      "musical": "我，堂吉诃德",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_2880418774_abafb3d60010079sf.html",
+      "cast": [
+        {
+          "role": "Don Quixote",
+          "artist": "刘阳"
+        },
+        {
+          "role": "Aldonza",
+          "artist": "董碧涵"
+        },
+        {
+          "role": "Sancho",
+          "artist": "卞佳平"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-06 14:00",
+      "city": "上海",
+      "musical": "我的长腿叔叔",
+      "theatre": "上海兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/207712241_347641",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "张会芳"
+        },
+        {
+          "role": "Jervis",
+          "artist": "高杨"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-18 19:30",
+      "city": "北京",
+      "musical": "洗衣服",
+      "theatre": "剧空间剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.163.com/dy/article_cambrian/DI66608I0512A526.html",
+      "cast": [
+        {
+          "role": "Sol-long",
+          "artist": "周默涵"
+        },
+        {
+          "role": "Na-young",
+          "artist": "张芳瑜"
+        },
+        {
+          "role": "Hee-jung's Mom",
+          "artist": "杜鑫艳"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-18 19:30",
+      "city": "北京",
+      "musical": "洗衣服",
+      "theatre": "北京剧空间剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/233693062_405362",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "王雨姝"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "赵丹霓"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "刘晓燕"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-20 19:30",
+      "city": "北京",
+      "musical": "洗衣服",
+      "theatre": "北京剧空间剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/233693062_405362",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "王雨姝"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "赵丹霓"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "刘晓燕"
+        }
+      ]
+    },
+    {
+      "time": "2018-05-25 19:30",
+      "city": "上海",
+      "musical": "长腿叔叔",
+      "theatre": "兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/233326108_99944063/",
+      "cast": [
+        {
+          "role": "Jervis",
+          "artist": "丁辉"
+        },
+        {
+          "role": "Jerusha",
+          "artist": "陈希琰"
+        }
+      ]
+    },
+    {
+      "time": "2018-06-01 19:30",
+      "city": "上海",
+      "musical": "洗衣服",
+      "theatre": "上海兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/233693062_405362",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "张芳瑜"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "刘杨"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "杜鑫艳"
+        }
+      ]
+    },
+    {
+      "time": "2018-06-07 19:30",
+      "city": "上海",
+      "musical": "猫",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/38231472",
+      "cast": [
+        {
+          "role": "Grizabella",
+          "artist": "Joanna Ampil"
+        },
+        {
+          "role": "Rum Tum Tugger",
+          "artist": "George Ioannides"
+        }
+      ]
+    },
+    {
+      "time": "2018-06-08 19:30",
+      "city": "上海",
+      "musical": "周日恋曲",
+      "theatre": "美琪大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://music.china.com.cn/2018-03/29/content_40271873.htm",
+      "cast": [
+        {
+          "role": "Girl A",
+          "artist": "谭维维"
+        },
+        {
+          "role": "Girl B",
+          "artist": "娄艺潇"
+        }
+      ]
+    },
+    {
+      "time": "2018-06-15 19:30",
+      "city": "北京",
+      "musical": "我，堂吉诃德",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/235626285_548935/",
+      "cast": [
+        {
+          "role": "Don Quixote",
+          "artist": "刘阳"
+        },
+        {
+          "role": "Aldonza",
+          "artist": "董碧涵"
+        }
+      ]
+    },
+    {
+      "time": "2018-06-17 19:30",
+      "city": "上海",
+      "musical": "洗衣服",
+      "theatre": "上海兰心大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/233693062_405362",
+      "cast": [
+        {
+          "role": "娜英",
+          "artist": "张芳瑜"
+        },
+        {
+          "role": "松龙高",
+          "artist": "周默涵"
+        },
+        {
+          "role": "房东奶奶",
+          "artist": "刘杨"
+        },
+        {
+          "role": "熙贞妈妈",
+          "artist": "杜鑫艳"
+        }
+      ]
+    },
+    {
+      "time": "2018-06-30 19:30",
+      "city": "北京",
+      "musical": "我的长腿叔叔",
+      "theatre": "北京剧空间剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/243543149_580327",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "张会芳"
+        },
+        {
+          "role": "Jervis",
+          "artist": "丁辉"
+        }
+      ]
+    },
+    {
+      "time": "2018-07-20 19:30",
+      "city": "北京",
+      "musical": "我的长腿叔叔",
+      "theatre": "北京剧空间剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/242430012_100004574",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "陈希琰"
+        },
+        {
+          "role": "Jervis",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2018-07-20 19:30",
+      "city": "深圳",
+      "musical": "长腿叔叔",
+      "theatre": "南山文体中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/30129730/",
+      "cast": [
+        {
+          "role": "Jervis",
+          "artist": "高杨"
+        },
+        {
+          "role": "Jerusha",
+          "artist": "张会芳"
+        }
+      ]
+    },
+    {
+      "time": "2018-07-28 19:30",
+      "city": "北京",
+      "musical": "我变了我没变",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/242128444_157651/",
+      "cast": [
+        {
+          "role": "英俊 inside",
+          "artist": "苏晗"
+        },
+        {
+          "role": "大美",
+          "artist": "王美懿"
+        },
+        {
+          "role": "英俊 outside",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2018-07-29 14:30",
+      "city": "北京",
+      "musical": "我变了我没变",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/242128444_157651/",
+      "cast": [
+        {
+          "role": "英俊 inside",
+          "artist": "苏晗"
+        },
+        {
+          "role": "大美",
+          "artist": "王美懿"
+        },
+        {
+          "role": "英俊 outside",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2018-07-29 19:30",
+      "city": "北京",
+      "musical": "我的长腿叔叔",
+      "theatre": "北京剧空间剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/242430012_100004574",
+      "cast": [
+        {
+          "role": "Jerusha",
+          "artist": "赵晗君"
+        },
+        {
+          "role": "Jervis",
+          "artist": "丁辉"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-01 19:30",
+      "city": "北京",
+      "musical": "我变了我没变",
+      "theatre": "小柯剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/242128444_157651/",
+      "cast": [
+        {
+          "role": "英俊 inside",
+          "artist": "苏晗"
+        },
+        {
+          "role": "大美",
+          "artist": "王美懿"
+        },
+        {
+          "role": "英俊 outside",
+          "artist": "桑可舟"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-03 19:30",
+      "city": "北京",
+      "musical": "近乎正常",
+      "theatre": "大麦·超剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://news.qq.com/rain/a/2018080601366500",
+      "cast": [
+        {
+          "role": "Diana",
+          "artist": "杨竹青"
+        },
+        {
+          "role": "Gabe",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "Dan",
+          "artist": "赵禹钧"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-10 19:30",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海黄浦剧场-小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/238315776_309168",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "郭亢"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "蔡璐"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        },
+        {
+          "role": "Mandy",
+          "artist": "王湘怡"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-16 19:30",
+      "city": "上海",
+      "musical": "月亮和六便士",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/246145446_272883",
+      "cast": [
+        {
+          "role": "查尔斯·斯特里克兰德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "斯特里克兰德夫人",
+          "artist": "蒋倩如"
+        },
+        {
+          "role": "布兰琪",
+          "artist": "严雯"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-17 19:30",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海黄浦剧场-小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/238315776_309168",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "郭亢"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "蔡璐"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        },
+        {
+          "role": "Mandy",
+          "artist": "王湘怡"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-17 19:30",
+      "city": "上海",
+      "musical": "月亮和六便士",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/246145446_272883",
+      "cast": [
+        {
+          "role": "查尔斯·斯特里克兰德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "威廉",
+          "artist": "王杨"
+        },
+        {
+          "role": "爱塔",
+          "artist": "尉婧姝"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-18 19:30",
+      "city": "上海",
+      "musical": "月亮和六便士",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/246145446_272883",
+      "cast": [
+        {
+          "role": "查尔斯·斯特里克兰德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "上校夫人",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "理查德",
+          "artist": "周可人"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-19 19:30",
+      "city": "上海",
+      "musical": "如果",
+      "theatre": "上海黄浦剧场-小剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/238315776_309168",
+      "cast": [
+        {
+          "role": "刘牧",
+          "artist": "郭亢"
+        },
+        {
+          "role": "李雨墨",
+          "artist": "蔡璐"
+        },
+        {
+          "role": "余西",
+          "artist": "马良"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-25 19:30",
+      "city": "长沙",
+      "musical": "不能说的秘密",
+      "theatre": "湖南大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.ifeng.com/a/20180827/43093494_0.shtml",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "洪辰"
+        }
+      ]
+    },
+    {
+      "time": "2018-08-31 19:30",
+      "city": "南昌",
+      "musical": "不能说的秘密",
+      "theatre": "江西艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/242969947_727689/",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "洪辰"
+        }
+      ]
+    },
+    {
+      "time": "2018-09-21 19:30",
+      "city": "上海",
+      "musical": "悲惨世界(音乐会版)",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://encora-archive.github.io/encora.one/performance/les-miserables-shanghai-concert-september-23-2018-matinee.html",
+      "cast": [
+        {
+          "role": "Jean Valjean",
+          "artist": "Xavier Mauconduit"
+        },
+        {
+          "role": "Javert",
+          "artist": "Arnaud Masclet"
+        },
+        {
+          "role": "Fantine",
+          "artist": "Ita Graffin"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-03 19:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E4%BF%A1/23321672",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "王杨"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-04 19:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E4%BF%A1/23321672",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "王杨"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-05 19:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E4%BF%A1/23321672",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "王杨"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-06 19:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E4%BF%A1/23321672",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "王杨"
+        },
+        {
+          "role": "白石由美子",
+          "artist": "丁臻滢"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-07 14:30",
+      "city": "上海",
+      "musical": "信",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://baike.baidu.com/item/%E4%BF%A1/23321672",
+      "cast": [
+        {
+          "role": "武岛刚志",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "武岛直贵",
+          "artist": "王杨"
+        },
+        {
+          "role": "中条朝美",
+          "artist": "覃子瑄"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-10 19:30",
+      "city": "北京",
+      "musical": "芝加哥",
+      "theatre": "北京天桥艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/258300757_99901307/",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Jonathan Roxmouth"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-15 19:30",
+      "city": "上海",
+      "musical": "深夜食堂",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/20388073/",
+      "cast": [
+        {
+          "role": "老板",
+          "artist": "黄冠菘"
+        },
+        {
+          "role": "小寿寿",
+          "artist": "倪晔"
+        },
+        {
+          "role": "阿忠",
+          "artist": "连江维"
+        }
+      ]
+    },
+    {
+      "time": "2018-10-16 19:30",
+      "city": "上海",
+      "musical": "深夜食堂",
+      "theatre": "上海大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.douban.com/location/drama/20388073/",
+      "cast": [
+        {
+          "role": "老板",
+          "artist": "黄冠菘"
+        },
+        {
+          "role": "小寿寿",
+          "artist": "倪晔"
+        },
+        {
+          "role": "阿忠",
+          "artist": "连江维"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-08 19:30",
+      "city": "武汉",
+      "musical": "不能说的秘密",
+      "theatre": "琴台大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://m.toutiao.com/group/6621457494206054925/",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "洪辰"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-16 19:30",
+      "city": "上海",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://c.m.163.com/news/a/E0P3TML105383DAM.html",
+      "cast": [
+        {
+          "role": "Rachmaninoff",
+          "artist": "蒋奇明"
+        },
+        {
+          "role": "Nikolai Dahl",
+          "artist": "施哲明"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-20 19:30",
+      "city": "上海",
+      "musical": "拉赫玛尼诺夫",
+      "theatre": "上剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/276010736_803859/",
+      "cast": [
+        {
+          "role": "Rachmaninoff",
+          "artist": "周可人"
+        },
+        {
+          "role": "Nikolai Dahl",
+          "artist": "王培杰"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-22 19:30",
+      "city": "南昌",
+      "musical": "芝加哥",
+      "theatre": "江西艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/271756972_727689/",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Jonathan Roxmouth"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-23 19:30",
+      "city": "上海",
+      "musical": "近乎正常",
+      "theatre": "人民大舞台",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://card.weibo.com/article/m/show/id/2309404305490719977530",
+      "cast": [
+        {
+          "role": "Diana",
+          "artist": "朱芾"
+        },
+        {
+          "role": "Gabe",
+          "artist": "徐均朔"
+        },
+        {
+          "role": "Natalie",
+          "artist": "严中杰"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-30 19:30",
+      "city": "北京",
+      "musical": "乱世佳人",
+      "theatre": "北京展览馆剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://music.china.com.cn/2018-12/03/content_40600484.htm",
+      "cast": [
+        {
+          "role": "Scarlett O'Hara",
+          "artist": "Rachel Gold"
+        },
+        {
+          "role": "Rhett Butler",
+          "artist": "Eric Briarley"
+        },
+        {
+          "role": "Ashley Wilkes",
+          "artist": "Cyril Niccolai"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-30 19:30",
+      "city": "上海",
+      "musical": "白夜行",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_2695155",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "园村友彦",
+          "artist": "郑艺彬"
+        }
+      ]
+    },
+    {
+      "time": "2018-11-30 19:30",
+      "city": "重庆",
+      "musical": "谋杀歌谣",
+      "theatre": "重庆国泰艺术中心",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.huanghepiao.com/event/2605/",
+      "cast": [
+        {
+          "role": "Tom",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "Sara",
+          "artist": "徐丽东"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-05 19:30",
+      "city": "上海",
+      "musical": "兰波",
+      "theatre": "上海大剧院·别克中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/276039625_760269",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "瞿艺"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "张琛"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-06 19:30",
+      "city": "上海",
+      "musical": "兰波",
+      "theatre": "上海大剧院·别克中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/276039625_760269",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "瞿艺"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "张琛"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-06 19:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/279764305_629202/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "韩晶如"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "葛泽扬"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-06 19:30",
+      "city": "广州",
+      "musical": "芝加哥",
+      "theatre": "广州大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Pt411S7QN/",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Jonathan Roxmouth"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-07 19:30",
+      "city": "上海",
+      "musical": "兰波",
+      "theatre": "上海大剧院·别克中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/276039625_760269",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "瞿艺"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "张琛"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-07 19:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/279764305_629202/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "韩晶如"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "葛泽扬"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-08 14:30",
+      "city": "上海",
+      "musical": "兰波",
+      "theatre": "上海大剧院·别克中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/276039625_760269",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "赵骞"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "邵玎"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-08 14:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/279764305_629202/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "韩晶如"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "葛泽扬"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-08 19:30",
+      "city": "上海",
+      "musical": "兰波",
+      "theatre": "上海大剧院·别克中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/276039625_760269",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "赵骞"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "邵玎"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-08 19:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/279764305_629202/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "韩晶如"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "葛泽扬"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-09 14:30",
+      "city": "上海",
+      "musical": "兰波",
+      "theatre": "上海大剧院·别克中剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.sohu.com/a/276039625_760269",
+      "cast": [
+        {
+          "role": "兰波",
+          "artist": "瞿艺"
+        },
+        {
+          "role": "魏尔伦",
+          "artist": "孙豆尔"
+        },
+        {
+          "role": "德莱尔",
+          "artist": "张琛"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-09 14:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/279764305_629202/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "韩晶如"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "葛泽扬"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-09 19:30",
+      "city": "北京",
+      "musical": "求婚女王",
+      "theatre": "朝阳9剧场(行动剧场)",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/279764305_629202/",
+      "cast": [
+        {
+          "role": "杜胜男",
+          "artist": "韩晶如"
+        },
+        {
+          "role": "司仪/钢琴",
+          "artist": "葛泽扬"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-10 19:30",
+      "city": "上海",
+      "musical": "白夜行",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://y.saoju.net/yyj/musical/7/",
+      "cast": [
+        {
+          "role": "唐泽雪穗",
+          "artist": "韩雪"
+        },
+        {
+          "role": "桐原亮司",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "高宫诚",
+          "artist": "胡超政"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-20 19:30",
+      "city": "上海",
+      "musical": "芝加哥",
+      "theatre": "美琪大戏院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://www.chinawriter.com.cn/n1/2018/1221/c419389-30480522.html",
+      "cast": [
+        {
+          "role": "Roxie Hart",
+          "artist": "Carmen Pretorius"
+        },
+        {
+          "role": "Velma Kelly",
+          "artist": "Samantha Peo"
+        },
+        {
+          "role": "Billy Flynn",
+          "artist": "Jonathan Roxmouth"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-21 19:30",
+      "city": "北京",
+      "musical": "恋爱吧！人类",
+      "theatre": "地质礼堂开心麻花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/276490319_100119630/",
+      "cast": [
+        {
+          "role": "李浩民",
+          "artist": "郑云龙"
+        },
+        {
+          "role": "韩秋子",
+          "artist": "田依凡"
+        },
+        {
+          "role": "母猫Mary",
+          "artist": "戴滢"
+        },
+        {
+          "role": "公猫Simba",
+          "artist": "杨映宇"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-28 19:30",
+      "city": "上海",
+      "musical": "月亮和六便士",
+      "theatre": "上海ET聚场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/282721336_309168/",
+      "cast": [
+        {
+          "role": "查尔斯·斯特里克兰德",
+          "artist": "刘令飞"
+        },
+        {
+          "role": "斯特里克兰德夫人",
+          "artist": "蒋倩如"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-29 19:30",
+      "city": "上海",
+      "musical": "乱世佳人",
+      "theatre": "上汽·上海文化广场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://k.sina.cn/article_2683689883_9ff5db9b01900cyjb.html",
+      "cast": [
+        {
+          "role": "Scarlett O'Hara",
+          "artist": "Rachel Gold"
+        },
+        {
+          "role": "Rhett Butler",
+          "artist": "Eric Briarley"
+        },
+        {
+          "role": "Melanie Hamilton",
+          "artist": "Amy Vachal"
+        }
+      ]
+    },
+    {
+      "time": "2018-12-30 19:30",
+      "city": "佛山",
+      "musical": "不能说的秘密",
+      "theatre": "佛山琼花大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.sohu.com/a/278991791_660272/",
+      "cast": [
+        {
+          "role": "叶湘伦",
+          "artist": "曹杨"
+        },
+        {
+          "role": "路小雨",
+          "artist": "洪辰"
+        }
+      ]
+    }
+  ]
+}

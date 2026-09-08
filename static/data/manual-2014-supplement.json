@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2014,
+    "note": "2014 年缺口人工核验补录；仅纳入能确认日期/地点/剧目和主要卡司的公开记录。"
+  },
+  "shows": [
+    {
+      "time": "2014-08-28 19:30",
+      "city": "北京",
+      "musical": "番茄不简单",
+      "theatre": "护国寺西区剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://m.baike.com/wiki/%E5%86%92%E6%B5%B7%E9%A3%9E/20806173",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    },
+    {
+      "time": "2014-08-29 19:30",
+      "city": "北京",
+      "musical": "番茄不简单",
+      "theatre": "护国寺西区剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.ifeng.com/c/7dwbzXSSobX",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    },
+    {
+      "time": "2014-08-30 19:30",
+      "city": "北京",
+      "musical": "番茄不简单",
+      "theatre": "护国寺西区剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://ent.ifeng.com/c/7dwbzXSSobX",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    },
+    {
+      "time": "2014-10-10 19:30",
+      "city": "上海",
+      "musical": "番茄不简单",
+      "theatre": "上海茉莉花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://tasty.coollife.asia/news.aspx?id=2565",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    },
+    {
+      "time": "2014-10-17 19:30",
+      "city": "上海",
+      "musical": "番茄不简单",
+      "theatre": "上海茉莉花剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://tasty.coollife.asia/news.aspx?id=2565",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    },
+    {
+      "time": "2014-12-16 19:30",
+      "city": "北京",
+      "musical": "番茄不简单",
+      "theatre": "护国寺西区剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.sina.com.cn/j/operamusical/2014-12-15/doc-icesifvx6129363.shtml",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    },
+    {
+      "time": "2014-12-24 19:30",
+      "city": "北京",
+      "musical": "番茄不简单",
+      "theatre": "护国寺西区剧场",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "http://ent.sina.com.cn/j/operamusical/2014-12-15/doc-icesifvx6129363.shtml",
+      "cast": [
+        {
+          "role": "姚文涛",
+          "artist": "宗俊涛"
+        },
+        {
+          "role": "陆子皓",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "冯诺",
+          "artist": "于晓璘"
+        }
+      ]
+    }
+  ]
+}

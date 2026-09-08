@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "sourceType": "manual-verified-backfill",
+    "year": 2027,
+    "note": "2027 年缺口人工核验补录（含 y.saoju API 前瞻排期）。"
+  },
+  "shows": [
+    {
+      "time": "2027-01-09 19:30",
+      "city": "上海",
+      "musical": "弗兰肯斯坦",
+      "theatre": "北外滩友邦大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/38422/cast/",
+      "cast": [
+        {
+          "role": "维克多&雅克",
+          "artist": "钟舜傲"
+        },
+        {
+          "role": "亨利&怪物",
+          "artist": "张泽"
+        },
+        {
+          "role": "艾伦&伊娃",
+          "artist": "蒋倩如"
+        },
+        {
+          "role": "茱莉亚&凯瑟琳",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "龙格&伊戈尔",
+          "artist": "付翔"
+        },
+        {
+          "role": "斯蒂芬&费尔南多",
+          "artist": "赵禹钧"
+        }
+      ]
+    },
+    {
+      "time": "2027-01-10 14:00",
+      "city": "上海",
+      "musical": "弗兰肯斯坦",
+      "theatre": "北外滩友邦大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/38423/cast/",
+      "cast": [
+        {
+          "role": "维克多&雅克",
+          "artist": "马海生"
+        },
+        {
+          "role": "亨利&怪物",
+          "artist": "郑君炽"
+        },
+        {
+          "role": "艾伦&伊娃",
+          "artist": "蒋倩如"
+        },
+        {
+          "role": "茱莉亚&凯瑟琳",
+          "artist": "尼玛雍珠"
+        },
+        {
+          "role": "龙格&伊戈尔",
+          "artist": "翟松"
+        },
+        {
+          "role": "斯蒂芬&费尔南多",
+          "artist": "张光磊"
+        }
+      ]
+    },
+    {
+      "time": "2027-01-10 19:30",
+      "city": "上海",
+      "musical": "弗兰肯斯坦",
+      "theatre": "北外滩友邦大剧院",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/api/show/38424/cast/",
+      "cast": [
+        {
+          "role": "维克多&雅克",
+          "artist": "叶麒圣"
+        },
+        {
+          "role": "亨利&怪物",
+          "artist": "冒海飞"
+        },
+        {
+          "role": "艾伦&伊娃",
+          "artist": "刘浩冉"
+        },
+        {
+          "role": "茱莉亚&凯瑟琳",
+          "artist": "崔恩尔"
+        },
+        {
+          "role": "龙格&伊戈尔",
+          "artist": "翟松"
+        },
+        {
+          "role": "斯蒂芬&费尔南多",
+          "artist": "张光磊"
+        }
+      ]
+    }
+  ]
+}
