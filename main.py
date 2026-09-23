@@ -57,9 +57,14 @@ REFRESH_LOCK_FILE = TMP_DIR / "runtime-refresh.lock"
 REFRESH_LOG_FILE = TMP_DIR / "runtime-refresh.log"
 API_MAX_WORKERS = 32
 API_TIMEOUT_SECONDS = 20.0
-# 单次刷新总预算：给 BytFaaS 子进程留出安全时间；超时后 break 并合并已抓到的 shows。
-TIMEOUT_TOTAL_SECONDS = 180
+# 单次刷新总预算：GitHub Actions / 服务器端网络偶发较慢，
+# 预算过短会导致后续年份直接掉到 baseline 或被跳过。
+TIMEOUT_TOTAL_SECONDS = 600
 API_HEADERS = {"User-Agent": "Aime musical overlap public app/2.0"}
+# 对未来近期开票/换卡的场次，不能在命中旧 baseline 后立刻停止扫描，
+# 否则会漏掉“较早日期后来补录/改卡”的更新。
+INCREMENTAL_REFRESH_PAST_DAYS = 7
+INCREMENTAL_REFRESH_FUTURE_DAYS = 60
 ROLE_SPLIT_RE = re.compile(r"\s+")
 # 用于识别形如 "Chi Chi:xxx" / "Sonny Boy:xxx" / "El Gallo:xxx" 的多单词英文角色名。
 # CSV 中 role 与 artist 之间用空格分隔，但英文角色可能自带空格；
@@ -236,6 +241,15 @@ def beijing_date_key() -> str:
     return beijing_now().strftime("%Y-%m-%d")
 
 
+def parse_show_time_text(value: str) -> Optional[datetime]:
+    if not value:
+        return None
+    try:
+        return datetime.strptime(value, "%Y-%m-%d %H:%M")
+    except ValueError:
+        return None
+
+
 def parse_cast(cast_text: str) -> List[Dict[str, str]]:
     entries = []
     raw_tokens = [t for t in ROLE_SPLIT_RE.split((cast_text or "").strip()) if t]
@@ -348,18 +362,28 @@ def merge_backfill_file(file_path: Path, shows: List[Dict], artist_index: Dict[s
     except Exception as error:
         LOGGER.warning("Unable to read backfill file %s: %s", file_path, error)
         return 0
-    existing = {show_identity(show) for show in shows}
-    added = 0
+
+    # 人工核验补录按“同一时间/城市/剧目/剧场”覆盖旧库存，
+    # 以便修正换卡或旧缓存中的错误卡司，而不是只在 artist 集合完全不同的时候叠加一条。
+    position_to_index: Dict[str, int] = {
+        show_position_identity(show): idx for idx, show in enumerate(shows)
+    }
+    touched = 0
     for show in payload.get("shows", []):
         if not show.get("cast"):
             continue
-        identity = show_identity(show)
-        if identity in existing:
+        position_key = show_position_identity(show)
+        existing_index = position_to_index.get(position_key)
+        if existing_index is None:
+            shows.append(show)
+            position_to_index[position_key] = len(shows) - 1
+            touched += 1
             continue
-        add_show_to_indexes(show, shows, artist_index, artist_count)
-        existing.add(identity)
-        added += 1
-    return added
+        if show_identity(shows[existing_index]) == show_identity(show):
+            continue
+        shows[existing_index] = show
+        touched += 1
+    return touched
 
 
 def merge_manual_supplements(shows: List[Dict], artist_index: Dict[str, List[int]], artist_count: Dict[str, int]) -> Dict[str, int]:
@@ -578,13 +602,19 @@ def parse_api_year_incremental(
     maps: Dict[str, Dict],
     deadline_ts: float,
 ) -> Dict[str, Any]:
-    """增量拉取：按时间从新到旧，遇到已在库位置指纹立刻 break。
+    """增量拉取：
 
-    返回 {new_shows, scanned, total_candidates, stopped_at, truncated_by_timeout,
-          schedule_errors, cast_errors, first_new_time, last_new_time}。
+    - 对较远未来且已经存在于 baseline 的场次，只跳过，不让它们过早截断扫描；
+    - 对“近期开演窗口”内的场次，无论 baseline 是否已有，都会重新拉一次 cast 做对账；
+    - 仅在窗口之外回到历史区后，命中 baseline 才 break。
+
+    这样可以补到“较早日期后来补开/改卡”的更新，同时避免整年全量重扫。
     """
     year_prefix = str(year)
     baseline_positions = {show_position_identity(s) for s in baseline_shows_for_year}
+    now_bj = beijing_now()
+    refresh_window_start = now_bj - timedelta(days=INCREMENTAL_REFRESH_PAST_DAYS)
+    refresh_window_end = now_bj + timedelta(days=INCREMENTAL_REFRESH_FUTURE_DAYS)
 
     # 1) 汇总所有与目标年份有交集的 schedule。
     schedule_tasks: List[Dict[str, Any]] = []
@@ -636,13 +666,15 @@ def parse_api_year_incremental(
     # 3) 按时间从新到旧排序。
     ordered = sorted(show_meta.items(), key=lambda kv: kv[1][0], reverse=True)
 
-    # 4) 逐条判断位置指纹；命中基线立即 break。
-    new_shows: List[Dict[str, Any]] = []
+    # 4) 逐条判断位置指纹；窗口内强制重拉，窗口外保留增量 break 语义。
+    upsert_by_position: Dict[str, Dict[str, Any]] = {}
     scanned = 0
     stopped_at: Optional[str] = None
     cast_errors: List[Any] = []
     first_new_time: Optional[str] = None
     last_new_time: Optional[str] = None
+    refreshed_positions = 0
+    skipped_known_future_positions = 0
 
     for show_pk, (time_text, task) in ordered:
         if time.time() > deadline_ts:
@@ -650,9 +682,17 @@ def parse_api_year_incremental(
             break
         scanned += 1
         position_key = "|".join([time_text, task["city"], task["musical"], task["theatre"]])
-        if position_key in baseline_positions:
+        show_dt = parse_show_time_text(time_text)
+        in_refresh_window = bool(show_dt and refresh_window_start <= show_dt <= refresh_window_end)
+        future_outside_window = bool(show_dt and show_dt > refresh_window_end)
+
+        if future_outside_window and position_key in baseline_positions:
+            skipped_known_future_positions += 1
+            continue
+        if not in_refresh_window and not future_outside_window and position_key in baseline_positions:
             stopped_at = position_key
             break
+
         # 拉 cast
         try:
             items = fetch_json_with_httpx(f"{API_ROOT}/show/{show_pk}/cast/")
@@ -671,13 +711,19 @@ def parse_api_year_incremental(
             "cast": cast,
             "sourceType": "api-backfill",
         }
-        new_shows.append(show)
+        upsert_by_position[position_key] = show
+        if position_key in baseline_positions:
+            refreshed_positions += 1
+            continue
         if first_new_time is None:
             first_new_time = time_text
         last_new_time = time_text
 
+    new_shows = [show for position, show in upsert_by_position.items() if position not in baseline_positions]
+
     return {
         "new_shows": new_shows,
+        "upsert_shows": list(upsert_by_position.values()),
         "scanned": scanned,
         "total_candidates": len(ordered),
         "stopped_at": stopped_at,
@@ -687,6 +733,8 @@ def parse_api_year_incremental(
         "first_new_time": first_new_time,
         "last_new_time": last_new_time,
         "baseline_positions": len(baseline_positions),
+        "refreshed_positions": refreshed_positions,
+        "skipped_known_future_positions": skipped_known_future_positions,
     }
 
 
@@ -823,10 +871,12 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
     api_maps: Optional[Dict[str, Dict]] = None
     # 已经通过 CSV 成功装载的年份，不需要再走 baseline fallback。
     csv_loaded_years: set = set()
+    remaining_years_after_timeout: List[int] = []
 
-    for year in years:
+    for idx, year in enumerate(years):
         if time.time() > deadline_ts:
             LOGGER.warning("build_dataset_sync deadline exceeded before processing year %s", year)
+            remaining_years_after_timeout = years[idx:]
             break
 
         # === CSV 尝试（对所有年份都先尝试，成功即结束该年份处理）===
@@ -847,6 +897,14 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
 
         if year in API_BACKFILL_YEARS:
             year_baseline = baseline_by_year.get(year, [])
+            # 历史封存年份不再做整年 API 增量，直接沿用已验证 baseline，
+            # 避免把刷新预算耗在很久以前的年份上。
+            if year_baseline and year < beijing_now().year - 1:
+                for show in year_baseline:
+                    add_show_to_indexes(show, shows, artist_index, artist_count)
+                loaded_years.append(year)
+                year_sources[str(year)] = "baseline-frozen"
+                continue
             # 冷启动兜底：如果没有基线且是 2022，可以先尝试 search-day backfill。
             if not year_baseline and year == 2022:
                 file_added = merge_search_day_backfill(shows, artist_index, artist_count)
@@ -868,22 +926,30 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
                     "firstNewTime": result["first_new_time"],
                     "lastNewTime": result["last_new_time"],
                     "baselinePositions": result["baseline_positions"],
+                    "refreshedPositions": result["refreshed_positions"],
+                    "skippedKnownFuturePositions": result["skipped_known_future_positions"],
                     "scheduleErrors": result["schedule_errors"],
                     "castErrors": [(pk, err[:200]) for pk, err in result["cast_errors"]],
                 }
-                # 先把 baseline 的场次重新加回来（这年的现有数据保留）。
-                for show in year_baseline:
+                # 以 position 指纹为主做 upsert：窗口内允许 API 场次覆盖旧 baseline，
+                # 从而同步换卡/补开信息；其余 baseline 继续保留。
+                merged_year_shows: Dict[str, Dict] = {
+                    show_position_identity(show): show for show in year_baseline
+                }
+                for show in result["upsert_shows"]:
+                    merged_year_shows[show_position_identity(show)] = show
+                for show in sorted(
+                    merged_year_shows.values(),
+                    key=lambda item: (
+                        normalize_text(item.get("time")),
+                        normalize_text(item.get("musical")),
+                        normalize_text(item.get("city")),
+                        canonical_theatre(item.get("musical"), item.get("theatre")),
+                    ),
+                ):
                     add_show_to_indexes(show, shows, artist_index, artist_count)
-                # 再合并新增，注意去重（防止 baseline 里就已经有的完全一致 identity）。
-                existing_identity = {show_identity(s) for s in shows}
-                for show in result["new_shows"]:
-                    ident = show_identity(show)
-                    if ident in existing_identity:
-                        continue
-                    add_show_to_indexes(show, shows, artist_index, artist_count)
-                    existing_identity.add(ident)
                 loaded_years.append(year)
-                if year_baseline or result["new_shows"]:
+                if year_baseline or result["upsert_shows"]:
                     year_sources[str(year)] = "api-backfill"
                 else:
                     failed_years.append(year)
@@ -903,6 +969,19 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
             year_sources[str(year)] = "baseline-fallback"
         else:
             if year not in failed_years:
+                failed_years.append(year)
+
+    if remaining_years_after_timeout:
+        for year in remaining_years_after_timeout:
+            if year in loaded_years:
+                continue
+            year_baseline = baseline_by_year.get(year, [])
+            if year_baseline:
+                for show in year_baseline:
+                    add_show_to_indexes(show, shows, artist_index, artist_count)
+                loaded_years.append(year)
+                year_sources[str(year)] = "baseline-timeout-fallback"
+            elif year not in failed_years:
                 failed_years.append(year)
 
     manual_counts = merge_manual_supplements(shows, artist_index, artist_count)
