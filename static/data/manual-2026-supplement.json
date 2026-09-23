@@ -211355,6 +211355,28 @@
     },
     {
       "time": "2026-10-23 19:30",
+      "city": "广州",
+      "musical": "桑塔露琪亚",
+      "theatre": "桑塔露琪亚·广州馆",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/439/",
+      "cast": [
+        {
+          "role": "Stevie",
+          "artist": "曾阵"
+        },
+        {
+          "role": "Chi Chi",
+          "artist": "叶宇锋"
+        },
+        {
+          "role": "Sonny Boy",
+          "artist": "杨宇威"
+        }
+      ]
+    },
+    {
+      "time": "2026-10-23 19:30",
       "city": "杭州",
       "musical": "她对此感到厌烦",
       "theatre": "杭州金沙湖大剧院",
@@ -212642,6 +212664,28 @@
       ]
     },
     {
+      "time": "2026-10-29 19:30",
+      "city": "广州",
+      "musical": "阿波罗尼亚",
+      "theatre": "阿波罗尼亚·广州馆",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/41/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "武冠辰"
+        },
+        {
+          "role": "Oscar",
+          "artist": "宋周鑫"
+        },
+        {
+          "role": "Stevie",
+          "artist": "李坤嘉"
+        }
+      ]
+    },
+    {
       "time": "2026-10-30 19:30",
       "city": "上海",
       "musical": "冈格尼尔",
@@ -213036,6 +213080,28 @@
         {
           "role": "WITCH HUNTER",
           "artist": "付世刚"
+        }
+      ]
+    },
+    {
+      "time": "2026-10-31 14:30",
+      "city": "广州",
+      "musical": "桑塔露琪亚",
+      "theatre": "桑塔露琪亚·广州馆",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/439/",
+      "cast": [
+        {
+          "role": "Stevie",
+          "artist": "李坤嘉"
+        },
+        {
+          "role": "Chi Chi",
+          "artist": "宋周鑫"
+        },
+        {
+          "role": "Sonny Boy",
+          "artist": "武冠辰"
         }
       ]
     },
