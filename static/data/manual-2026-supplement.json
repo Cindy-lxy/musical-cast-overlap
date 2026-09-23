@@ -209860,6 +209860,28 @@
       ]
     },
     {
+      "time": "2026-10-17 14:30",
+      "city": "广州",
+      "musical": "阿波罗尼亚",
+      "theatre": "阿波罗尼亚·广州馆",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/41/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "王书琦"
+        },
+        {
+          "role": "Oscar",
+          "artist": "脱骁尧"
+        },
+        {
+          "role": "Stevie",
+          "artist": "邓欣锐"
+        }
+      ]
+    },
+    {
       "time": "2026-10-17 15:00",
       "city": "深圳",
       "musical": "HEDWIG海德薇",
@@ -210510,6 +210532,28 @@
         {
           "role": "里德",
           "artist": "胡星瑞"
+        }
+      ]
+    },
+    {
+      "time": "2026-10-18 14:30",
+      "city": "广州",
+      "musical": "阿波罗尼亚",
+      "theatre": "阿波罗尼亚·广州馆",
+      "sourceType": "manual-verified-backfill",
+      "sourceUrl": "https://y.saoju.net/yyj/tour/41/",
+      "cast": [
+        {
+          "role": "Richard",
+          "artist": "王书琦"
+        },
+        {
+          "role": "Oscar",
+          "artist": "脱骁尧"
+        },
+        {
+          "role": "Stevie",
+          "artist": "邓欣锐"
         }
       ]
     },
