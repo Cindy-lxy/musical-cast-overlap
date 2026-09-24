@@ -65,6 +65,11 @@ API_HEADERS = {"User-Agent": "Aime musical overlap public app/2.0"}
 # 否则会漏掉“较早日期后来补录/改卡”的更新。
 INCREMENTAL_REFRESH_PAST_DAYS = 7
 INCREMENTAL_REFRESH_FUTURE_DAYS = 60
+SEARCH_DAY_REFRESH_PAST_DAYS = 7
+SEARCH_DAY_REFRESH_FUTURE_DAYS = 120
+SEARCH_DAY_MAX_WORKERS = 16
+SEARCH_DAY_TIMEOUT_SECONDS = 20.0
+SEARCH_DAY_RETRIES = 3
 ROLE_SPLIT_RE = re.compile(r"\s+")
 # 用于识别形如 "Chi Chi:xxx" / "Sonny Boy:xxx" / "El Gallo:xxx" 的多单词英文角色名。
 # CSV 中 role 与 artist 之间用空格分隔，但英文角色可能自带空格；
@@ -121,7 +126,9 @@ def duplicate_preference_score(show: Dict) -> int:
     score = 0
     if "/api/show/" in source_url:
         score += 50
-    if source_type == "csv":
+    if source_type == "search-day-live":
+        score += 60
+    elif source_type == "csv":
         score += 40
     elif source_type == "api-backfill":
         score += 30
@@ -480,6 +487,181 @@ def fetch_json_with_httpx(url: str, retries: int = 3) -> Any:
     raise last_error or RuntimeError(f"Unable to fetch {url}")
 
 
+def is_pinned_manual_show(show: Dict) -> bool:
+    """保留真正人工核验的数据；批量 API 快照则允许被 search_day 新数据覆盖。"""
+    source_type = normalize_text(show.get("sourceType"))
+    source_url = normalize_text(show.get("sourceUrl"))
+    return source_type == "manual-verified-backfill" and "/api/show/" not in source_url
+
+
+def fetch_search_day_shows(
+    date_key: str,
+    timeout_seconds: float = SEARCH_DAY_TIMEOUT_SECONDS,
+    retries: int = SEARCH_DAY_RETRIES,
+) -> List[Dict]:
+    url = f"{API_ROOT}/search_day/?date={date_key}"
+    last_error: Optional[Exception] = None
+    payload: Any = None
+    for attempt in range(retries):
+        try:
+            request = urllib.request.Request(url, headers=API_HEADERS)
+            with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
+                payload = json.loads(response.read().decode("utf-8-sig"))
+            break
+        except Exception as error:
+            last_error = error
+            time.sleep(0.8 * (attempt + 1))
+    if payload is None:
+        raise last_error or RuntimeError(f"Unable to fetch {url}")
+    items = payload.get("show_list", []) if isinstance(payload, dict) else []
+    result: List[Dict] = []
+    for item in items:
+        time_part = normalize_text(item.get("time"))
+        city = normalize_text(item.get("city"))
+        musical = normalize_text(item.get("musical"))
+        theatre = normalize_text(item.get("theatre"))
+        cast = [
+            {
+                "role": normalize_text(entry.get("role")),
+                "artist": normalize_text(entry.get("artist")),
+            }
+            for entry in item.get("cast") or []
+            if normalize_text(entry.get("artist"))
+        ]
+        if not time_part or not city or not musical or not theatre or not cast:
+            continue
+        result.append({
+            "time": f"{date_key} {time_part}",
+            "city": city,
+            "musical": musical,
+            "theatre": theatre,
+            "sourceType": "search-day-live",
+            "sourceUrl": url,
+            "cast": cast,
+        })
+    return result
+
+
+def refresh_search_day_window(shows: List[Dict], now_bj: Optional[datetime] = None) -> Dict[str, Any]:
+    """以 search_day 为近期排期权威源，按自然日原子替换，失败日期沿用旧数据。"""
+    now_bj = now_bj or beijing_now()
+    start_day = (now_bj - timedelta(days=SEARCH_DAY_REFRESH_PAST_DAYS)).date()
+    end_day = (now_bj + timedelta(days=SEARCH_DAY_REFRESH_FUTURE_DAYS)).date()
+    total_days = (end_day - start_day).days + 1
+    date_keys = [
+        (start_day + timedelta(days=offset)).isoformat()
+        for offset in range(total_days)
+    ]
+
+    fetched_by_date: Dict[str, List[Dict]] = {}
+    errors: List[Any] = []
+
+    def fetch_one(date_key: str):
+        try:
+            return date_key, fetch_search_day_shows(date_key), None
+        except Exception as error:
+            return date_key, [], str(error)
+
+    with ThreadPoolExecutor(max_workers=SEARCH_DAY_MAX_WORKERS) as pool:
+        futures = [pool.submit(fetch_one, date_key) for date_key in date_keys]
+        for future in as_completed(futures):
+            date_key, day_shows, error = future.result()
+            if error:
+                errors.append((date_key, error[:200]))
+            else:
+                fetched_by_date[date_key] = day_shows
+
+    # 首轮失败日期用更低并发、更长超时再试，降低上游偶发超时造成的漏场。
+    if errors:
+        retry_dates = [date_key for date_key, _ in errors]
+        retry_errors: List[Any] = []
+
+        def retry_one(date_key: str):
+            try:
+                return date_key, fetch_search_day_shows(date_key, timeout_seconds=60.0, retries=2), None
+            except Exception as error:
+                return date_key, [], str(error)
+
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            futures = [pool.submit(retry_one, date_key) for date_key in retry_dates]
+            for future in as_completed(futures):
+                date_key, day_shows, error = future.result()
+                if error:
+                    retry_errors.append((date_key, error[:200]))
+                else:
+                    fetched_by_date[date_key] = day_shows
+        errors = retry_errors
+
+    successful_dates = set(fetched_by_date)
+    if not successful_dates:
+        return {
+            "window": [date_keys[0], date_keys[-1]],
+            "totalDays": total_days,
+            "fetchedDays": 0,
+            "failedDays": errors[:20],
+            "sourceShows": 0,
+            "addedPositions": 0,
+            "removedPositions": 0,
+            "changedPositions": 0,
+        }
+
+    old_window_by_position: Dict[str, Dict] = {}
+    pinned_manual_by_position: Dict[str, Dict] = {}
+    pinned_manual_by_loose: Dict[str, Dict] = {}
+    kept: List[Dict] = []
+    for show in shows:
+        show_date = normalize_text(show.get("time"))[:10]
+        if show_date not in successful_dates:
+            kept.append(show)
+            continue
+        position_key = show_position_identity(show)
+        old_window_by_position[position_key] = show
+        if is_pinned_manual_show(show):
+            pinned_manual_by_position[position_key] = show
+            pinned_manual_by_loose[show_loose_identity(show)] = show
+
+    refreshed_by_position: Dict[str, Dict] = {}
+    for date_key, day_shows in fetched_by_date.items():
+        for show in day_shows:
+            manual_show = pinned_manual_by_loose.get(show_loose_identity(show))
+            if manual_show is not None:
+                refreshed_by_position[show_position_identity(manual_show)] = manual_show
+            else:
+                refreshed_by_position[show_position_identity(show)] = show
+    # 明确人工核验项优先于 search_day；用于接口偶发漏场时兜底。
+    refreshed_by_position.update(pinned_manual_by_position)
+
+    old_positions = set(old_window_by_position)
+    new_positions = set(refreshed_by_position)
+    changed_positions = sum(
+        1
+        for position in old_positions.intersection(new_positions)
+        if show_identity(old_window_by_position[position]) != show_identity(refreshed_by_position[position])
+    )
+
+    refreshed = sorted(
+        refreshed_by_position.values(),
+        key=lambda item: (
+            normalize_text(item.get("time")),
+            normalize_text(item.get("city")),
+            normalize_text(item.get("musical")),
+            normalize_text(item.get("theatre")),
+        ),
+    )
+    shows[:] = kept + refreshed
+
+    return {
+        "window": [date_keys[0], date_keys[-1]],
+        "totalDays": total_days,
+        "fetchedDays": len(successful_dates),
+        "failedDays": errors[:20],
+        "sourceShows": sum(len(items) for items in fetched_by_date.values()),
+        "addedPositions": len(new_positions - old_positions),
+        "removedPositions": len(old_positions - new_positions),
+        "changedPositions": changed_positions,
+    }
+
+
 def build_show_cast_from_refs(cast_refs: List[int], maps: Dict[str, Dict]) -> List[Dict[str, str]]:
     cast = []
     for ref_pk in cast_refs:
@@ -587,12 +769,21 @@ def parse_api_year(year: int, shows: List[Dict], artist_index: Dict[str, List[in
 
 
 def show_position_identity(show: Dict) -> str:
-    """位置指纹：不含 cast，用于判断 API 拉回来的场次是否已在库存中。"""
+    """位置指纹：不含 cast，用于判断同一场次及执行覆盖更新。"""
     return "|".join([
-        (show.get("time") or "").strip(),
-        (show.get("city") or "").strip(),
-        (show.get("musical") or "").strip(),
-        (show.get("theatre") or "").strip(),
+        normalize_text(show.get("time")),
+        normalize_text(show.get("city")),
+        normalize_text(show.get("musical")),
+        canonical_theatre(show.get("musical"), show.get("theatre")),
+    ])
+
+
+def show_loose_identity(show: Dict) -> str:
+    """宽松指纹：仅用于识别同时间/城市/剧目的剧场命名差异。"""
+    return "|".join([
+        normalize_text(show.get("time")),
+        normalize_text(show.get("city")),
+        normalize_text(show.get("musical")),
     ])
 
 
@@ -879,7 +1070,15 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
             remaining_years_after_timeout = years[idx:]
             break
 
-        # === CSV 尝试（对所有年份都先尝试，成功即结束该年份处理）===
+        year_baseline = baseline_by_year.get(year, [])
+        if year_baseline:
+            for show in year_baseline:
+                add_show_to_indexes(show, shows, artist_index, artist_count)
+            loaded_years.append(year)
+            year_sources[str(year)] = "baseline+search-day" if year >= beijing_now().year else "baseline-frozen"
+            continue
+
+        # === CSV 尝试：仅冷启动/缺失年份需要全量下载 ===
         csv_success = False
         try:
             added = parse_csv_year(year, shows, artist_index, artist_count)
@@ -897,13 +1096,13 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
 
         if year in API_BACKFILL_YEARS:
             year_baseline = baseline_by_year.get(year, [])
-            # 历史封存年份不再做整年 API 增量，直接沿用已验证 baseline，
-            # 避免把刷新预算耗在很久以前的年份上。
-            if year_baseline and year < beijing_now().year - 1:
+            # 稳态构建直接沿用已验证 baseline；近期排期统一在后续 search_day 阶段刷新。
+            # 只有冷启动且没有 baseline 时，才启用较重的 schedule/show API 回填。
+            if year_baseline:
                 for show in year_baseline:
                     add_show_to_indexes(show, shows, artist_index, artist_count)
                 loaded_years.append(year)
-                year_sources[str(year)] = "baseline-frozen"
+                year_sources[str(year)] = "baseline+search-day" if year >= beijing_now().year else "baseline-frozen"
                 continue
             # 冷启动兜底：如果没有基线且是 2022，可以先尝试 search-day backfill。
             if not year_baseline and year == 2022:
@@ -991,6 +1190,9 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
             loaded_years.append(year_int)
         year_sources[f"{year}_manual_verified"] = f"{count} shows"
 
+    # search_day 是近期排期的轻量权威源：逐日原子刷新，失败日期保留旧数据。
+    search_day_stats = refresh_search_day_window(shows)
+
     if not shows:
         if _DATA_CACHE is not None:
             return _DATA_CACHE
@@ -1026,8 +1228,9 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
             "artistCount": len(artists),
             "updatedAt": beijing_now().isoformat(timespec="seconds"),
             "cacheKey": today_key,
-            "refreshPolicy": "服务端会保留最近一次成功缓存；每天北京时间 0 点后第一位访问者会触发一次后台更新，更新完成后当天其余访问都直接复用新缓存。",
+            "refreshPolicy": "每天构建时全量刷新近 180 天 search_day 排期；单日失败沿用旧数据，人工核验项优先。",
             "incrementalStats": incremental_stats,
+            "searchDayStats": search_day_stats,
         },
         "artists": artists,
         "artistLookup": artist_lookup,
