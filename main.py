@@ -63,9 +63,9 @@ TIMEOUT_TOTAL_SECONDS = 600
 API_HEADERS = {"User-Agent": "Aime musical overlap public app/2.0"}
 # 对未来近期开票/换卡的场次，不能在命中旧 baseline 后立刻停止扫描，
 # 否则会漏掉“较早日期后来补录/改卡”的更新。
-INCREMENTAL_REFRESH_PAST_DAYS = 7
+INCREMENTAL_REFRESH_PAST_DAYS = 30
 INCREMENTAL_REFRESH_FUTURE_DAYS = 60
-SEARCH_DAY_REFRESH_PAST_DAYS = 7
+SEARCH_DAY_REFRESH_PAST_DAYS = 30
 SEARCH_DAY_REFRESH_FUTURE_DAYS = 120
 SEARCH_DAY_MAX_WORKERS = 16
 SEARCH_DAY_TIMEOUT_SECONDS = 20.0
@@ -126,7 +126,9 @@ def duplicate_preference_score(show: Dict) -> int:
     score = 0
     if "/api/show/" in source_url:
         score += 50
-    if source_type == "search-day-live":
+    if source_type == "manual-verified-backfill":
+        score += 100
+    elif source_type == "search-day-live":
         score += 60
     elif source_type == "csv":
         score += 40
@@ -134,8 +136,6 @@ def duplicate_preference_score(show: Dict) -> int:
         score += 30
     elif source_type == "search-day-backfill":
         score += 20
-    elif source_type == "manual-verified-backfill":
-        score += 10
     score += min(len(show.get("cast") or []), 20)
     return score
 
@@ -488,10 +488,8 @@ def fetch_json_with_httpx(url: str, retries: int = 3) -> Any:
 
 
 def is_pinned_manual_show(show: Dict) -> bool:
-    """保留真正人工核验的数据；批量 API 快照则允许被 search_day 新数据覆盖。"""
-    source_type = normalize_text(show.get("sourceType"))
-    source_url = normalize_text(show.get("sourceUrl"))
-    return source_type == "manual-verified-backfill" and "/api/show/" not in source_url
+    """人工核验数据始终优先；sourceUrl 只作为证据链接，不改变人工属性。"""
+    return normalize_text(show.get("sourceType")) == "manual-verified-backfill"
 
 
 def fetch_search_day_shows(
@@ -552,13 +550,30 @@ def refresh_search_day_window(shows: List[Dict], now_bj: Optional[datetime] = No
         (start_day + timedelta(days=offset)).isoformat()
         for offset in range(total_days)
     ]
+    date_key_set = set(date_keys)
+    existing_counts_by_date: Dict[str, int] = {}
+    for show in shows:
+        show_date = normalize_text(show.get("time"))[:10]
+        if show_date in date_key_set:
+            existing_counts_by_date[show_date] = existing_counts_by_date.get(show_date, 0) + 1
 
     fetched_by_date: Dict[str, List[Dict]] = {}
     errors: List[Any] = []
 
+    def validate_day_result(date_key: str, day_shows: List[Dict]) -> List[Dict]:
+        # 上游偶发会 HTTP 200 但返回空列表。若该日原本有演出，宁可保留旧数据并
+        # 将该日标记为失败，也不能把整天的数据误删；真正的全日撤场需人工确认。
+        if not day_shows and existing_counts_by_date.get(date_key, 0):
+            raise RuntimeError(
+                f"suspicious empty search_day response for {date_key}; "
+                f"preserving {existing_counts_by_date[date_key]} existing shows"
+            )
+        return day_shows
+
     def fetch_one(date_key: str):
         try:
-            return date_key, fetch_search_day_shows(date_key), None
+            day_shows = fetch_search_day_shows(date_key)
+            return date_key, validate_day_result(date_key, day_shows), None
         except Exception as error:
             return date_key, [], str(error)
 
@@ -578,7 +593,8 @@ def refresh_search_day_window(shows: List[Dict], now_bj: Optional[datetime] = No
 
         def retry_one(date_key: str):
             try:
-                return date_key, fetch_search_day_shows(date_key, timeout_seconds=60.0, retries=2), None
+                day_shows = fetch_search_day_shows(date_key, timeout_seconds=60.0, retries=2)
+                return date_key, validate_day_result(date_key, day_shows), None
             except Exception as error:
                 return date_key, [], str(error)
 
@@ -607,7 +623,7 @@ def refresh_search_day_window(shows: List[Dict], now_bj: Optional[datetime] = No
 
     old_window_by_position: Dict[str, Dict] = {}
     pinned_manual_by_position: Dict[str, Dict] = {}
-    pinned_manual_by_loose: Dict[str, Dict] = {}
+    pinned_manual_by_loose: Dict[str, List[Dict]] = {}
     kept: List[Dict] = []
     for show in shows:
         show_date = normalize_text(show.get("time"))[:10]
@@ -618,16 +634,28 @@ def refresh_search_day_window(shows: List[Dict], now_bj: Optional[datetime] = No
         old_window_by_position[position_key] = show
         if is_pinned_manual_show(show):
             pinned_manual_by_position[position_key] = show
-            pinned_manual_by_loose[show_loose_identity(show)] = show
+            pinned_manual_by_loose.setdefault(show_loose_identity(show), []).append(show)
+
+    source_loose_counts: Dict[str, int] = {}
+    for day_shows in fetched_by_date.values():
+        for show in day_shows:
+            loose_key = show_loose_identity(show)
+            source_loose_counts[loose_key] = source_loose_counts.get(loose_key, 0) + 1
 
     refreshed_by_position: Dict[str, Dict] = {}
     for date_key, day_shows in fetched_by_date.items():
         for show in day_shows:
-            manual_show = pinned_manual_by_loose.get(show_loose_identity(show))
+            position_key = show_position_identity(show)
+            manual_show = pinned_manual_by_position.get(position_key)
+            if manual_show is None:
+                loose_key = show_loose_identity(show)
+                loose_candidates = pinned_manual_by_loose.get(loose_key, [])
+                if len(loose_candidates) == 1 and source_loose_counts.get(loose_key) == 1:
+                    manual_show = loose_candidates[0]
             if manual_show is not None:
                 refreshed_by_position[show_position_identity(manual_show)] = manual_show
             else:
-                refreshed_by_position[show_position_identity(show)] = show
+                refreshed_by_position[position_key] = show
     # 明确人工核验项优先于 search_day；用于接口偶发漏场时兜底。
     refreshed_by_position.update(pinned_manual_by_position)
 
@@ -1228,7 +1256,7 @@ def build_dataset_sync(today_key: Optional[str] = None) -> Dict:
             "artistCount": len(artists),
             "updatedAt": beijing_now().isoformat(timespec="seconds"),
             "cacheKey": today_key,
-            "refreshPolicy": "每天构建时全量刷新近 180 天 search_day 排期；单日失败沿用旧数据，人工核验项优先。",
+            "refreshPolicy": "每天构建时全量刷新近 30 天至未来 120 天 search_day 排期；单日失败沿用旧数据，人工核验项优先。",
             "incrementalStats": incremental_stats,
             "searchDayStats": search_day_stats,
         },
