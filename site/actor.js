@@ -84,7 +84,7 @@ function computeMusicalGroups(actor) {
   }
   const result = [];
   for (const [musical, shows] of groups.entries()) {
-    shows.sort((a, b) => (a.time || '').localeCompare(b.time || ''));
+    shows.sort((a, b) => (b.time || '').localeCompare(a.time || ''));
     const dates = shows.map((s) => (s.time || '').slice(0, 10)).filter(Boolean).sort();
     const cities = new Set(shows.map((s) => s.city).filter(Boolean));
     const theatres = new Set(shows.map((s) => s.theatre).filter(Boolean));
