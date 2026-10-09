@@ -61,7 +61,7 @@ class SearchDayRefreshTests(unittest.TestCase):
             "musical": "测试剧",
             "theatre": "测试剧院中剧场",
             "sourceType": "manual-verified-backfill",
-            "sourceUrl": "https://y.saoju.net/yyj/tour/1/",
+            "sourceUrl": "https://y.saoju.net/yyj/api/show/123/cast/",
             "cast": [{"role": "A", "artist": "人工确认演员"}],
         }
         shows = [manual_show]
@@ -83,6 +83,44 @@ class SearchDayRefreshTests(unittest.TestCase):
 
         self.assertEqual(len(shows), 1)
         self.assertEqual(shows[0]["cast"][0]["artist"], "人工确认演员")
+
+    def test_empty_success_response_preserves_existing_day(self):
+        shows = [
+            {
+                "time": "2026-09-23 19:30",
+                "city": "上海",
+                "musical": "测试剧",
+                "theatre": "测试剧场",
+                "sourceType": "search-day-live",
+                "sourceUrl": "https://example.invalid/old",
+                "cast": [{"role": "A", "artist": "保留演员"}],
+            }
+        ]
+
+        with patch.object(main, "SEARCH_DAY_REFRESH_PAST_DAYS", 0), \
+             patch.object(main, "SEARCH_DAY_REFRESH_FUTURE_DAYS", 0), \
+             patch.object(main, "fetch_search_day_shows", return_value=[]):
+            stats = main.refresh_search_day_window(shows, datetime(2026, 9, 23, 12, 0))
+
+        self.assertEqual(len(shows), 1)
+        self.assertEqual(shows[0]["cast"][0]["artist"], "保留演员")
+        self.assertEqual(stats["fetchedDays"], 0)
+        self.assertEqual(len(stats["failedDays"]), 1)
+        self.assertIn("suspicious empty", stats["failedDays"][0][1])
+
+    def test_manual_verified_source_has_highest_duplicate_preference(self):
+        manual = {
+            "sourceType": "manual-verified-backfill",
+            "sourceUrl": "https://y.saoju.net/yyj/api/show/123/cast/",
+            "cast": [{"role": "A", "artist": "演员"}],
+        }
+        live = {
+            "sourceType": "search-day-live",
+            "sourceUrl": "https://y.saoju.net/yyj/api/search_day/",
+            "cast": [{"role": "A", "artist": "演员"}],
+        }
+        self.assertGreater(main.duplicate_preference_score(manual), main.duplicate_preference_score(live))
+        self.assertTrue(main.is_pinned_manual_show(manual))
 
 
 if __name__ == "__main__":
