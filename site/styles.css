@@ -399,6 +399,11 @@ footer { width: min(1180px, calc(100% - 32px)); margin: 0 auto 34px; color: rgba
   grid-template-columns: 1fr;
 }
 
+.sort-controls {
+  max-width: 280px;
+  margin-top: 18px;
+}
+
 .hint code {
   padding: 2px 6px;
   border-radius: 6px;

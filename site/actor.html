@@ -18,7 +18,7 @@
 
     <section class="hero">
       <h1>演员剧目场次</h1>
-      <p>输入 1 位演员，查看 TA 参演过的所有剧目、每部戏的场次数、以及每一场的时间 / 剧场 / 城市 / 角色。剧目默认按场次数从多到少排列。</p>
+      <p>输入 1 位演员，查看 TA 参演过的所有剧目、每部戏的场次数、以及每一场的时间 / 剧场 / 城市 / 角色。剧目支持按场次数或首次演出时间排序。</p>
       <div class="hero__meta">
         <span id="coverageText">正在读取数据…</span>
         <span id="showCountText">—</span>
@@ -37,6 +37,16 @@
       <div class="actions">
         <button id="searchBtn" type="button">查询剧目与场次</button>
         <button id="clearBtn" type="button" class="secondary">清空</button>
+      </div>
+      <div class="sort-controls" aria-label="剧目排序">
+        <label>
+          <span>剧目排序</span>
+          <select id="musicalSortOrder">
+            <option value="count-desc">场次数从多到少</option>
+            <option value="first-asc">首次演出从早到晚</option>
+            <option value="first-desc">首次演出从晚到早</option>
+          </select>
+        </label>
       </div>
       <p class="hint">支持精确姓名，也支持在输入框候选中点击补全。URL 上带 <code>?actor=阿云嘎</code> 可直接查询。</p>
       <div id="status" class="status" role="status"></div>

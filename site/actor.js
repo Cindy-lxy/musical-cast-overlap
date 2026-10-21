@@ -5,6 +5,7 @@ const state = {
   data: null,
   currentActor: null,
   expanded: new Set(),
+  musicalSortOrder: 'count-desc',
 };
 
 const $ = (id) => document.getElementById(id);
@@ -86,19 +87,40 @@ function computeMusicalGroups(actor) {
   for (const [musical, shows] of groups.entries()) {
     shows.sort((a, b) => (b.time || '').localeCompare(a.time || ''));
     const dates = shows.map((s) => (s.time || '').slice(0, 10)).filter(Boolean).sort();
+    const firstDate = dates[0] || '';
+    const lastDate = dates[dates.length - 1] || '';
     const cities = new Set(shows.map((s) => s.city).filter(Boolean));
     const theatres = new Set(shows.map((s) => s.theatre).filter(Boolean));
     result.push({
       musical,
       shows,
       count: shows.length,
+      firstDate,
+      lastDate,
       dateRange: dates.length ? [dates[0], dates[dates.length - 1]] : null,
       cities: [...cities],
       theatres: [...theatres],
     });
   }
-  result.sort((a, b) => b.count - a.count || a.musical.localeCompare(b.musical, 'zh-CN'));
+  sortMusicalGroups(result);
   return result;
+}
+
+function sortMusicalGroups(groups) {
+  const order = state.musicalSortOrder || 'count-desc';
+  groups.sort((a, b) => {
+    if (order === 'first-asc') {
+      return (a.firstDate || '9999-99-99').localeCompare(b.firstDate || '9999-99-99')
+        || b.count - a.count
+        || a.musical.localeCompare(b.musical, 'zh-CN');
+    }
+    if (order === 'first-desc') {
+      return (b.firstDate || '').localeCompare(a.firstDate || '')
+        || b.count - a.count
+        || a.musical.localeCompare(b.musical, 'zh-CN');
+    }
+    return b.count - a.count || a.musical.localeCompare(b.musical, 'zh-CN');
+  });
 }
 
 function renderSummary(actor, groups) {
@@ -182,6 +204,16 @@ function updateUrl(actor) {
   window.history.replaceState({}, '', url.toString());
 }
 
+function renderActorResult(actor) {
+  const groups = computeMusicalGroups(actor);
+  $('resultPanel').classList.remove('hidden');
+  renderSummary(actor, groups);
+  renderMusicalGroups(actor, groups);
+  setStatus(groups.length
+    ? `已生成 ${actor} 的剧目场次（共 ${groups.length} 部剧，${groups.reduce((s, g) => s + g.count, 0)} 场）。`
+    : `${actor} 在当前数据里暂时没有可展示的场次。`);
+}
+
 function runSearch(rawInput) {
   if (!state.data) return;
   const raw = (rawInput ?? $('actor').value ?? '').trim();
@@ -197,15 +229,9 @@ function runSearch(rawInput) {
   }
   state.currentActor = artist;
   state.expanded = new Set();
-  const groups = computeMusicalGroups(artist);
   $('actor').value = artist;
   updateUrl(artist);
-  $('resultPanel').classList.remove('hidden');
-  renderSummary(artist, groups);
-  renderMusicalGroups(artist, groups);
-  setStatus(groups.length
-    ? `已生成 ${artist} 的剧目场次（共 ${groups.length} 部剧，${groups.reduce((s, g) => s + g.count, 0)} 场）。`
-    : `${artist} 在当前数据里暂时没有可展示的场次。`);
+  renderActorResult(artist);
 }
 
 function applyDataset(data, sourceLabel) {
@@ -254,6 +280,10 @@ function setup() {
   });
   $('actor').addEventListener('keydown', (event) => {
     if (event.key === 'Enter') runSearch();
+  });
+  $('musicalSortOrder').addEventListener('change', (event) => {
+    state.musicalSortOrder = event.target.value;
+    if (state.currentActor) renderActorResult(state.currentActor);
   });
   loadData();
 }
