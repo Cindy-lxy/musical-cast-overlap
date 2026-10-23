@@ -237,8 +237,7 @@ function runSearch(rawInput) {
 function applyDataset(data, sourceLabel) {
   state.data = data;
   const meta = data.meta || {};
-  const years = Array.isArray(meta.years) ? meta.years : [];
-  $('coverageText').textContent = years.length ? `覆盖：${years.join('、')} 年` : '覆盖：—';
+  $('coverageText').textContent = '2022 年之前数据源不准，可能有缺漏，请见谅';
   $('showCountText').textContent = `${(data.shows || []).length.toLocaleString('zh-CN')} 场演出，${(data.artists || []).length.toLocaleString('zh-CN')} 位演员`;
   const updatedAt = meta.updatedAt || '刚刚';
   const sourceNote = sourceLabel ? `（${sourceLabel}）` : '';
