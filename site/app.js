@@ -335,7 +335,7 @@ const LOCAL_DATA = './data.json';
 
 function applyDataset(data, sourceLabel) {
   state.data = data;
-  $('coverageText').textContent = `覆盖：${data.meta.years.join('、')} 年`;
+  $('coverageText').textContent = '2022 年之前数据源不准，可能有缺漏，请见谅';
   $('showCountText').textContent = `${data.shows.length.toLocaleString('zh-CN')} 场演出，${data.artists.length.toLocaleString('zh-CN')} 位演员`;
   const updatedAt = data.meta.updatedAt || '刚刚';
   $('updateText').textContent = `数据更新时间：${updatedAt}（${sourceLabel}）`;
